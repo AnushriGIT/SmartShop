@@ -1,0 +1,5 @@
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+markers = [
+    "integration: requires a live PostgreSQL instance (docker compose up -d postgres)",
+]

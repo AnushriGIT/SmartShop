@@ -1,0 +1,2001 @@
+id,name,brand,category,price,description,stock,rating
+SP0001,Mobile Z,TechCo,smartphone,588.48,Smartphone with 5G connectivity.,43,4.0
+LP0002,Ultra Thin,TechCo,laptop,372.5,17 inch laptop featuring latest processor.,160,3.7
+TV0003,Ultra TV,CinemaCo,smart_tv,545.86,40 inch smart TV with 4K resolution.,174,3.5
+SP0004,SmartPhone Y,RivalTech,smartphone,413.39,Smartphone with long-lasting battery.,63,4.5
+TV0005,SmartView TV,UltraVision,smart_tv,2773.94,50 inch smart TV with HDR support.,94,0.0
+SP0006,Maxi Phone,TechCo,smartphone,710.62,Smartphone with long-lasting battery.,177,4.0
+LP0007,Econo Note,UltraComp,laptop,635.3,14 inch laptop featuring latest processor.,112,4.0
+LP0008,Ultra Thin,UltraComp,laptop,1394.93,14 inch laptop featuring high performance graphics.,126,3.9
+TV0009,Ultra TV,Spectra,smart_tv,2530.98,40 inch smart TV with sleek design.,159,4.5
+TV0010,Vivid TV,UltraVision,smart_tv,526.24,50 inch smart TV with sleek design.,31,0.0
+TV0011,Vivid TV,UltraVision,smart_tv,2513.21,50 inch smart TV with smart connectivity.,96,3.5
+SPK0012,SoundWave,SoundCo,speaker,318.19,Speaker delivering compact design.,75,4.2
+LP0013,Pro Book,EconCo,laptop,1411.14,13.3 inch laptop featuring lightweight design.,75,4.0
+SPK0014,Bass Boost,BassLine,speaker,360.73,Speaker delivering wireless connectivity.,71,0.0
+SPK0015,SoundWave,BeatBox,speaker,251.33,Speaker delivering crystal clear sound.,4,4.2
+TV0016,Vivid TV,ViewTech,smart_tv,2917.72,65 inch smart TV with smart connectivity.,55,4.0
+SPK0017,Bass Boost,BassLine,speaker,370.11,Speaker delivering compact design.,66,4.5
+LP0018,Performance Pro,UltraComp,laptop,610.84,15.6 inch laptop featuring high performance graphics.,156,4.2
+SPK0019,BoomBox,AudioMax,speaker,480.53,Speaker delivering compact design.,121,3.8
+LP0020,Ultra Thin,EconCo,laptop,919.37,13.3 inch laptop featuring lightweight design.,5,3.7
+SPK0021,BoomBox,SoundCo,speaker,236.29,Speaker delivering deep bass.,185,0.0
+SPK0022,ClearSound,BeatBox,speaker,74.3,Speaker delivering compact design.,116,3.5
+LP0023,Econo Note,UltraComp,laptop,1483.36,17 inch laptop featuring latest processor.,182,3.7
+SP0024,Mobile Z,TechCo,smartphone,803.19,Smartphone with advanced camera system.,178,4.0
+TV0025,SmartView TV,ViewTech,smart_tv,2992.62,50 inch smart TV with HDR support.,192,4.0
+LP0026,Pro Book,EconCo,laptop,1149.8,17 inch laptop featuring long battery life.,108,4.8
+SPK0027,BoomBox,BassLine,speaker,50.36,Speaker delivering deep bass.,94,4.1
+TV0028,Infinity TV,UltraVision,smart_tv,528.29,75 inch smart TV with smart connectivity.,36,3.0
+LP0029,Business Mate,EconCo,laptop,1342.56,17 inch laptop featuring high performance graphics.,6,4.8
+TV0030,Vivid TV,ViewTech,smart_tv,484.61,50 inch smart TV with 4K resolution.,29,0.0
+LP0031,Pro Book,NextGen,laptop,627.16,13.3 inch laptop featuring high performance graphics.,150,5.0
+SP0032,SmartPhone Y,Futura,smartphone,1137.71,Smartphone with vivid display.,16,0.0
+SPK0033,Bass Boost,BeatBox,speaker,393.27,Speaker delivering compact design.,96,4.5
+SPK0034,SoundWave,AudioMax,speaker,472.24,Speaker delivering compact design.,24,4.5
+TV0035,SmartView TV,UltraVision,smart_tv,2761.51,55 inch smart TV with smart connectivity.,63,0.0
+SP0036,SmartPhone X,NextCom,smartphone,936.91,Smartphone with 5G connectivity.,68,4.0
+SP0037,Maxi Phone,Futura,smartphone,665.62,Smartphone with long-lasting battery.,133,3.8
+TV0038,Ultra TV,Spectra,smart_tv,664.31,50 inch smart TV with 4K resolution.,166,4.2
+SP0039,Maxi Phone,TechCo,smartphone,371.01,Smartphone with long-lasting battery.,124,0.0
+TV0040,SmartView TV,CinemaCo,smart_tv,613.07,55 inch smart TV with sleek design.,139,3.5
+LP0041,Business Mate,NextGen,laptop,1940.69,14 inch laptop featuring high performance graphics.,118,5.0
+SPK0042,Bass Boost,SoundCo,speaker,327.65,Speaker delivering crystal clear sound.,195,4.0
+SPK0043,Bass Boost,BassLine,speaker,469.59,Speaker delivering wireless connectivity.,13,0.0
+SP0044,SmartPhone Y,TechCo,smartphone,241.33,Smartphone with advanced camera system.,21,3.0
+SP0045,SmartPhone Y,RivalTech,smartphone,833.02,Smartphone with 5G connectivity.,168,4.1
+TV0046,Vivid TV,UltraVision,smart_tv,1316.7,50 inch smart TV with smart connectivity.,11,4.5
+LP0047,Econo Note,EconCo,laptop,941.04,14 inch laptop featuring latest processor.,194,4.0
+SP0048,Maxi Phone,TechCo,smartphone,1133.25,Smartphone with vivid display.,116,4.0
+SPK0049,ClearSound,AudioMax,speaker,453.83,Speaker delivering deep bass.,162,3.8
+LP0050,Econo Note,UltraComp,laptop,879.72,15.6 inch laptop featuring lightweight design.,119,4.2
+LP0051,Ultra Thin,NextGen,laptop,1892.26,15.6 inch laptop featuring latest processor.,49,4.0
+TV0052,Ultra TV,ViewTech,smart_tv,1763.06,75 inch smart TV with 4K resolution.,74,3.8
+LP0053,Econo Note,EconCo,laptop,1833.87,13.3 inch laptop featuring latest processor.,25,4.2
+SP0054,SmartPhone Y,NextCom,smartphone,1059.38,Smartphone with vivid display.,59,5.0
+LP0055,Business Mate,EconCo,laptop,1422.94,17 inch laptop featuring high performance graphics.,82,3.9
+SPK0056,BoomBox,AudioMax,speaker,162.76,Speaker delivering compact design.,149,4.4
+LP0057,Pro Book,NextGen,laptop,1351.16,15.6 inch laptop featuring latest processor.,176,4.8
+TV0058,Infinity TV,CinemaCo,smart_tv,1769.88,65 inch smart TV with sleek design.,158,3.8
+SPK0059,Audio Pro,SoundCo,speaker,82.75,Speaker delivering compact design.,61,4.2
+SP0060,SmartPhone X,Futura,smartphone,1025.81,Smartphone with 5G connectivity.,111,4.3
+TV0061,SmartView TV,CinemaCo,smart_tv,1301.98,50 inch smart TV with 4K resolution.,132,3.5
+SP0062,Maxi Phone,NextCom,smartphone,605.48,Smartphone with long-lasting battery.,162,3.7
+TV0063,SmartView TV,ViewTech,smart_tv,1493.11,40 inch smart TV with smart connectivity.,173,3.9
+LP0064,Econo Note,EconCo,laptop,1183.88,15.6 inch laptop featuring high performance graphics.,174,4.0
+TV0065,Ultra TV,CinemaCo,smart_tv,2716.17,40 inch smart TV with smart connectivity.,78,3.9
+LP0066,Business Mate,UltraComp,laptop,859.39,17 inch laptop featuring high performance graphics.,137,4.0
+SP0067,SmartPhone X,RivalTech,smartphone,903.01,Smartphone with advanced camera system.,191,5.0
+LP0068,Econo Note,NextGen,laptop,473.07,17 inch laptop featuring lightweight design.,120,3.8
+SP0069,SmartPhone X,RivalTech,smartphone,777.35,Smartphone with 5G connectivity.,117,4.0
+LP0070,Pro Book,TechCo,laptop,1605.65,17 inch laptop featuring high performance graphics.,187,3.9
+SPK0071,ClearSound,SoundCo,speaker,245.31,Speaker delivering deep bass.,129,4.5
+LP0072,Ultra Thin,TechCo,laptop,367.89,14 inch laptop featuring long battery life.,182,3.8
+TV0073,SmartView TV,ViewTech,smart_tv,843.45,50 inch smart TV with 4K resolution.,127,4.8
+SPK0074,ClearSound,AudioMax,speaker,52.19,Speaker delivering deep bass.,108,3.8
+TV0075,Infinity TV,Spectra,smart_tv,487.04,50 inch smart TV with smart connectivity.,56,4.0
+TV0076,SmartView TV,UltraVision,smart_tv,1992.21,55 inch smart TV with HDR support.,102,3.5
+TV0077,Ultra TV,UltraVision,smart_tv,1308.69,50 inch smart TV with 4K resolution.,16,0.0
+LP0078,Econo Note,NextGen,laptop,591.89,13.3 inch laptop featuring lightweight design.,123,0.0
+LP0079,Performance Pro,TechCo,laptop,1355.12,15.6 inch laptop featuring long battery life.,1,4.0
+SP0080,Fusion Phone,TechCo,smartphone,974.33,Smartphone with vivid display.,191,4.0
+SP0081,Maxi Phone,NextCom,smartphone,1154.11,Smartphone with 5G connectivity.,95,3.8
+SPK0082,ClearSound,BassLine,speaker,291.25,Speaker delivering crystal clear sound.,76,4.2
+SPK0083,BoomBox,SoundCo,speaker,64.63,Speaker delivering compact design.,81,0.0
+TV0084,Ultra TV,Spectra,smart_tv,793.43,65 inch smart TV with sleek design.,68,4.0
+TV0085,Vivid TV,ViewTech,smart_tv,1156.65,50 inch smart TV with 4K resolution.,59,4.5
+TV0086,Cinema TV,ViewTech,smart_tv,955.35,40 inch smart TV with smart connectivity.,56,0.0
+SPK0087,SoundWave,AudioMax,speaker,393.65,Speaker delivering crystal clear sound.,116,4.2
+SP0088,Fusion Phone,NextCom,smartphone,350.5,Smartphone with advanced camera system.,179,4.3
+TV0089,Infinity TV,UltraVision,smart_tv,1829.36,55 inch smart TV with sleek design.,57,3.5
+SPK0090,ClearSound,SoundCo,speaker,103.53,Speaker delivering crystal clear sound.,10,4.0
+LP0091,Ultra Thin,TechCo,laptop,1934.63,13.3 inch laptop featuring high performance graphics.,49,4.3
+SPK0092,BoomBox,BeatBox,speaker,264.73,Speaker delivering compact design.,85,3.5
+TV0093,Cinema TV,Spectra,smart_tv,2276.61,40 inch smart TV with smart connectivity.,136,4.2
+SPK0094,ClearSound,BeatBox,speaker,372.14,Speaker delivering wireless connectivity.,21,3.8
+SPK0095,SoundWave,AudioMax,speaker,366.56,Speaker delivering compact design.,173,0.0
+SPK0096,ClearSound,AudioMax,speaker,114.46,Speaker delivering wireless connectivity.,188,4.2
+SP0097,Fusion Phone,TechCo,smartphone,872.09,Smartphone with long-lasting battery.,20,3.5
+SP0098,Mobile Z,RivalTech,smartphone,514.29,Smartphone with long-lasting battery.,155,3.0
+SP0099,Mobile Z,TechCo,smartphone,886.15,Smartphone with vivid display.,116,3.2
+SP0100,SmartPhone X,TechCo,smartphone,942.6,Smartphone with 5G connectivity.,109,0.0
+SPK0101,SoundWave,BeatBox,speaker,456.97,Speaker delivering deep bass.,142,3.8
+SPK0102,BoomBox,BassLine,speaker,263.14,Speaker delivering crystal clear sound.,121,4.5
+LP0103,Econo Note,UltraComp,laptop,1183.73,15.6 inch laptop featuring lightweight design.,84,4.0
+LP0104,Pro Book,EconCo,laptop,615.1,17 inch laptop featuring high performance graphics.,12,3.2
+SPK0105,Audio Pro,BeatBox,speaker,169.57,Speaker delivering deep bass.,142,3.7
+LP0106,Business Mate,UltraComp,laptop,1103.34,13.3 inch laptop featuring high performance graphics.,89,4.0
+SPK0107,ClearSound,AudioMax,speaker,404.51,Speaker delivering crystal clear sound.,131,0.0
+TV0108,Infinity TV,Spectra,smart_tv,355.49,65 inch smart TV with 4K resolution.,160,4.0
+SPK0109,Bass Boost,BassLine,speaker,451.82,Speaker delivering deep bass.,148,3.5
+SP0110,Maxi Phone,NextCom,smartphone,679.74,Smartphone with 5G connectivity.,90,4.0
+SPK0111,Audio Pro,BeatBox,speaker,186.98,Speaker delivering compact design.,53,4.0
+LP0112,Econo Note,EconCo,laptop,639.69,14 inch laptop featuring lightweight design.,129,3.7
+LP0113,Econo Note,UltraComp,laptop,659.47,14 inch laptop featuring lightweight design.,86,3.8
+LP0114,Econo Note,UltraComp,laptop,476.44,14 inch laptop featuring long battery life.,20,0.0
+SPK0115,Audio Pro,BassLine,speaker,196.28,Speaker delivering wireless connectivity.,162,3.7
+TV0116,Infinity TV,UltraVision,smart_tv,476.33,50 inch smart TV with smart connectivity.,59,0.0
+SP0117,SmartPhone Y,TechCo,smartphone,886.92,Smartphone with 5G connectivity.,54,0.0
+SP0118,SmartPhone X,RivalTech,smartphone,370.48,Smartphone with vivid display.,104,5.0
+LP0119,Ultra Thin,UltraComp,laptop,1985.44,15.6 inch laptop featuring high performance graphics.,6,4.2
+SP0120,SmartPhone X,Futura,smartphone,1028.91,Smartphone with vivid display.,7,0.0
+LP0121,Ultra Thin,UltraComp,laptop,476.78,15.6 inch laptop featuring lightweight design.,72,3.8
+SP0122,SmartPhone X,Futura,smartphone,1086.53,Smartphone with long-lasting battery.,138,4.0
+TV0123,Infinity TV,UltraVision,smart_tv,1718.18,55 inch smart TV with sleek design.,150,4.4
+TV0124,Cinema TV,Spectra,smart_tv,2116.03,55 inch smart TV with HDR support.,150,4.5
+TV0125,Cinema TV,UltraVision,smart_tv,2579.04,65 inch smart TV with sleek design.,200,4.0
+SP0126,Maxi Phone,Futura,smartphone,383.67,Smartphone with vivid display.,192,3.9
+LP0127,Ultra Thin,UltraComp,laptop,322.91,17 inch laptop featuring lightweight design.,38,0.0
+TV0128,Ultra TV,Spectra,smart_tv,2341.91,65 inch smart TV with sleek design.,46,3.5
+TV0129,Cinema TV,Spectra,smart_tv,619.33,75 inch smart TV with smart connectivity.,39,4.2
+SPK0130,ClearSound,SoundCo,speaker,287.58,Speaker delivering compact design.,168,4.0
+SP0131,Mobile Z,TechCo,smartphone,270.26,Smartphone with vivid display.,157,4.5
+TV0132,Cinema TV,ViewTech,smart_tv,1577.76,65 inch smart TV with sleek design.,64,0.0
+LP0133,Pro Book,EconCo,laptop,1501.85,17 inch laptop featuring lightweight design.,132,0.0
+SPK0134,BoomBox,AudioMax,speaker,84.8,Speaker delivering crystal clear sound.,4,4.0
+SPK0135,Bass Boost,BeatBox,speaker,317.71,Speaker delivering deep bass.,59,4.0
+SPK0136,Bass Boost,AudioMax,speaker,157.72,Speaker delivering compact design.,124,3.8
+TV0137,Infinity TV,UltraVision,smart_tv,1737.36,55 inch smart TV with smart connectivity.,188,3.5
+SPK0138,Audio Pro,SoundCo,speaker,376.33,Speaker delivering deep bass.,54,0.0
+SPK0139,ClearSound,BeatBox,speaker,223.71,Speaker delivering crystal clear sound.,67,4.0
+LP0140,Econo Note,UltraComp,laptop,1951.68,14 inch laptop featuring latest processor.,33,4.3
+LP0141,Ultra Thin,TechCo,laptop,1210.68,14 inch laptop featuring long battery life.,163,5.0
+SPK0142,Bass Boost,SoundCo,speaker,206.08,Speaker delivering wireless connectivity.,109,0.0
+TV0143,Vivid TV,UltraVision,smart_tv,671.52,50 inch smart TV with sleek design.,187,3.5
+LP0144,Ultra Thin,UltraComp,laptop,1223.08,15.6 inch laptop featuring lightweight design.,162,0.0
+SPK0145,Audio Pro,BassLine,speaker,54.39,Speaker delivering compact design.,172,3.8
+SP0146,Maxi Phone,RivalTech,smartphone,1106.98,Smartphone with long-lasting battery.,69,3.5
+SP0147,Mobile Z,NextCom,smartphone,736.41,Smartphone with 5G connectivity.,60,4.0
+TV0148,Cinema TV,Spectra,smart_tv,316.72,55 inch smart TV with HDR support.,43,0.0
+SP0149,SmartPhone Y,NextCom,smartphone,1073.04,Smartphone with vivid display.,77,3.8
+LP0150,Business Mate,TechCo,laptop,1477.51,13.3 inch laptop featuring latest processor.,124,3.5
+TV0151,Cinema TV,Spectra,smart_tv,2577.78,65 inch smart TV with HDR support.,172,4.2
+LP0152,Performance Pro,TechCo,laptop,408.21,14 inch laptop featuring high performance graphics.,94,4.3
+LP0153,Pro Book,UltraComp,laptop,874.6,17 inch laptop featuring high performance graphics.,76,4.0
+SP0154,Fusion Phone,NextCom,smartphone,1085.51,Smartphone with advanced camera system.,35,5.0
+LP0155,Ultra Thin,TechCo,laptop,1143.94,13.3 inch laptop featuring high performance graphics.,151,3.5
+SPK0156,Bass Boost,SoundCo,speaker,145.65,Speaker delivering deep bass.,35,3.5
+TV0157,Ultra TV,ViewTech,smart_tv,2050.45,40 inch smart TV with smart connectivity.,159,3.6
+TV0158,SmartView TV,CinemaCo,smart_tv,2640.4,65 inch smart TV with 4K resolution.,4,0.0
+LP0159,Business Mate,EconCo,laptop,1276.22,17 inch laptop featuring lightweight design.,94,4.0
+SPK0160,ClearSound,SoundCo,speaker,250.0,Speaker delivering compact design.,40,4.2
+LP0161,Pro Book,NextGen,laptop,1237.22,14 inch laptop featuring latest processor.,77,4.2
+SP0162,Fusion Phone,NextCom,smartphone,379.75,Smartphone with 5G connectivity.,128,3.2
+SPK0163,BoomBox,BeatBox,speaker,477.74,Speaker delivering wireless connectivity.,88,4.0
+LP0164,Econo Note,UltraComp,laptop,1694.4,13.3 inch laptop featuring long battery life.,84,5.0
+SP0165,SmartPhone Y,NextCom,smartphone,542.91,Smartphone with 5G connectivity.,141,0.0
+LP0166,Business Mate,EconCo,laptop,1017.63,15.6 inch laptop featuring high performance graphics.,106,4.5
+LP0167,Pro Book,TechCo,laptop,599.19,13.3 inch laptop featuring lightweight design.,143,4.0
+LP0168,Business Mate,NextGen,laptop,1641.44,17 inch laptop featuring high performance graphics.,197,4.5
+LP0169,Pro Book,TechCo,laptop,1571.48,14 inch laptop featuring long battery life.,35,3.8
+LP0170,Econo Note,UltraComp,laptop,502.01,17 inch laptop featuring high performance graphics.,194,4.5
+SPK0171,Audio Pro,SoundCo,speaker,135.72,Speaker delivering wireless connectivity.,114,3.7
+TV0172,Ultra TV,ViewTech,smart_tv,953.46,65 inch smart TV with 4K resolution.,78,3.8
+SPK0173,ClearSound,AudioMax,speaker,123.21,Speaker delivering wireless connectivity.,67,4.1
+LP0174,Performance Pro,NextGen,laptop,1596.03,14 inch laptop featuring high performance graphics.,173,5.0
+LP0175,Performance Pro,NextGen,laptop,1348.87,14 inch laptop featuring lightweight design.,139,0.0
+LP0176,Business Mate,NextGen,laptop,1826.54,15.6 inch laptop featuring long battery life.,77,3.5
+TV0177,Vivid TV,UltraVision,smart_tv,2833.2,55 inch smart TV with HDR support.,44,3.5
+LP0178,Pro Book,NextGen,laptop,1183.53,14 inch laptop featuring long battery life.,40,4.0
+LP0179,Econo Note,NextGen,laptop,1703.49,15.6 inch laptop featuring lightweight design.,10,3.8
+SPK0180,Bass Boost,BassLine,speaker,84.68,Speaker delivering crystal clear sound.,103,4.2
+SP0181,Mobile Z,Futura,smartphone,352.77,Smartphone with 5G connectivity.,162,3.5
+LP0182,Performance Pro,EconCo,laptop,548.79,15.6 inch laptop featuring long battery life.,149,4.1
+TV0183,Ultra TV,Spectra,smart_tv,2843.68,50 inch smart TV with 4K resolution.,144,4.2
+TV0184,SmartView TV,UltraVision,smart_tv,748.56,55 inch smart TV with smart connectivity.,128,4.2
+TV0185,SmartView TV,CinemaCo,smart_tv,1461.07,55 inch smart TV with HDR support.,62,3.7
+SP0186,Mobile Z,RivalTech,smartphone,321.05,Smartphone with vivid display.,58,4.0
+SPK0187,ClearSound,SoundCo,speaker,418.2,Speaker delivering wireless connectivity.,169,4.8
+LP0188,Pro Book,TechCo,laptop,1845.92,13.3 inch laptop featuring lightweight design.,72,3.8
+LP0189,Business Mate,EconCo,laptop,1274.71,15.6 inch laptop featuring high performance graphics.,178,3.5
+SP0190,Maxi Phone,Futura,smartphone,285.06,Smartphone with 5G connectivity.,149,4.3
+TV0191,Infinity TV,CinemaCo,smart_tv,1761.18,65 inch smart TV with HDR support.,80,3.8
+LP0192,Econo Note,NextGen,laptop,1389.92,13.3 inch laptop featuring lightweight design.,65,0.0
+TV0193,SmartView TV,UltraVision,smart_tv,2265.98,65 inch smart TV with smart connectivity.,100,0.0
+LP0194,Pro Book,NextGen,laptop,1490.05,15.6 inch laptop featuring long battery life.,179,3.8
+LP0195,Econo Note,NextGen,laptop,1527.26,15.6 inch laptop featuring latest processor.,128,5.0
+SPK0196,BoomBox,BeatBox,speaker,228.88,Speaker delivering compact design.,121,3.8
+SPK0197,Audio Pro,BassLine,speaker,219.73,Speaker delivering wireless connectivity.,16,4.5
+SPK0198,ClearSound,BassLine,speaker,451.49,Speaker delivering deep bass.,64,0.0
+TV0199,Infinity TV,UltraVision,smart_tv,1489.69,55 inch smart TV with smart connectivity.,137,3.2
+SPK0200,SoundWave,AudioMax,speaker,370.27,Speaker delivering compact design.,192,4.2
+TV0201,Infinity TV,Spectra,smart_tv,2124.89,65 inch smart TV with HDR support.,134,3.5
+SP0202,Maxi Phone,Futura,smartphone,540.71,Smartphone with advanced camera system.,192,4.0
+SP0203,Fusion Phone,NextCom,smartphone,615.27,Smartphone with long-lasting battery.,79,3.2
+TV0204,Vivid TV,UltraVision,smart_tv,310.4,40 inch smart TV with HDR support.,93,4.0
+SPK0205,BoomBox,BassLine,speaker,221.42,Speaker delivering crystal clear sound.,163,3.5
+LP0206,Econo Note,NextGen,laptop,1313.07,14 inch laptop featuring high performance graphics.,72,3.8
+SP0207,Maxi Phone,TechCo,smartphone,516.84,Smartphone with long-lasting battery.,44,3.8
+SPK0208,Bass Boost,AudioMax,speaker,288.84,Speaker delivering compact design.,55,4.1
+SP0209,Mobile Z,TechCo,smartphone,626.82,Smartphone with 5G connectivity.,177,4.0
+SPK0210,SoundWave,SoundCo,speaker,126.24,Speaker delivering deep bass.,94,4.2
+SPK0211,BoomBox,SoundCo,speaker,124.15,Speaker delivering crystal clear sound.,101,0.0
+TV0212,Cinema TV,CinemaCo,smart_tv,1794.48,75 inch smart TV with 4K resolution.,42,4.0
+TV0213,Vivid TV,Spectra,smart_tv,809.7,40 inch smart TV with 4K resolution.,189,3.6
+SP0214,SmartPhone Y,RivalTech,smartphone,862.82,Smartphone with vivid display.,143,4.2
+TV0215,Infinity TV,ViewTech,smart_tv,1200.84,65 inch smart TV with 4K resolution.,116,3.5
+SP0216,Fusion Phone,Futura,smartphone,228.04,Smartphone with long-lasting battery.,123,5.0
+LP0217,Performance Pro,UltraComp,laptop,1958.05,17 inch laptop featuring lightweight design.,166,4.0
+SP0218,Fusion Phone,TechCo,smartphone,991.92,Smartphone with vivid display.,143,4.0
+SP0219,SmartPhone Y,RivalTech,smartphone,329.81,Smartphone with advanced camera system.,5,3.7
+SPK0220,Bass Boost,BeatBox,speaker,174.43,Speaker delivering crystal clear sound.,120,3.7
+TV0221,Infinity TV,UltraVision,smart_tv,1913.96,75 inch smart TV with smart connectivity.,185,4.5
+SPK0222,Audio Pro,BeatBox,speaker,374.77,Speaker delivering compact design.,192,0.0
+SP0223,Mobile Z,NextCom,smartphone,1139.95,Smartphone with vivid display.,110,4.5
+SPK0224,Audio Pro,AudioMax,speaker,97.16,Speaker delivering deep bass.,37,3.5
+SPK0225,Audio Pro,SoundCo,speaker,398.07,Speaker delivering compact design.,13,3.8
+SPK0226,BoomBox,BeatBox,speaker,415.14,Speaker delivering wireless connectivity.,91,4.2
+LP0227,Business Mate,NextGen,laptop,1698.34,15.6 inch laptop featuring lightweight design.,139,3.8
+SP0228,SmartPhone X,RivalTech,smartphone,733.19,Smartphone with advanced camera system.,8,4.3
+SP0229,Mobile Z,TechCo,smartphone,232.35,Smartphone with 5G connectivity.,63,3.5
+SP0230,Fusion Phone,NextCom,smartphone,1041.7,Smartphone with advanced camera system.,1,4.5
+TV0231,SmartView TV,Spectra,smart_tv,2487.58,55 inch smart TV with 4K resolution.,92,4.2
+LP0232,Ultra Thin,TechCo,laptop,803.08,14 inch laptop featuring high performance graphics.,93,0.0
+TV0233,Ultra TV,CinemaCo,smart_tv,2041.26,75 inch smart TV with HDR support.,130,4.0
+SPK0234,Audio Pro,AudioMax,speaker,128.85,Speaker delivering compact design.,52,3.5
+SP0235,Mobile Z,Futura,smartphone,491.51,Smartphone with long-lasting battery.,65,3.8
+SP0236,SmartPhone X,Futura,smartphone,995.25,Smartphone with vivid display.,18,3.9
+SP0237,SmartPhone Y,RivalTech,smartphone,1025.45,Smartphone with advanced camera system.,92,4.4
+LP0238,Econo Note,EconCo,laptop,525.19,14 inch laptop featuring long battery life.,113,4.0
+SPK0239,Audio Pro,BeatBox,speaker,200.39,Speaker delivering deep bass.,187,4.2
+LP0240,Econo Note,UltraComp,laptop,1385.08,17 inch laptop featuring high performance graphics.,200,4.5
+SPK0241,Bass Boost,BassLine,speaker,94.33,Speaker delivering compact design.,92,3.2
+SP0242,Fusion Phone,TechCo,smartphone,842.19,Smartphone with long-lasting battery.,136,4.0
+LP0243,Business Mate,UltraComp,laptop,996.67,13.3 inch laptop featuring high performance graphics.,145,4.2
+SP0244,SmartPhone Y,RivalTech,smartphone,419.37,Smartphone with advanced camera system.,183,4.2
+TV0245,SmartView TV,ViewTech,smart_tv,1775.62,55 inch smart TV with 4K resolution.,155,3.3
+TV0246,Ultra TV,UltraVision,smart_tv,1542.0,75 inch smart TV with sleek design.,179,3.0
+LP0247,Business Mate,TechCo,laptop,737.35,14 inch laptop featuring long battery life.,121,0.0
+SP0248,Mobile Z,Futura,smartphone,867.98,Smartphone with advanced camera system.,111,3.7
+SP0249,SmartPhone Y,RivalTech,smartphone,700.64,Smartphone with advanced camera system.,99,4.2
+TV0250,Cinema TV,ViewTech,smart_tv,1449.64,65 inch smart TV with sleek design.,45,0.0
+SP0251,Fusion Phone,RivalTech,smartphone,661.21,Smartphone with advanced camera system.,109,3.8
+SP0252,Fusion Phone,TechCo,smartphone,1146.28,Smartphone with 5G connectivity.,6,4.2
+SPK0253,BoomBox,SoundCo,speaker,170.68,Speaker delivering compact design.,81,4.2
+LP0254,Performance Pro,EconCo,laptop,1591.94,14 inch laptop featuring long battery life.,8,4.0
+LP0255,Performance Pro,EconCo,laptop,1015.75,14 inch laptop featuring long battery life.,81,4.0
+TV0256,Ultra TV,CinemaCo,smart_tv,901.11,50 inch smart TV with 4K resolution.,6,3.8
+SP0257,Maxi Phone,Futura,smartphone,412.67,Smartphone with long-lasting battery.,127,3.8
+SP0258,Maxi Phone,RivalTech,smartphone,1125.05,Smartphone with 5G connectivity.,120,4.0
+LP0259,Business Mate,EconCo,laptop,1435.31,14 inch laptop featuring lightweight design.,18,3.0
+LP0260,Business Mate,TechCo,laptop,1470.41,13.3 inch laptop featuring high performance graphics.,109,4.7
+TV0261,Cinema TV,Spectra,smart_tv,2955.71,65 inch smart TV with HDR support.,194,4.2
+SP0262,SmartPhone Y,NextCom,smartphone,545.16,Smartphone with 5G connectivity.,81,3.5
+TV0263,Vivid TV,ViewTech,smart_tv,2472.89,50 inch smart TV with HDR support.,43,4.0
+SPK0264,SoundWave,BassLine,speaker,412.42,Speaker delivering deep bass.,2,4.7
+SPK0265,BoomBox,BassLine,speaker,435.82,Speaker delivering wireless connectivity.,87,4.0
+TV0266,Vivid TV,ViewTech,smart_tv,2782.64,40 inch smart TV with sleek design.,109,3.8
+TV0267,SmartView TV,Spectra,smart_tv,2846.23,75 inch smart TV with 4K resolution.,45,3.8
+LP0268,Ultra Thin,NextGen,laptop,1964.15,15.6 inch laptop featuring latest processor.,0,5.0
+SPK0269,SoundWave,SoundCo,speaker,167.31,Speaker delivering wireless connectivity.,108,0.0
+LP0270,Performance Pro,EconCo,laptop,1139.29,14 inch laptop featuring high performance graphics.,133,3.2
+LP0271,Ultra Thin,EconCo,laptop,1910.64,17 inch laptop featuring lightweight design.,103,4.3
+TV0272,Ultra TV,ViewTech,smart_tv,494.47,65 inch smart TV with HDR support.,19,4.0
+LP0273,Performance Pro,TechCo,laptop,940.67,17 inch laptop featuring lightweight design.,56,3.5
+SP0274,SmartPhone X,RivalTech,smartphone,597.63,Smartphone with vivid display.,47,4.0
+TV0275,SmartView TV,Spectra,smart_tv,1488.93,75 inch smart TV with HDR support.,119,0.0
+SPK0276,SoundWave,AudioMax,speaker,199.21,Speaker delivering compact design.,178,3.5
+TV0277,Infinity TV,Spectra,smart_tv,2664.85,55 inch smart TV with smart connectivity.,29,4.1
+SPK0278,Bass Boost,SoundCo,speaker,58.92,Speaker delivering compact design.,89,3.5
+SP0279,Mobile Z,TechCo,smartphone,380.31,Smartphone with vivid display.,11,4.5
+LP0280,Econo Note,NextGen,laptop,1676.28,15.6 inch laptop featuring high performance graphics.,51,0.0
+SPK0281,SoundWave,SoundCo,speaker,352.81,Speaker delivering crystal clear sound.,22,3.7
+TV0282,Infinity TV,UltraVision,smart_tv,2594.48,75 inch smart TV with sleek design.,97,0.0
+TV0283,Cinema TV,CinemaCo,smart_tv,2990.18,40 inch smart TV with smart connectivity.,15,3.5
+SPK0284,Bass Boost,AudioMax,speaker,499.76,Speaker delivering compact design.,102,4.2
+SP0285,SmartPhone X,Futura,smartphone,299.12,Smartphone with 5G connectivity.,102,4.2
+SP0286,SmartPhone Y,Futura,smartphone,1034.04,Smartphone with 5G connectivity.,7,3.5
+SP0287,SmartPhone X,NextCom,smartphone,309.98,Smartphone with 5G connectivity.,64,3.8
+SP0288,Maxi Phone,Futura,smartphone,356.9,Smartphone with 5G connectivity.,63,4.1
+SP0289,SmartPhone Y,Futura,smartphone,1064.77,Smartphone with vivid display.,67,4.5
+TV0290,SmartView TV,UltraVision,smart_tv,2372.61,65 inch smart TV with smart connectivity.,13,3.8
+SPK0291,Bass Boost,BassLine,speaker,287.85,Speaker delivering compact design.,2,3.6
+LP0292,Ultra Thin,NextGen,laptop,766.8,13.3 inch laptop featuring long battery life.,134,0.0
+LP0293,Business Mate,TechCo,laptop,1964.64,15.6 inch laptop featuring long battery life.,116,4.0
+SP0294,Fusion Phone,RivalTech,smartphone,770.08,Smartphone with vivid display.,174,0.0
+TV0295,Ultra TV,ViewTech,smart_tv,470.59,65 inch smart TV with sleek design.,37,4.0
+SPK0296,BoomBox,BeatBox,speaker,140.91,Speaker delivering crystal clear sound.,191,0.0
+SP0297,Mobile Z,Futura,smartphone,259.76,Smartphone with long-lasting battery.,181,3.0
+SPK0298,ClearSound,BeatBox,speaker,490.0,Speaker delivering crystal clear sound.,79,3.5
+TV0299,Infinity TV,UltraVision,smart_tv,924.93,75 inch smart TV with sleek design.,142,3.5
+LP0300,Business Mate,TechCo,laptop,1656.63,15.6 inch laptop featuring latest processor.,67,3.9
+TV0301,Cinema TV,ViewTech,smart_tv,1188.11,65 inch smart TV with sleek design.,124,3.5
+LP0302,Business Mate,UltraComp,laptop,522.4,17 inch laptop featuring high performance graphics.,59,4.0
+SPK0303,ClearSound,SoundCo,speaker,477.03,Speaker delivering deep bass.,59,0.0
+LP0304,Performance Pro,EconCo,laptop,867.83,13.3 inch laptop featuring high performance graphics.,134,4.5
+SPK0305,Bass Boost,AudioMax,speaker,156.11,Speaker delivering crystal clear sound.,87,4.4
+TV0306,SmartView TV,ViewTech,smart_tv,523.47,75 inch smart TV with smart connectivity.,32,3.5
+SP0307,SmartPhone Y,TechCo,smartphone,343.41,Smartphone with vivid display.,26,4.5
+SPK0308,Audio Pro,AudioMax,speaker,55.25,Speaker delivering crystal clear sound.,129,3.5
+LP0309,Business Mate,EconCo,laptop,831.62,13.3 inch laptop featuring latest processor.,49,4.1
+TV0310,Cinema TV,ViewTech,smart_tv,2492.84,75 inch smart TV with HDR support.,67,3.8
+SP0311,Maxi Phone,RivalTech,smartphone,1120.16,Smartphone with vivid display.,132,4.3
+SPK0312,SoundWave,BassLine,speaker,446.4,Speaker delivering crystal clear sound.,195,3.0
+LP0313,Pro Book,EconCo,laptop,1003.36,17 inch laptop featuring high performance graphics.,70,0.0
+SP0314,Mobile Z,TechCo,smartphone,732.24,Smartphone with 5G connectivity.,158,4.0
+SP0315,Maxi Phone,NextCom,smartphone,543.0,Smartphone with advanced camera system.,45,4.0
+LP0316,Business Mate,NextGen,laptop,955.37,17 inch laptop featuring high performance graphics.,65,0.0
+SP0317,Mobile Z,TechCo,smartphone,712.62,Smartphone with long-lasting battery.,70,3.8
+LP0318,Pro Book,EconCo,laptop,1758.45,17 inch laptop featuring latest processor.,143,4.5
+SP0319,SmartPhone X,NextCom,smartphone,452.5,Smartphone with advanced camera system.,119,4.0
+SPK0320,Bass Boost,SoundCo,speaker,351.51,Speaker delivering deep bass.,191,4.0
+TV0321,Vivid TV,ViewTech,smart_tv,378.41,40 inch smart TV with HDR support.,25,4.2
+SP0322,Fusion Phone,Futura,smartphone,591.42,Smartphone with long-lasting battery.,118,4.0
+TV0323,Infinity TV,Spectra,smart_tv,2810.13,65 inch smart TV with 4K resolution.,33,4.0
+LP0324,Ultra Thin,EconCo,laptop,1132.37,15.6 inch laptop featuring long battery life.,42,4.0
+SPK0325,Audio Pro,SoundCo,speaker,81.67,Speaker delivering deep bass.,71,3.5
+LP0326,Pro Book,TechCo,laptop,1342.59,15.6 inch laptop featuring latest processor.,188,4.2
+SPK0327,SoundWave,BeatBox,speaker,240.67,Speaker delivering wireless connectivity.,73,4.2
+SPK0328,BoomBox,SoundCo,speaker,444.18,Speaker delivering wireless connectivity.,6,0.0
+SP0329,Maxi Phone,Futura,smartphone,964.99,Smartphone with 5G connectivity.,172,3.5
+TV0330,Vivid TV,Spectra,smart_tv,2886.57,65 inch smart TV with 4K resolution.,175,3.5
+TV0331,Vivid TV,Spectra,smart_tv,1170.92,40 inch smart TV with sleek design.,83,3.8
+SPK0332,SoundWave,BassLine,speaker,434.42,Speaker delivering deep bass.,134,5.0
+LP0333,Pro Book,NextGen,laptop,1661.82,15.6 inch laptop featuring latest processor.,140,4.1
+SP0334,Mobile Z,TechCo,smartphone,1020.03,Smartphone with 5G connectivity.,85,0.0
+SPK0335,Bass Boost,SoundCo,speaker,200.26,Speaker delivering compact design.,162,3.5
+TV0336,Infinity TV,CinemaCo,smart_tv,443.58,50 inch smart TV with 4K resolution.,59,4.0
+SP0337,SmartPhone Y,Futura,smartphone,521.26,Smartphone with vivid display.,114,0.0
+TV0338,Cinema TV,Spectra,smart_tv,408.27,65 inch smart TV with 4K resolution.,53,3.3
+SPK0339,Audio Pro,AudioMax,speaker,420.88,Speaker delivering deep bass.,92,4.0
+TV0340,Ultra TV,Spectra,smart_tv,607.04,40 inch smart TV with HDR support.,91,4.0
+SP0341,SmartPhone X,NextCom,smartphone,340.15,Smartphone with 5G connectivity.,43,0.0
+SP0342,Maxi Phone,RivalTech,smartphone,1025.98,Smartphone with long-lasting battery.,97,4.2
+LP0343,Ultra Thin,TechCo,laptop,1638.23,15.6 inch laptop featuring high performance graphics.,96,4.5
+SP0344,Maxi Phone,RivalTech,smartphone,239.73,Smartphone with 5G connectivity.,146,4.8
+LP0345,Ultra Thin,NextGen,laptop,793.03,13.3 inch laptop featuring latest processor.,101,3.0
+LP0346,Pro Book,NextGen,laptop,1660.32,14 inch laptop featuring latest processor.,10,4.5
+SP0347,SmartPhone X,Futura,smartphone,514.75,Smartphone with 5G connectivity.,93,3.8
+TV0348,Cinema TV,CinemaCo,smart_tv,2252.02,50 inch smart TV with HDR support.,183,3.7
+SP0349,SmartPhone Y,Futura,smartphone,758.14,Smartphone with advanced camera system.,24,4.0
+SPK0350,SoundWave,BeatBox,speaker,401.57,Speaker delivering wireless connectivity.,44,4.0
+SP0351,Mobile Z,RivalTech,smartphone,1122.26,Smartphone with long-lasting battery.,186,3.4
+TV0352,SmartView TV,CinemaCo,smart_tv,1844.63,55 inch smart TV with HDR support.,187,0.0
+LP0353,Pro Book,EconCo,laptop,1544.51,15.6 inch laptop featuring lightweight design.,27,5.0
+TV0354,Infinity TV,Spectra,smart_tv,1956.65,55 inch smart TV with 4K resolution.,108,4.5
+SPK0355,Bass Boost,SoundCo,speaker,303.64,Speaker delivering compact design.,144,5.0
+TV0356,Vivid TV,ViewTech,smart_tv,557.33,50 inch smart TV with 4K resolution.,92,3.2
+LP0357,Pro Book,NextGen,laptop,1384.15,15.6 inch laptop featuring latest processor.,10,0.0
+LP0358,Pro Book,NextGen,laptop,333.41,13.3 inch laptop featuring lightweight design.,193,4.1
+SP0359,SmartPhone Y,Futura,smartphone,241.93,Smartphone with vivid display.,8,4.0
+SPK0360,ClearSound,BeatBox,speaker,462.53,Speaker delivering wireless connectivity.,200,0.0
+SPK0361,ClearSound,AudioMax,speaker,463.72,Speaker delivering deep bass.,137,4.0
+SP0362,Mobile Z,Futura,smartphone,1060.21,Smartphone with 5G connectivity.,149,4.2
+SP0363,Maxi Phone,Futura,smartphone,288.52,Smartphone with 5G connectivity.,21,3.5
+SPK0364,Audio Pro,BeatBox,speaker,398.79,Speaker delivering compact design.,199,0.0
+SP0365,SmartPhone Y,Futura,smartphone,598.63,Smartphone with advanced camera system.,96,4.0
+SPK0366,ClearSound,SoundCo,speaker,159.96,Speaker delivering wireless connectivity.,31,4.0
+SP0367,SmartPhone Y,TechCo,smartphone,203.62,Smartphone with 5G connectivity.,70,4.0
+SPK0368,Bass Boost,BeatBox,speaker,486.35,Speaker delivering wireless connectivity.,46,4.0
+LP0369,Ultra Thin,TechCo,laptop,1832.78,14 inch laptop featuring latest processor.,136,4.0
+SPK0370,Bass Boost,BassLine,speaker,51.87,Speaker delivering deep bass.,2,0.0
+TV0371,Ultra TV,UltraVision,smart_tv,393.09,40 inch smart TV with HDR support.,113,3.7
+LP0372,Pro Book,NextGen,laptop,1681.6,14 inch laptop featuring high performance graphics.,69,4.5
+LP0373,Pro Book,EconCo,laptop,690.05,17 inch laptop featuring latest processor.,74,4.0
+SPK0374,BoomBox,SoundCo,speaker,139.27,Speaker delivering compact design.,167,4.5
+LP0375,Performance Pro,TechCo,laptop,943.97,15.6 inch laptop featuring high performance graphics.,10,3.8
+LP0376,Econo Note,UltraComp,laptop,906.74,17 inch laptop featuring lightweight design.,63,3.5
+LP0377,Pro Book,NextGen,laptop,1682.98,17 inch laptop featuring long battery life.,51,3.7
+TV0378,Infinity TV,UltraVision,smart_tv,2835.53,40 inch smart TV with smart connectivity.,0,4.0
+SP0379,SmartPhone Y,Futura,smartphone,543.73,Smartphone with advanced camera system.,36,3.5
+LP0380,Performance Pro,UltraComp,laptop,467.65,14 inch laptop featuring high performance graphics.,170,3.8
+SP0381,SmartPhone X,TechCo,smartphone,775.91,Smartphone with advanced camera system.,165,4.0
+SP0382,Fusion Phone,RivalTech,smartphone,972.84,Smartphone with long-lasting battery.,179,4.5
+TV0383,Vivid TV,UltraVision,smart_tv,1218.34,55 inch smart TV with sleek design.,50,0.0
+SPK0384,SoundWave,BassLine,speaker,241.09,Speaker delivering deep bass.,132,3.8
+SP0385,SmartPhone Y,TechCo,smartphone,213.52,Smartphone with vivid display.,67,3.5
+LP0386,Ultra Thin,UltraComp,laptop,584.87,14 inch laptop featuring high performance graphics.,9,4.5
+TV0387,Cinema TV,Spectra,smart_tv,1286.1,50 inch smart TV with HDR support.,160,0.0
+SP0388,Fusion Phone,Futura,smartphone,737.23,Smartphone with 5G connectivity.,44,4.0
+SP0389,SmartPhone X,TechCo,smartphone,1187.33,Smartphone with 5G connectivity.,50,3.5
+TV0390,SmartView TV,ViewTech,smart_tv,2083.19,65 inch smart TV with 4K resolution.,185,3.5
+SP0391,SmartPhone X,RivalTech,smartphone,1081.43,Smartphone with advanced camera system.,118,4.3
+SPK0392,BoomBox,BassLine,speaker,184.18,Speaker delivering wireless connectivity.,22,0.0
+SPK0393,SoundWave,BeatBox,speaker,296.6,Speaker delivering crystal clear sound.,164,0.0
+SPK0394,BoomBox,BeatBox,speaker,72.81,Speaker delivering deep bass.,120,4.0
+TV0395,SmartView TV,UltraVision,smart_tv,526.04,65 inch smart TV with smart connectivity.,183,4.5
+TV0396,Ultra TV,ViewTech,smart_tv,479.36,75 inch smart TV with smart connectivity.,14,3.8
+TV0397,Cinema TV,ViewTech,smart_tv,1794.71,40 inch smart TV with HDR support.,8,4.2
+SPK0398,ClearSound,BeatBox,speaker,70.33,Speaker delivering compact design.,91,4.8
+TV0399,Infinity TV,Spectra,smart_tv,2742.6,55 inch smart TV with smart connectivity.,36,0.0
+TV0400,Infinity TV,Spectra,smart_tv,817.18,75 inch smart TV with sleek design.,31,4.0
+SP0401,Maxi Phone,TechCo,smartphone,653.31,Smartphone with long-lasting battery.,110,4.0
+TV0402,SmartView TV,UltraVision,smart_tv,1473.13,40 inch smart TV with HDR support.,22,4.0
+LP0403,Ultra Thin,TechCo,laptop,744.26,13.3 inch laptop featuring latest processor.,76,3.7
+SPK0404,BoomBox,SoundCo,speaker,362.64,Speaker delivering deep bass.,149,4.0
+SP0405,SmartPhone Y,NextCom,smartphone,838.42,Smartphone with vivid display.,170,0.0
+SPK0406,ClearSound,BeatBox,speaker,133.01,Speaker delivering crystal clear sound.,53,3.5
+LP0407,Econo Note,TechCo,laptop,1137.29,14 inch laptop featuring high performance graphics.,186,4.2
+TV0408,Vivid TV,UltraVision,smart_tv,394.88,40 inch smart TV with sleek design.,88,0.0
+SPK0409,Bass Boost,AudioMax,speaker,377.25,Speaker delivering deep bass.,2,4.2
+LP0410,Business Mate,UltraComp,laptop,1470.49,14 inch laptop featuring long battery life.,179,4.5
+SP0411,SmartPhone Y,RivalTech,smartphone,1041.48,Smartphone with vivid display.,20,3.7
+LP0412,Performance Pro,TechCo,laptop,679.08,17 inch laptop featuring latest processor.,193,3.6
+LP0413,Ultra Thin,EconCo,laptop,1568.67,17 inch laptop featuring high performance graphics.,27,0.0
+LP0414,Econo Note,NextGen,laptop,1163.28,15.6 inch laptop featuring high performance graphics.,35,3.8
+LP0415,Business Mate,UltraComp,laptop,1512.74,13.3 inch laptop featuring high performance graphics.,100,3.5
+TV0416,Vivid TV,Spectra,smart_tv,1263.01,40 inch smart TV with smart connectivity.,122,4.2
+TV0417,Cinema TV,Spectra,smart_tv,1561.84,40 inch smart TV with sleek design.,77,3.8
+LP0418,Pro Book,TechCo,laptop,1310.38,17 inch laptop featuring lightweight design.,105,4.2
+LP0419,Econo Note,UltraComp,laptop,1202.05,14 inch laptop featuring high performance graphics.,199,3.5
+LP0420,Econo Note,EconCo,laptop,1695.58,15.6 inch laptop featuring long battery life.,112,4.0
+SP0421,Maxi Phone,TechCo,smartphone,722.93,Smartphone with advanced camera system.,14,4.0
+TV0422,Ultra TV,ViewTech,smart_tv,870.0,50 inch smart TV with 4K resolution.,148,4.5
+TV0423,Vivid TV,ViewTech,smart_tv,1958.25,40 inch smart TV with HDR support.,85,3.5
+SP0424,Maxi Phone,RivalTech,smartphone,1027.97,Smartphone with 5G connectivity.,2,4.5
+SPK0425,ClearSound,BeatBox,speaker,481.15,Speaker delivering crystal clear sound.,5,0.0
+LP0426,Econo Note,UltraComp,laptop,689.41,14 inch laptop featuring latest processor.,27,3.5
+TV0427,Cinema TV,Spectra,smart_tv,379.35,55 inch smart TV with HDR support.,194,4.0
+TV0428,Cinema TV,ViewTech,smart_tv,1493.89,65 inch smart TV with 4K resolution.,34,4.2
+SP0429,Maxi Phone,RivalTech,smartphone,1101.72,Smartphone with long-lasting battery.,40,3.5
+TV0430,SmartView TV,Spectra,smart_tv,1025.4,65 inch smart TV with smart connectivity.,170,4.2
+TV0431,Vivid TV,Spectra,smart_tv,1847.19,50 inch smart TV with sleek design.,175,3.5
+TV0432,Infinity TV,CinemaCo,smart_tv,1191.41,50 inch smart TV with smart connectivity.,142,0.0
+LP0433,Performance Pro,EconCo,laptop,1050.16,14 inch laptop featuring long battery life.,50,2.5
+SP0434,Fusion Phone,NextCom,smartphone,1073.82,Smartphone with 5G connectivity.,197,3.5
+SP0435,Fusion Phone,TechCo,smartphone,621.02,Smartphone with long-lasting battery.,190,4.5
+TV0436,SmartView TV,Spectra,smart_tv,1624.46,40 inch smart TV with smart connectivity.,72,5.0
+SPK0437,BoomBox,BeatBox,speaker,296.38,Speaker delivering wireless connectivity.,103,4.0
+SPK0438,SoundWave,BeatBox,speaker,474.99,Speaker delivering deep bass.,127,3.5
+LP0439,Pro Book,EconCo,laptop,1197.55,14 inch laptop featuring high performance graphics.,55,3.5
+LP0440,Pro Book,NextGen,laptop,1197.18,14 inch laptop featuring lightweight design.,40,4.5
+SPK0441,ClearSound,AudioMax,speaker,62.43,Speaker delivering wireless connectivity.,197,4.0
+TV0442,Vivid TV,ViewTech,smart_tv,2937.27,65 inch smart TV with sleek design.,179,4.5
+SPK0443,Audio Pro,SoundCo,speaker,326.16,Speaker delivering crystal clear sound.,80,4.0
+LP0444,Ultra Thin,EconCo,laptop,1123.24,17 inch laptop featuring lightweight design.,124,4.2
+LP0445,Pro Book,NextGen,laptop,1067.41,14 inch laptop featuring high performance graphics.,121,0.0
+LP0446,Econo Note,TechCo,laptop,1635.39,17 inch laptop featuring lightweight design.,76,4.2
+SP0447,Fusion Phone,NextCom,smartphone,495.6,Smartphone with long-lasting battery.,14,4.0
+SP0448,Fusion Phone,TechCo,smartphone,416.5,Smartphone with long-lasting battery.,20,3.5
+LP0449,Business Mate,UltraComp,laptop,1993.77,15.6 inch laptop featuring latest processor.,131,3.5
+SPK0450,BoomBox,BeatBox,speaker,123.25,Speaker delivering deep bass.,6,4.0
+TV0451,Ultra TV,CinemaCo,smart_tv,963.97,50 inch smart TV with 4K resolution.,135,4.2
+SPK0452,ClearSound,SoundCo,speaker,285.86,Speaker delivering deep bass.,79,0.0
+SP0453,SmartPhone Y,TechCo,smartphone,668.82,Smartphone with long-lasting battery.,4,4.3
+TV0454,SmartView TV,CinemaCo,smart_tv,807.45,75 inch smart TV with smart connectivity.,102,0.0
+SP0455,Mobile Z,Futura,smartphone,766.97,Smartphone with long-lasting battery.,78,0.0
+SPK0456,BoomBox,BeatBox,speaker,86.99,Speaker delivering deep bass.,58,3.8
+LP0457,Econo Note,TechCo,laptop,636.92,14 inch laptop featuring latest processor.,49,4.5
+TV0458,Infinity TV,Spectra,smart_tv,895.8,75 inch smart TV with smart connectivity.,81,4.5
+SPK0459,Bass Boost,BassLine,speaker,300.15,Speaker delivering deep bass.,98,0.0
+TV0460,SmartView TV,UltraVision,smart_tv,489.51,65 inch smart TV with 4K resolution.,153,5.0
+SPK0461,ClearSound,BassLine,speaker,429.81,Speaker delivering deep bass.,141,3.5
+LP0462,Pro Book,UltraComp,laptop,467.12,14 inch laptop featuring latest processor.,157,3.8
+SP0463,Maxi Phone,RivalTech,smartphone,778.43,Smartphone with 5G connectivity.,2,3.8
+SP0464,Mobile Z,RivalTech,smartphone,603.97,Smartphone with 5G connectivity.,146,0.0
+TV0465,Cinema TV,ViewTech,smart_tv,2696.24,65 inch smart TV with 4K resolution.,195,4.5
+TV0466,Vivid TV,UltraVision,smart_tv,856.55,65 inch smart TV with HDR support.,194,4.0
+LP0467,Econo Note,NextGen,laptop,1918.48,15.6 inch laptop featuring lightweight design.,118,4.0
+LP0468,Ultra Thin,UltraComp,laptop,1113.94,14 inch laptop featuring long battery life.,191,3.9
+LP0469,Econo Note,UltraComp,laptop,776.81,13.3 inch laptop featuring lightweight design.,61,4.0
+LP0470,Econo Note,EconCo,laptop,1965.22,14 inch laptop featuring lightweight design.,164,3.8
+TV0471,Infinity TV,CinemaCo,smart_tv,2243.04,75 inch smart TV with sleek design.,4,0.0
+LP0472,Performance Pro,EconCo,laptop,1941.01,14 inch laptop featuring latest processor.,1,4.0
+LP0473,Econo Note,NextGen,laptop,1906.78,17 inch laptop featuring long battery life.,14,3.8
+LP0474,Performance Pro,NextGen,laptop,1995.13,17 inch laptop featuring long battery life.,22,4.5
+SPK0475,Audio Pro,BeatBox,speaker,128.58,Speaker delivering wireless connectivity.,24,4.0
+SPK0476,Bass Boost,BassLine,speaker,321.66,Speaker delivering crystal clear sound.,178,4.2
+SP0477,Maxi Phone,TechCo,smartphone,1122.19,Smartphone with 5G connectivity.,131,4.5
+SPK0478,SoundWave,BeatBox,speaker,437.29,Speaker delivering wireless connectivity.,130,4.2
+SPK0479,Audio Pro,BassLine,speaker,56.92,Speaker delivering deep bass.,145,3.9
+LP0480,Econo Note,NextGen,laptop,589.69,17 inch laptop featuring lightweight design.,160,5.0
+SP0481,SmartPhone Y,Futura,smartphone,388.18,Smartphone with advanced camera system.,190,4.0
+SPK0482,BoomBox,AudioMax,speaker,155.13,Speaker delivering compact design.,148,3.8
+SPK0483,ClearSound,BeatBox,speaker,387.02,Speaker delivering deep bass.,5,4.0
+TV0484,Vivid TV,Spectra,smart_tv,1394.43,65 inch smart TV with smart connectivity.,94,4.0
+SPK0485,SoundWave,AudioMax,speaker,355.66,Speaker delivering wireless connectivity.,167,4.5
+SP0486,Mobile Z,TechCo,smartphone,754.16,Smartphone with 5G connectivity.,192,0.0
+SPK0487,SoundWave,BassLine,speaker,81.6,Speaker delivering deep bass.,62,4.8
+SP0488,Fusion Phone,Futura,smartphone,677.06,Smartphone with 5G connectivity.,189,4.0
+SPK0489,Audio Pro,AudioMax,speaker,228.1,Speaker delivering crystal clear sound.,160,3.8
+SPK0490,Bass Boost,SoundCo,speaker,480.18,Speaker delivering compact design.,0,4.2
+SPK0491,ClearSound,BassLine,speaker,160.66,Speaker delivering deep bass.,6,4.0
+SP0492,Maxi Phone,TechCo,smartphone,816.21,Smartphone with 5G connectivity.,38,4.2
+TV0493,Ultra TV,UltraVision,smart_tv,1657.57,50 inch smart TV with 4K resolution.,180,3.5
+LP0494,Ultra Thin,NextGen,laptop,1288.02,14 inch laptop featuring latest processor.,155,4.5
+TV0495,Vivid TV,Spectra,smart_tv,426.49,65 inch smart TV with smart connectivity.,141,4.0
+LP0496,Business Mate,UltraComp,laptop,1091.12,13.3 inch laptop featuring high performance graphics.,42,4.2
+SPK0497,Audio Pro,AudioMax,speaker,387.88,Speaker delivering deep bass.,35,3.8
+LP0498,Ultra Thin,UltraComp,laptop,300.57,13.3 inch laptop featuring high performance graphics.,8,4.2
+LP0499,Performance Pro,TechCo,laptop,329.72,13.3 inch laptop featuring long battery life.,191,3.5
+SPK0500,BoomBox,BassLine,speaker,162.18,Speaker delivering compact design.,34,5.0
+SPK0501,Bass Boost,SoundCo,speaker,137.09,Speaker delivering wireless connectivity.,164,4.8
+SP0502,SmartPhone X,Futura,smartphone,645.84,Smartphone with vivid display.,23,4.0
+SP0503,Mobile Z,TechCo,smartphone,1100.56,Smartphone with vivid display.,40,3.8
+LP0504,Econo Note,EconCo,laptop,1739.03,13.3 inch laptop featuring lightweight design.,108,5.0
+SP0505,Mobile Z,NextCom,smartphone,728.26,Smartphone with vivid display.,152,3.5
+SPK0506,ClearSound,SoundCo,speaker,273.19,Speaker delivering deep bass.,24,4.8
+SPK0507,Bass Boost,AudioMax,speaker,54.5,Speaker delivering crystal clear sound.,198,3.5
+TV0508,Ultra TV,Spectra,smart_tv,968.29,55 inch smart TV with 4K resolution.,24,4.0
+SPK0509,ClearSound,BassLine,speaker,76.16,Speaker delivering crystal clear sound.,164,3.8
+SPK0510,Audio Pro,SoundCo,speaker,164.25,Speaker delivering wireless connectivity.,37,3.6
+SP0511,Mobile Z,TechCo,smartphone,553.5,Smartphone with advanced camera system.,130,3.8
+SPK0512,BoomBox,BassLine,speaker,284.28,Speaker delivering crystal clear sound.,166,3.9
+TV0513,Infinity TV,ViewTech,smart_tv,877.03,55 inch smart TV with 4K resolution.,44,4.3
+SP0514,Maxi Phone,RivalTech,smartphone,493.71,Smartphone with advanced camera system.,192,3.8
+LP0515,Pro Book,NextGen,laptop,1988.31,13.3 inch laptop featuring lightweight design.,135,4.0
+LP0516,Econo Note,EconCo,laptop,945.95,14 inch laptop featuring long battery life.,175,0.0
+SP0517,SmartPhone X,Futura,smartphone,499.33,Smartphone with 5G connectivity.,85,3.5
+SP0518,Mobile Z,RivalTech,smartphone,1151.73,Smartphone with advanced camera system.,165,3.8
+SPK0519,Audio Pro,AudioMax,speaker,203.68,Speaker delivering compact design.,154,4.0
+SP0520,Mobile Z,RivalTech,smartphone,1135.75,Smartphone with advanced camera system.,46,4.2
+LP0521,Econo Note,NextGen,laptop,699.9,13.3 inch laptop featuring high performance graphics.,170,3.5
+SPK0522,Audio Pro,AudioMax,speaker,250.03,Speaker delivering compact design.,195,4.1
+SP0523,SmartPhone X,TechCo,smartphone,885.1,Smartphone with vivid display.,19,4.5
+LP0524,Business Mate,NextGen,laptop,560.94,14 inch laptop featuring high performance graphics.,160,4.5
+TV0525,Cinema TV,UltraVision,smart_tv,1133.81,55 inch smart TV with sleek design.,182,4.5
+TV0526,Vivid TV,CinemaCo,smart_tv,1288.23,65 inch smart TV with smart connectivity.,198,4.0
+TV0527,SmartView TV,CinemaCo,smart_tv,1785.9,75 inch smart TV with HDR support.,40,4.2
+TV0528,SmartView TV,Spectra,smart_tv,491.71,65 inch smart TV with smart connectivity.,87,0.0
+LP0529,Business Mate,TechCo,laptop,1075.26,13.3 inch laptop featuring latest processor.,192,3.2
+TV0530,Cinema TV,Spectra,smart_tv,1658.33,50 inch smart TV with 4K resolution.,47,3.2
+SPK0531,SoundWave,BassLine,speaker,233.27,Speaker delivering crystal clear sound.,137,4.4
+TV0532,Infinity TV,UltraVision,smart_tv,1201.65,55 inch smart TV with sleek design.,49,4.5
+TV0533,Vivid TV,Spectra,smart_tv,520.32,75 inch smart TV with smart connectivity.,31,4.0
+LP0534,Performance Pro,UltraComp,laptop,1554.17,17 inch laptop featuring lightweight design.,117,4.0
+TV0535,SmartView TV,ViewTech,smart_tv,1458.07,40 inch smart TV with smart connectivity.,85,4.0
+LP0536,Pro Book,UltraComp,laptop,1743.65,14 inch laptop featuring high performance graphics.,178,3.8
+TV0537,Vivid TV,Spectra,smart_tv,1828.79,55 inch smart TV with smart connectivity.,100,3.8
+SPK0538,ClearSound,BeatBox,speaker,325.27,Speaker delivering crystal clear sound.,174,4.0
+TV0539,Ultra TV,CinemaCo,smart_tv,1967.86,50 inch smart TV with 4K resolution.,196,4.5
+TV0540,Cinema TV,Spectra,smart_tv,2983.4,40 inch smart TV with smart connectivity.,125,3.0
+TV0541,SmartView TV,ViewTech,smart_tv,1534.96,65 inch smart TV with 4K resolution.,89,3.8
+SP0542,SmartPhone X,RivalTech,smartphone,1015.69,Smartphone with 5G connectivity.,174,5.0
+TV0543,Cinema TV,ViewTech,smart_tv,1627.75,40 inch smart TV with sleek design.,50,0.0
+TV0544,SmartView TV,CinemaCo,smart_tv,1009.51,75 inch smart TV with smart connectivity.,121,3.5
+SP0545,Maxi Phone,Futura,smartphone,401.12,Smartphone with long-lasting battery.,200,4.0
+SPK0546,Bass Boost,SoundCo,speaker,386.97,Speaker delivering wireless connectivity.,185,3.7
+SP0547,SmartPhone X,NextCom,smartphone,283.23,Smartphone with long-lasting battery.,105,4.3
+LP0548,Econo Note,TechCo,laptop,1399.84,15.6 inch laptop featuring lightweight design.,194,4.5
+LP0549,Performance Pro,UltraComp,laptop,1559.12,17 inch laptop featuring lightweight design.,2,4.2
+SP0550,Mobile Z,Futura,smartphone,676.44,Smartphone with advanced camera system.,144,4.2
+TV0551,Vivid TV,Spectra,smart_tv,1372.17,40 inch smart TV with 4K resolution.,41,0.0
+TV0552,Cinema TV,Spectra,smart_tv,2128.34,50 inch smart TV with HDR support.,89,3.5
+SP0553,Maxi Phone,NextCom,smartphone,365.13,Smartphone with advanced camera system.,60,0.0
+SP0554,Fusion Phone,Futura,smartphone,943.92,Smartphone with advanced camera system.,34,0.0
+TV0555,Vivid TV,ViewTech,smart_tv,710.84,50 inch smart TV with sleek design.,18,3.8
+TV0556,Ultra TV,Spectra,smart_tv,895.04,50 inch smart TV with smart connectivity.,198,4.2
+SPK0557,Audio Pro,AudioMax,speaker,488.18,Speaker delivering wireless connectivity.,166,4.2
+LP0558,Ultra Thin,TechCo,laptop,967.42,13.3 inch laptop featuring latest processor.,52,3.7
+TV0559,Cinema TV,ViewTech,smart_tv,851.31,55 inch smart TV with sleek design.,117,4.0
+LP0560,Business Mate,EconCo,laptop,1843.67,14 inch laptop featuring long battery life.,118,3.9
+SP0561,Mobile Z,Futura,smartphone,622.24,Smartphone with long-lasting battery.,142,4.0
+SPK0562,Bass Boost,BeatBox,speaker,151.51,Speaker delivering crystal clear sound.,149,3.9
+LP0563,Econo Note,EconCo,laptop,748.53,14 inch laptop featuring latest processor.,180,4.0
+SPK0564,SoundWave,SoundCo,speaker,64.77,Speaker delivering crystal clear sound.,126,4.5
+SPK0565,SoundWave,BeatBox,speaker,259.78,Speaker delivering wireless connectivity.,9,0.0
+SPK0566,Audio Pro,AudioMax,speaker,369.31,Speaker delivering wireless connectivity.,24,4.5
+LP0567,Performance Pro,NextGen,laptop,1332.51,15.6 inch laptop featuring latest processor.,55,4.0
+SPK0568,Bass Boost,BeatBox,speaker,475.74,Speaker delivering deep bass.,112,4.0
+LP0569,Econo Note,TechCo,laptop,1673.39,15.6 inch laptop featuring high performance graphics.,37,4.5
+TV0570,Infinity TV,UltraVision,smart_tv,2656.91,65 inch smart TV with HDR support.,43,4.5
+SP0571,SmartPhone X,RivalTech,smartphone,898.02,Smartphone with advanced camera system.,93,4.0
+SP0572,Mobile Z,NextCom,smartphone,743.14,Smartphone with long-lasting battery.,170,0.0
+TV0573,Ultra TV,UltraVision,smart_tv,2724.33,40 inch smart TV with smart connectivity.,89,4.0
+TV0574,Infinity TV,CinemaCo,smart_tv,2749.79,55 inch smart TV with 4K resolution.,78,3.8
+TV0575,SmartView TV,UltraVision,smart_tv,2923.85,55 inch smart TV with 4K resolution.,51,4.2
+SP0576,Fusion Phone,Futura,smartphone,566.45,Smartphone with long-lasting battery.,63,3.7
+SP0577,Fusion Phone,RivalTech,smartphone,529.28,Smartphone with 5G connectivity.,105,0.0
+TV0578,Vivid TV,UltraVision,smart_tv,1793.06,65 inch smart TV with 4K resolution.,90,4.5
+TV0579,SmartView TV,ViewTech,smart_tv,1599.9,65 inch smart TV with smart connectivity.,155,4.5
+LP0580,Pro Book,EconCo,laptop,1627.8,17 inch laptop featuring long battery life.,51,3.5
+SPK0581,Bass Boost,SoundCo,speaker,220.49,Speaker delivering crystal clear sound.,191,3.5
+SPK0582,ClearSound,BeatBox,speaker,240.44,Speaker delivering crystal clear sound.,78,0.0
+SP0583,SmartPhone Y,Futura,smartphone,801.28,Smartphone with advanced camera system.,8,3.2
+SPK0584,Audio Pro,AudioMax,speaker,431.72,Speaker delivering crystal clear sound.,86,3.7
+SPK0585,Bass Boost,BassLine,speaker,294.87,Speaker delivering crystal clear sound.,197,0.0
+TV0586,Cinema TV,ViewTech,smart_tv,2003.21,40 inch smart TV with 4K resolution.,179,3.5
+TV0587,Infinity TV,UltraVision,smart_tv,659.38,75 inch smart TV with 4K resolution.,137,3.5
+SP0588,SmartPhone Y,NextCom,smartphone,273.97,Smartphone with long-lasting battery.,69,4.2
+SP0589,SmartPhone X,NextCom,smartphone,320.25,Smartphone with advanced camera system.,91,4.0
+LP0590,Performance Pro,TechCo,laptop,906.88,17 inch laptop featuring high performance graphics.,146,4.0
+SP0591,SmartPhone Y,NextCom,smartphone,260.55,Smartphone with advanced camera system.,30,3.8
+SPK0592,Bass Boost,AudioMax,speaker,51.16,Speaker delivering crystal clear sound.,129,4.8
+LP0593,Performance Pro,UltraComp,laptop,1501.12,15.6 inch laptop featuring high performance graphics.,87,3.5
+LP0594,Business Mate,NextGen,laptop,1306.54,14 inch laptop featuring lightweight design.,60,4.5
+SP0595,Maxi Phone,TechCo,smartphone,213.69,Smartphone with vivid display.,40,3.2
+TV0596,Infinity TV,CinemaCo,smart_tv,652.79,40 inch smart TV with 4K resolution.,190,3.5
+LP0597,Pro Book,TechCo,laptop,1883.33,15.6 inch laptop featuring lightweight design.,77,3.0
+SPK0598,ClearSound,BeatBox,speaker,376.12,Speaker delivering crystal clear sound.,16,4.0
+SP0599,SmartPhone Y,RivalTech,smartphone,1007.71,Smartphone with long-lasting battery.,115,3.0
+SPK0600,SoundWave,SoundCo,speaker,216.79,Speaker delivering compact design.,200,0.0
+LP0601,Pro Book,TechCo,laptop,1498.83,17 inch laptop featuring latest processor.,189,5.0
+SP0602,SmartPhone X,Futura,smartphone,638.89,Smartphone with vivid display.,166,0.0
+LP0603,Performance Pro,TechCo,laptop,1515.45,17 inch laptop featuring long battery life.,82,4.1
+SPK0604,ClearSound,AudioMax,speaker,367.69,Speaker delivering crystal clear sound.,112,4.8
+SP0605,Maxi Phone,Futura,smartphone,607.96,Smartphone with advanced camera system.,85,4.0
+TV0606,Ultra TV,UltraVision,smart_tv,2123.9,55 inch smart TV with 4K resolution.,74,3.2
+LP0607,Performance Pro,UltraComp,laptop,778.01,15.6 inch laptop featuring latest processor.,144,3.5
+SPK0608,ClearSound,SoundCo,speaker,311.86,Speaker delivering deep bass.,198,4.5
+LP0609,Econo Note,EconCo,laptop,1574.06,14 inch laptop featuring high performance graphics.,198,3.4
+SPK0610,Bass Boost,BeatBox,speaker,291.28,Speaker delivering deep bass.,10,3.7
+SPK0611,BoomBox,AudioMax,speaker,389.67,Speaker delivering deep bass.,178,3.4
+SPK0612,SoundWave,BeatBox,speaker,422.73,Speaker delivering wireless connectivity.,163,4.5
+TV0613,Ultra TV,Spectra,smart_tv,2746.52,75 inch smart TV with HDR support.,178,4.5
+TV0614,Cinema TV,CinemaCo,smart_tv,1387.47,55 inch smart TV with smart connectivity.,97,3.7
+LP0615,Econo Note,UltraComp,laptop,598.0,17 inch laptop featuring lightweight design.,158,3.5
+TV0616,SmartView TV,ViewTech,smart_tv,2868.47,55 inch smart TV with 4K resolution.,39,4.2
+TV0617,Infinity TV,ViewTech,smart_tv,666.96,65 inch smart TV with smart connectivity.,98,4.2
+LP0618,Performance Pro,EconCo,laptop,1273.05,17 inch laptop featuring latest processor.,55,4.0
+SPK0619,SoundWave,AudioMax,speaker,89.28,Speaker delivering compact design.,116,4.0
+SPK0620,Audio Pro,BassLine,speaker,313.72,Speaker delivering wireless connectivity.,133,4.0
+TV0621,Ultra TV,Spectra,smart_tv,715.33,55 inch smart TV with HDR support.,200,4.0
+SP0622,SmartPhone X,TechCo,smartphone,428.17,Smartphone with advanced camera system.,29,4.5
+SPK0623,ClearSound,BassLine,speaker,352.53,Speaker delivering compact design.,17,0.0
+TV0624,SmartView TV,CinemaCo,smart_tv,699.3,65 inch smart TV with 4K resolution.,48,3.8
+SP0625,Maxi Phone,Futura,smartphone,840.18,Smartphone with long-lasting battery.,65,3.5
+TV0626,Vivid TV,Spectra,smart_tv,1374.4,55 inch smart TV with smart connectivity.,119,3.5
+SP0627,Fusion Phone,TechCo,smartphone,700.47,Smartphone with long-lasting battery.,31,4.0
+SPK0628,Bass Boost,SoundCo,speaker,475.19,Speaker delivering crystal clear sound.,192,4.0
+TV0629,Infinity TV,UltraVision,smart_tv,1333.56,40 inch smart TV with sleek design.,172,3.0
+LP0630,Business Mate,NextGen,laptop,1354.69,15.6 inch laptop featuring high performance graphics.,153,4.4
+LP0631,Econo Note,EconCo,laptop,949.31,14 inch laptop featuring long battery life.,188,4.7
+LP0632,Pro Book,UltraComp,laptop,1005.05,13.3 inch laptop featuring high performance graphics.,42,4.0
+SPK0633,SoundWave,BassLine,speaker,371.95,Speaker delivering crystal clear sound.,46,4.8
+LP0634,Econo Note,NextGen,laptop,1442.41,15.6 inch laptop featuring lightweight design.,190,3.5
+LP0635,Ultra Thin,TechCo,laptop,403.57,14 inch laptop featuring latest processor.,67,0.0
+SPK0636,Bass Boost,SoundCo,speaker,491.26,Speaker delivering crystal clear sound.,76,3.9
+LP0637,Performance Pro,NextGen,laptop,516.94,14 inch laptop featuring long battery life.,134,0.0
+SPK0638,Bass Boost,BeatBox,speaker,457.08,Speaker delivering crystal clear sound.,108,4.0
+SPK0639,ClearSound,SoundCo,speaker,458.77,Speaker delivering wireless connectivity.,6,3.8
+TV0640,Vivid TV,ViewTech,smart_tv,1321.88,50 inch smart TV with smart connectivity.,102,4.2
+SPK0641,SoundWave,BassLine,speaker,221.3,Speaker delivering crystal clear sound.,60,3.9
+LP0642,Business Mate,EconCo,laptop,1112.54,14 inch laptop featuring latest processor.,40,3.5
+SP0643,SmartPhone X,RivalTech,smartphone,433.53,Smartphone with 5G connectivity.,28,4.2
+TV0644,Ultra TV,UltraVision,smart_tv,590.49,65 inch smart TV with smart connectivity.,19,3.5
+SP0645,SmartPhone Y,NextCom,smartphone,274.01,Smartphone with 5G connectivity.,100,3.3
+SPK0646,Audio Pro,AudioMax,speaker,179.78,Speaker delivering deep bass.,11,4.2
+TV0647,SmartView TV,Spectra,smart_tv,2283.01,65 inch smart TV with HDR support.,45,3.8
+TV0648,Cinema TV,UltraVision,smart_tv,423.39,75 inch smart TV with HDR support.,30,3.8
+LP0649,Business Mate,UltraComp,laptop,1896.47,17 inch laptop featuring high performance graphics.,100,4.0
+LP0650,Business Mate,TechCo,laptop,1205.73,13.3 inch laptop featuring high performance graphics.,185,4.5
+LP0651,Ultra Thin,TechCo,laptop,1382.85,15.6 inch laptop featuring latest processor.,179,3.5
+SPK0652,ClearSound,BassLine,speaker,134.65,Speaker delivering crystal clear sound.,97,4.0
+LP0653,Business Mate,UltraComp,laptop,718.65,17 inch laptop featuring high performance graphics.,168,0.0
+SP0654,Mobile Z,NextCom,smartphone,727.51,Smartphone with vivid display.,35,4.5
+TV0655,Ultra TV,CinemaCo,smart_tv,2421.89,50 inch smart TV with sleek design.,99,4.0
+TV0656,Infinity TV,Spectra,smart_tv,1308.97,65 inch smart TV with HDR support.,58,4.5
+LP0657,Pro Book,NextGen,laptop,1169.94,15.6 inch laptop featuring latest processor.,97,4.1
+SP0658,Fusion Phone,RivalTech,smartphone,1091.45,Smartphone with 5G connectivity.,95,4.0
+SPK0659,BoomBox,BassLine,speaker,377.03,Speaker delivering compact design.,95,3.5
+TV0660,Cinema TV,CinemaCo,smart_tv,1540.6,40 inch smart TV with sleek design.,70,4.5
+TV0661,Infinity TV,UltraVision,smart_tv,1439.5,55 inch smart TV with 4K resolution.,34,4.0
+SP0662,Mobile Z,NextCom,smartphone,669.3,Smartphone with vivid display.,115,0.0
+SP0663,SmartPhone Y,RivalTech,smartphone,388.6,Smartphone with vivid display.,0,0.0
+TV0664,Cinema TV,ViewTech,smart_tv,2196.68,40 inch smart TV with smart connectivity.,142,4.5
+LP0665,Performance Pro,NextGen,laptop,745.33,17 inch laptop featuring long battery life.,178,4.0
+SPK0666,Audio Pro,BassLine,speaker,95.6,Speaker delivering wireless connectivity.,121,3.8
+SPK0667,Bass Boost,SoundCo,speaker,347.18,Speaker delivering wireless connectivity.,134,0.0
+TV0668,Cinema TV,Spectra,smart_tv,2319.22,75 inch smart TV with HDR support.,15,3.5
+TV0669,SmartView TV,CinemaCo,smart_tv,2276.76,75 inch smart TV with smart connectivity.,142,4.0
+SP0670,Maxi Phone,NextCom,smartphone,420.52,Smartphone with advanced camera system.,149,4.2
+TV0671,Infinity TV,Spectra,smart_tv,1867.6,40 inch smart TV with smart connectivity.,129,3.5
+TV0672,Ultra TV,CinemaCo,smart_tv,1662.35,50 inch smart TV with 4K resolution.,74,4.0
+LP0673,Performance Pro,UltraComp,laptop,745.62,14 inch laptop featuring high performance graphics.,132,4.0
+SP0674,SmartPhone Y,TechCo,smartphone,1189.86,Smartphone with vivid display.,141,4.0
+LP0675,Pro Book,TechCo,laptop,1947.82,14 inch laptop featuring high performance graphics.,92,0.0
+TV0676,Cinema TV,CinemaCo,smart_tv,1681.73,55 inch smart TV with smart connectivity.,68,4.1
+SPK0677,Audio Pro,SoundCo,speaker,469.46,Speaker delivering wireless connectivity.,103,4.0
+SPK0678,SoundWave,SoundCo,speaker,459.81,Speaker delivering crystal clear sound.,103,4.3
+TV0679,Vivid TV,CinemaCo,smart_tv,2417.12,65 inch smart TV with smart connectivity.,80,4.3
+TV0680,Cinema TV,UltraVision,smart_tv,1914.65,65 inch smart TV with HDR support.,134,4.0
+TV0681,Cinema TV,UltraVision,smart_tv,1122.21,55 inch smart TV with HDR support.,150,4.2
+LP0682,Business Mate,UltraComp,laptop,1351.31,17 inch laptop featuring high performance graphics.,51,0.0
+SP0683,SmartPhone X,Futura,smartphone,1170.49,Smartphone with 5G connectivity.,102,4.2
+SPK0684,ClearSound,SoundCo,speaker,267.56,Speaker delivering crystal clear sound.,165,3.8
+SPK0685,ClearSound,BassLine,speaker,183.1,Speaker delivering compact design.,150,4.0
+SPK0686,BoomBox,SoundCo,speaker,467.41,Speaker delivering crystal clear sound.,170,3.8
+SPK0687,BoomBox,BeatBox,speaker,367.15,Speaker delivering deep bass.,2,4.0
+SPK0688,ClearSound,BeatBox,speaker,119.22,Speaker delivering wireless connectivity.,178,4.0
+TV0689,Infinity TV,UltraVision,smart_tv,1957.51,75 inch smart TV with HDR support.,160,3.5
+SP0690,SmartPhone Y,TechCo,smartphone,472.36,Smartphone with vivid display.,55,4.0
+SP0691,SmartPhone X,TechCo,smartphone,236.3,Smartphone with advanced camera system.,150,3.9
+TV0692,SmartView TV,CinemaCo,smart_tv,2779.7,65 inch smart TV with sleek design.,29,3.7
+SP0693,SmartPhone Y,Futura,smartphone,1030.02,Smartphone with 5G connectivity.,59,3.9
+SPK0694,SoundWave,BeatBox,speaker,368.52,Speaker delivering crystal clear sound.,75,0.0
+TV0695,Infinity TV,Spectra,smart_tv,840.24,40 inch smart TV with HDR support.,173,0.0
+SPK0696,SoundWave,AudioMax,speaker,486.12,Speaker delivering crystal clear sound.,33,3.7
+TV0697,Cinema TV,CinemaCo,smart_tv,2133.27,75 inch smart TV with HDR support.,142,4.2
+LP0698,Ultra Thin,UltraComp,laptop,1988.2,14 inch laptop featuring long battery life.,140,0.0
+TV0699,Infinity TV,CinemaCo,smart_tv,1131.84,40 inch smart TV with sleek design.,128,4.5
+SP0700,Fusion Phone,Futura,smartphone,539.75,Smartphone with long-lasting battery.,44,3.5
+SPK0701,SoundWave,BeatBox,speaker,104.59,Speaker delivering wireless connectivity.,169,4.5
+SPK0702,BoomBox,BassLine,speaker,282.61,Speaker delivering compact design.,186,4.8
+SPK0703,BoomBox,AudioMax,speaker,322.98,Speaker delivering deep bass.,52,4.0
+SP0704,Mobile Z,NextCom,smartphone,789.8,Smartphone with 5G connectivity.,161,4.5
+SPK0705,SoundWave,BeatBox,speaker,392.5,Speaker delivering deep bass.,198,4.5
+SP0706,SmartPhone Y,NextCom,smartphone,325.89,Smartphone with 5G connectivity.,122,4.0
+LP0707,Pro Book,UltraComp,laptop,853.44,14 inch laptop featuring latest processor.,112,4.6
+LP0708,Ultra Thin,EconCo,laptop,1201.61,17 inch laptop featuring high performance graphics.,117,4.1
+SP0709,SmartPhone Y,RivalTech,smartphone,336.59,Smartphone with vivid display.,159,4.0
+SPK0710,Audio Pro,BassLine,speaker,431.73,Speaker delivering wireless connectivity.,152,3.5
+TV0711,SmartView TV,CinemaCo,smart_tv,2803.72,65 inch smart TV with smart connectivity.,42,4.0
+LP0712,Ultra Thin,TechCo,laptop,1992.2,17 inch laptop featuring lightweight design.,10,0.0
+SPK0713,Audio Pro,BeatBox,speaker,147.28,Speaker delivering compact design.,189,4.0
+LP0714,Performance Pro,UltraComp,laptop,646.79,15.6 inch laptop featuring long battery life.,141,4.3
+LP0715,Econo Note,TechCo,laptop,1937.47,17 inch laptop featuring latest processor.,130,0.0
+LP0716,Performance Pro,UltraComp,laptop,892.0,13.3 inch laptop featuring lightweight design.,170,3.8
+TV0717,Vivid TV,UltraVision,smart_tv,855.44,75 inch smart TV with HDR support.,4,0.0
+SPK0718,ClearSound,AudioMax,speaker,212.27,Speaker delivering deep bass.,144,3.8
+TV0719,SmartView TV,UltraVision,smart_tv,1984.23,65 inch smart TV with smart connectivity.,25,4.5
+SP0720,SmartPhone X,TechCo,smartphone,629.02,Smartphone with vivid display.,36,3.8
+SP0721,Maxi Phone,RivalTech,smartphone,579.05,Smartphone with vivid display.,41,4.0
+LP0722,Business Mate,UltraComp,laptop,1423.08,14 inch laptop featuring latest processor.,15,4.0
+SP0723,Mobile Z,RivalTech,smartphone,665.6,Smartphone with vivid display.,60,3.7
+SP0724,Fusion Phone,Futura,smartphone,589.88,Smartphone with vivid display.,90,0.0
+LP0725,Performance Pro,TechCo,laptop,1694.03,13.3 inch laptop featuring lightweight design.,147,3.7
+LP0726,Performance Pro,UltraComp,laptop,777.65,15.6 inch laptop featuring long battery life.,114,4.0
+SPK0727,SoundWave,SoundCo,speaker,225.7,Speaker delivering compact design.,83,4.1
+SPK0728,Audio Pro,BeatBox,speaker,97.2,Speaker delivering compact design.,105,3.3
+SP0729,Mobile Z,Futura,smartphone,724.86,Smartphone with advanced camera system.,190,4.5
+SPK0730,BoomBox,AudioMax,speaker,338.97,Speaker delivering deep bass.,89,4.2
+SPK0731,ClearSound,BassLine,speaker,424.48,Speaker delivering crystal clear sound.,138,4.0
+SPK0732,Bass Boost,BassLine,speaker,497.34,Speaker delivering crystal clear sound.,40,0.0
+LP0733,Econo Note,UltraComp,laptop,999.48,17 inch laptop featuring long battery life.,25,3.7
+SP0734,SmartPhone X,RivalTech,smartphone,1093.27,Smartphone with advanced camera system.,13,4.0
+SP0735,Mobile Z,TechCo,smartphone,353.91,Smartphone with advanced camera system.,106,3.3
+SP0736,SmartPhone Y,RivalTech,smartphone,744.36,Smartphone with advanced camera system.,8,3.5
+SPK0737,BoomBox,BassLine,speaker,63.55,Speaker delivering deep bass.,38,0.0
+SP0738,Fusion Phone,RivalTech,smartphone,517.16,Smartphone with vivid display.,173,3.7
+SPK0739,Audio Pro,BassLine,speaker,399.87,Speaker delivering deep bass.,86,4.0
+SPK0740,BoomBox,BeatBox,speaker,294.69,Speaker delivering compact design.,115,3.5
+TV0741,SmartView TV,UltraVision,smart_tv,1113.89,55 inch smart TV with smart connectivity.,187,3.8
+LP0742,Econo Note,NextGen,laptop,533.96,13.3 inch laptop featuring latest processor.,192,4.2
+SPK0743,Bass Boost,SoundCo,speaker,399.97,Speaker delivering compact design.,189,3.7
+SPK0744,Bass Boost,SoundCo,speaker,137.89,Speaker delivering compact design.,148,4.0
+SPK0745,Bass Boost,SoundCo,speaker,322.09,Speaker delivering crystal clear sound.,200,3.5
+TV0746,SmartView TV,UltraVision,smart_tv,1084.28,55 inch smart TV with 4K resolution.,71,3.0
+SP0747,SmartPhone Y,NextCom,smartphone,698.96,Smartphone with advanced camera system.,158,4.5
+SPK0748,BoomBox,SoundCo,speaker,265.46,Speaker delivering compact design.,167,4.0
+SP0749,SmartPhone Y,RivalTech,smartphone,270.89,Smartphone with long-lasting battery.,3,4.0
+LP0750,Econo Note,EconCo,laptop,1708.95,14 inch laptop featuring long battery life.,54,4.5
+LP0751,Ultra Thin,UltraComp,laptop,667.1,17 inch laptop featuring high performance graphics.,37,3.5
+SP0752,Maxi Phone,RivalTech,smartphone,232.13,Smartphone with advanced camera system.,158,4.0
+SP0753,Mobile Z,NextCom,smartphone,867.85,Smartphone with 5G connectivity.,170,0.0
+SP0754,Mobile Z,RivalTech,smartphone,1087.07,Smartphone with vivid display.,189,5.0
+SPK0755,Bass Boost,SoundCo,speaker,409.13,Speaker delivering crystal clear sound.,73,3.8
+SPK0756,ClearSound,BassLine,speaker,372.58,Speaker delivering wireless connectivity.,110,4.5
+TV0757,Ultra TV,Spectra,smart_tv,2926.75,55 inch smart TV with HDR support.,176,3.2
+LP0758,Pro Book,TechCo,laptop,1941.0,14 inch laptop featuring high performance graphics.,70,4.0
+LP0759,Business Mate,NextGen,laptop,1793.49,13.3 inch laptop featuring latest processor.,161,4.0
+SP0760,SmartPhone Y,RivalTech,smartphone,419.11,Smartphone with long-lasting battery.,193,3.5
+SPK0761,SoundWave,SoundCo,speaker,78.21,Speaker delivering compact design.,112,4.2
+SPK0762,SoundWave,BassLine,speaker,431.57,Speaker delivering compact design.,154,4.5
+SP0763,SmartPhone Y,TechCo,smartphone,731.0,Smartphone with 5G connectivity.,27,4.2
+LP0764,Ultra Thin,TechCo,laptop,1648.97,14 inch laptop featuring latest processor.,67,0.0
+SPK0765,ClearSound,BeatBox,speaker,467.12,Speaker delivering wireless connectivity.,52,3.8
+SPK0766,BoomBox,SoundCo,speaker,400.07,Speaker delivering wireless connectivity.,127,0.0
+SP0767,Fusion Phone,TechCo,smartphone,901.31,Smartphone with long-lasting battery.,23,4.0
+TV0768,Vivid TV,Spectra,smart_tv,571.72,50 inch smart TV with HDR support.,199,4.0
+TV0769,Cinema TV,CinemaCo,smart_tv,2507.9,65 inch smart TV with sleek design.,173,3.6
+LP0770,Performance Pro,TechCo,laptop,1191.47,17 inch laptop featuring long battery life.,36,4.8
+SPK0771,ClearSound,BeatBox,speaker,242.35,Speaker delivering deep bass.,21,4.5
+TV0772,Infinity TV,UltraVision,smart_tv,327.52,50 inch smart TV with sleek design.,99,3.5
+SPK0773,BoomBox,SoundCo,speaker,212.81,Speaker delivering wireless connectivity.,145,4.0
+SP0774,Maxi Phone,RivalTech,smartphone,711.29,Smartphone with vivid display.,51,3.7
+SP0775,SmartPhone X,RivalTech,smartphone,448.0,Smartphone with 5G connectivity.,189,3.2
+LP0776,Econo Note,TechCo,laptop,1471.02,15.6 inch laptop featuring long battery life.,199,0.0
+SP0777,SmartPhone Y,TechCo,smartphone,490.77,Smartphone with long-lasting battery.,12,3.5
+LP0778,Performance Pro,NextGen,laptop,1551.9,15.6 inch laptop featuring long battery life.,54,4.5
+SP0779,Fusion Phone,TechCo,smartphone,283.45,Smartphone with advanced camera system.,43,4.2
+SPK0780,SoundWave,BeatBox,speaker,80.3,Speaker delivering crystal clear sound.,61,4.0
+LP0781,Business Mate,EconCo,laptop,383.28,14 inch laptop featuring latest processor.,194,3.6
+SPK0782,Audio Pro,BassLine,speaker,378.31,Speaker delivering wireless connectivity.,157,4.8
+SP0783,SmartPhone X,NextCom,smartphone,500.33,Smartphone with 5G connectivity.,191,4.2
+TV0784,Vivid TV,Spectra,smart_tv,2852.06,40 inch smart TV with smart connectivity.,86,3.0
+TV0785,Cinema TV,Spectra,smart_tv,442.78,55 inch smart TV with smart connectivity.,170,5.0
+TV0786,SmartView TV,Spectra,smart_tv,359.24,65 inch smart TV with smart connectivity.,170,4.0
+SP0787,Maxi Phone,NextCom,smartphone,1035.07,Smartphone with vivid display.,28,3.2
+LP0788,Pro Book,NextGen,laptop,1366.06,14 inch laptop featuring high performance graphics.,68,4.0
+LP0789,Ultra Thin,EconCo,laptop,1057.42,14 inch laptop featuring high performance graphics.,122,0.0
+LP0790,Business Mate,TechCo,laptop,1689.36,13.3 inch laptop featuring lightweight design.,126,4.3
+TV0791,Vivid TV,CinemaCo,smart_tv,464.54,50 inch smart TV with HDR support.,171,4.5
+TV0792,Cinema TV,UltraVision,smart_tv,1975.24,55 inch smart TV with HDR support.,57,4.5
+SP0793,Maxi Phone,Futura,smartphone,248.15,Smartphone with advanced camera system.,150,4.5
+SPK0794,ClearSound,BassLine,speaker,143.83,Speaker delivering deep bass.,146,4.2
+TV0795,SmartView TV,CinemaCo,smart_tv,603.23,55 inch smart TV with 4K resolution.,94,0.0
+SP0796,SmartPhone Y,TechCo,smartphone,921.17,Smartphone with advanced camera system.,123,4.0
+TV0797,Ultra TV,UltraVision,smart_tv,739.88,50 inch smart TV with smart connectivity.,47,3.9
+TV0798,Vivid TV,CinemaCo,smart_tv,701.71,50 inch smart TV with sleek design.,147,0.0
+SP0799,Fusion Phone,Futura,smartphone,638.32,Smartphone with long-lasting battery.,178,0.0
+TV0800,Cinema TV,CinemaCo,smart_tv,2986.92,40 inch smart TV with HDR support.,85,3.9
+LP0801,Pro Book,NextGen,laptop,705.57,15.6 inch laptop featuring lightweight design.,113,3.5
+LP0802,Ultra Thin,NextGen,laptop,742.65,13.3 inch laptop featuring high performance graphics.,141,4.0
+SP0803,Maxi Phone,NextCom,smartphone,1052.79,Smartphone with vivid display.,108,4.1
+SPK0804,SoundWave,BeatBox,speaker,118.77,Speaker delivering wireless connectivity.,26,3.0
+SP0805,SmartPhone Y,Futura,smartphone,242.43,Smartphone with 5G connectivity.,34,3.7
+LP0806,Econo Note,EconCo,laptop,631.25,15.6 inch laptop featuring high performance graphics.,6,4.0
+SPK0807,ClearSound,BeatBox,speaker,295.89,Speaker delivering compact design.,38,4.5
+SPK0808,Bass Boost,BassLine,speaker,490.16,Speaker delivering deep bass.,80,4.0
+LP0809,Econo Note,NextGen,laptop,1957.91,14 inch laptop featuring lightweight design.,121,4.2
+SP0810,Maxi Phone,Futura,smartphone,945.08,Smartphone with advanced camera system.,45,4.3
+SPK0811,ClearSound,AudioMax,speaker,290.33,Speaker delivering wireless connectivity.,35,3.8
+SP0812,SmartPhone X,RivalTech,smartphone,1130.45,Smartphone with long-lasting battery.,101,4.3
+SP0813,Mobile Z,NextCom,smartphone,956.63,Smartphone with advanced camera system.,144,0.0
+TV0814,SmartView TV,CinemaCo,smart_tv,649.74,40 inch smart TV with 4K resolution.,57,3.8
+TV0815,Vivid TV,Spectra,smart_tv,1596.69,75 inch smart TV with smart connectivity.,124,3.8
+TV0816,Vivid TV,ViewTech,smart_tv,2228.93,75 inch smart TV with HDR support.,83,4.5
+SP0817,Fusion Phone,RivalTech,smartphone,1102.03,Smartphone with long-lasting battery.,199,4.0
+SP0818,Mobile Z,RivalTech,smartphone,1161.62,Smartphone with 5G connectivity.,129,4.5
+SPK0819,Audio Pro,BassLine,speaker,352.66,Speaker delivering crystal clear sound.,42,4.0
+TV0820,Ultra TV,UltraVision,smart_tv,653.14,65 inch smart TV with HDR support.,86,3.9
+SP0821,Maxi Phone,NextCom,smartphone,495.8,Smartphone with long-lasting battery.,8,4.0
+SP0822,SmartPhone Y,Futura,smartphone,875.98,Smartphone with 5G connectivity.,143,4.0
+TV0823,Vivid TV,ViewTech,smart_tv,2014.71,75 inch smart TV with sleek design.,81,0.0
+SPK0824,BoomBox,BassLine,speaker,397.72,Speaker delivering compact design.,29,4.5
+TV0825,Infinity TV,CinemaCo,smart_tv,2920.5,55 inch smart TV with HDR support.,66,4.2
+SP0826,Mobile Z,NextCom,smartphone,442.68,Smartphone with advanced camera system.,68,3.9
+SPK0827,Audio Pro,BassLine,speaker,223.77,Speaker delivering crystal clear sound.,40,3.9
+TV0828,Infinity TV,CinemaCo,smart_tv,2838.24,75 inch smart TV with smart connectivity.,194,4.2
+SPK0829,Bass Boost,BeatBox,speaker,116.25,Speaker delivering deep bass.,121,4.2
+SPK0830,Audio Pro,SoundCo,speaker,276.72,Speaker delivering crystal clear sound.,160,3.8
+TV0831,Vivid TV,UltraVision,smart_tv,308.72,50 inch smart TV with smart connectivity.,154,3.8
+SP0832,SmartPhone X,Futura,smartphone,641.77,Smartphone with vivid display.,116,4.0
+SPK0833,Bass Boost,BeatBox,speaker,238.03,Speaker delivering deep bass.,99,3.5
+SP0834,Maxi Phone,TechCo,smartphone,712.01,Smartphone with advanced camera system.,174,3.5
+SPK0835,BoomBox,AudioMax,speaker,411.06,Speaker delivering crystal clear sound.,121,4.0
+SPK0836,SoundWave,SoundCo,speaker,56.93,Speaker delivering wireless connectivity.,70,4.2
+SP0837,Maxi Phone,TechCo,smartphone,1150.68,Smartphone with vivid display.,76,4.0
+SPK0838,BoomBox,AudioMax,speaker,184.38,Speaker delivering compact design.,72,4.2
+SPK0839,Bass Boost,SoundCo,speaker,402.05,Speaker delivering compact design.,63,3.5
+TV0840,Cinema TV,UltraVision,smart_tv,1438.69,55 inch smart TV with smart connectivity.,116,4.0
+SPK0841,Audio Pro,AudioMax,speaker,306.28,Speaker delivering wireless connectivity.,179,4.2
+SPK0842,ClearSound,BassLine,speaker,473.98,Speaker delivering wireless connectivity.,111,4.8
+SP0843,Mobile Z,TechCo,smartphone,397.46,Smartphone with advanced camera system.,21,0.0
+SPK0844,BoomBox,BassLine,speaker,58.25,Speaker delivering wireless connectivity.,38,3.1
+SPK0845,Bass Boost,AudioMax,speaker,359.0,Speaker delivering crystal clear sound.,102,4.0
+SP0846,Fusion Phone,RivalTech,smartphone,685.22,Smartphone with advanced camera system.,192,4.5
+SP0847,SmartPhone X,RivalTech,smartphone,218.17,Smartphone with 5G connectivity.,104,4.3
+SPK0848,ClearSound,BeatBox,speaker,132.28,Speaker delivering compact design.,96,4.0
+SPK0849,ClearSound,SoundCo,speaker,71.51,Speaker delivering compact design.,91,4.2
+SPK0850,BoomBox,SoundCo,speaker,290.58,Speaker delivering crystal clear sound.,23,4.0
+TV0851,Infinity TV,ViewTech,smart_tv,629.7,40 inch smart TV with smart connectivity.,18,4.3
+SP0852,SmartPhone Y,NextCom,smartphone,312.83,Smartphone with 5G connectivity.,95,4.2
+SP0853,SmartPhone X,Futura,smartphone,1105.75,Smartphone with vivid display.,130,4.4
+SPK0854,Bass Boost,SoundCo,speaker,486.06,Speaker delivering compact design.,162,0.0
+TV0855,Ultra TV,Spectra,smart_tv,834.43,40 inch smart TV with 4K resolution.,41,0.0
+SPK0856,Audio Pro,BassLine,speaker,352.83,Speaker delivering wireless connectivity.,1,4.3
+SPK0857,Audio Pro,SoundCo,speaker,154.65,Speaker delivering deep bass.,101,4.2
+SPK0858,SoundWave,BeatBox,speaker,364.78,Speaker delivering crystal clear sound.,138,0.0
+TV0859,SmartView TV,CinemaCo,smart_tv,2050.4,75 inch smart TV with 4K resolution.,68,4.5
+LP0860,Pro Book,UltraComp,laptop,1980.99,15.6 inch laptop featuring long battery life.,75,4.5
+SPK0861,Bass Boost,BassLine,speaker,220.81,Speaker delivering compact design.,116,3.8
+LP0862,Business Mate,TechCo,laptop,494.34,14 inch laptop featuring high performance graphics.,137,4.5
+TV0863,SmartView TV,Spectra,smart_tv,477.6,75 inch smart TV with HDR support.,4,4.5
+SP0864,SmartPhone X,Futura,smartphone,740.48,Smartphone with 5G connectivity.,57,3.5
+SPK0865,BoomBox,SoundCo,speaker,357.46,Speaker delivering compact design.,108,4.2
+SP0866,SmartPhone Y,NextCom,smartphone,674.74,Smartphone with long-lasting battery.,72,3.0
+TV0867,Ultra TV,CinemaCo,smart_tv,2138.58,65 inch smart TV with HDR support.,157,4.1
+SP0868,Fusion Phone,Futura,smartphone,1136.61,Smartphone with advanced camera system.,165,3.8
+TV0869,Vivid TV,UltraVision,smart_tv,546.7,65 inch smart TV with smart connectivity.,102,0.0
+SPK0870,ClearSound,BassLine,speaker,119.93,Speaker delivering crystal clear sound.,2,4.2
+TV0871,Infinity TV,Spectra,smart_tv,2246.75,65 inch smart TV with HDR support.,178,3.5
+LP0872,Business Mate,TechCo,laptop,554.85,15.6 inch laptop featuring high performance graphics.,192,4.0
+TV0873,Ultra TV,CinemaCo,smart_tv,748.96,65 inch smart TV with HDR support.,2,0.0
+SP0874,Mobile Z,NextCom,smartphone,824.26,Smartphone with 5G connectivity.,103,0.0
+SPK0875,ClearSound,BassLine,speaker,283.47,Speaker delivering deep bass.,92,4.2
+SP0876,Maxi Phone,TechCo,smartphone,793.81,Smartphone with 5G connectivity.,68,4.2
+LP0877,Business Mate,NextGen,laptop,759.81,13.3 inch laptop featuring high performance graphics.,88,3.5
+SPK0878,BoomBox,SoundCo,speaker,491.28,Speaker delivering compact design.,6,3.8
+SP0879,Maxi Phone,TechCo,smartphone,402.36,Smartphone with vivid display.,68,4.0
+SP0880,Mobile Z,TechCo,smartphone,536.94,Smartphone with 5G connectivity.,98,4.3
+LP0881,Business Mate,TechCo,laptop,304.37,14 inch laptop featuring high performance graphics.,48,4.2
+SPK0882,Bass Boost,AudioMax,speaker,431.93,Speaker delivering wireless connectivity.,136,4.5
+SP0883,SmartPhone Y,RivalTech,smartphone,817.04,Smartphone with advanced camera system.,112,4.0
+TV0884,Vivid TV,CinemaCo,smart_tv,2168.29,55 inch smart TV with HDR support.,142,4.2
+LP0885,Performance Pro,TechCo,laptop,1429.44,13.3 inch laptop featuring high performance graphics.,190,3.8
+TV0886,Infinity TV,CinemaCo,smart_tv,2421.52,55 inch smart TV with smart connectivity.,151,4.5
+LP0887,Ultra Thin,EconCo,laptop,1043.77,13.3 inch laptop featuring high performance graphics.,56,3.8
+SP0888,SmartPhone X,RivalTech,smartphone,1043.8,Smartphone with long-lasting battery.,14,3.0
+LP0889,Performance Pro,EconCo,laptop,895.92,17 inch laptop featuring high performance graphics.,40,4.0
+SPK0890,SoundWave,BassLine,speaker,247.54,Speaker delivering deep bass.,63,4.1
+SPK0891,Audio Pro,BassLine,speaker,112.12,Speaker delivering deep bass.,7,3.5
+SPK0892,Bass Boost,AudioMax,speaker,147.24,Speaker delivering wireless connectivity.,56,4.5
+SP0893,SmartPhone X,TechCo,smartphone,325.15,Smartphone with advanced camera system.,131,0.0
+SPK0894,Bass Boost,BeatBox,speaker,102.23,Speaker delivering deep bass.,189,0.0
+TV0895,Infinity TV,UltraVision,smart_tv,1475.46,50 inch smart TV with 4K resolution.,139,0.0
+SPK0896,Audio Pro,BassLine,speaker,267.84,Speaker delivering deep bass.,79,3.5
+SP0897,Fusion Phone,RivalTech,smartphone,372.83,Smartphone with 5G connectivity.,176,4.1
+SP0898,SmartPhone X,Futura,smartphone,1118.14,Smartphone with long-lasting battery.,115,4.0
+SPK0899,Audio Pro,BeatBox,speaker,334.1,Speaker delivering wireless connectivity.,32,3.9
+SPK0900,BoomBox,SoundCo,speaker,80.52,Speaker delivering deep bass.,122,0.0
+SP0901,SmartPhone X,RivalTech,smartphone,983.93,Smartphone with long-lasting battery.,41,4.0
+TV0902,Infinity TV,CinemaCo,smart_tv,1955.02,40 inch smart TV with HDR support.,156,3.7
+LP0903,Ultra Thin,TechCo,laptop,1567.19,17 inch laptop featuring long battery life.,124,3.5
+SP0904,Maxi Phone,NextCom,smartphone,755.4,Smartphone with vivid display.,35,3.0
+SP0905,SmartPhone Y,Futura,smartphone,558.86,Smartphone with vivid display.,159,0.0
+SP0906,SmartPhone Y,RivalTech,smartphone,436.55,Smartphone with long-lasting battery.,110,4.0
+SPK0907,ClearSound,SoundCo,speaker,301.2,Speaker delivering crystal clear sound.,52,0.0
+SPK0908,Audio Pro,BassLine,speaker,119.84,Speaker delivering deep bass.,157,4.2
+LP0909,Econo Note,NextGen,laptop,1350.63,14 inch laptop featuring long battery life.,126,3.9
+TV0910,Infinity TV,Spectra,smart_tv,1765.15,75 inch smart TV with 4K resolution.,72,4.0
+TV0911,Ultra TV,Spectra,smart_tv,2151.67,55 inch smart TV with HDR support.,134,3.2
+SPK0912,Bass Boost,BeatBox,speaker,378.43,Speaker delivering wireless connectivity.,185,4.2
+TV0913,SmartView TV,Spectra,smart_tv,302.2,55 inch smart TV with HDR support.,37,3.5
+SPK0914,BoomBox,BeatBox,speaker,59.59,Speaker delivering crystal clear sound.,85,4.5
+SPK0915,Bass Boost,SoundCo,speaker,294.05,Speaker delivering wireless connectivity.,105,4.2
+SPK0916,BoomBox,SoundCo,speaker,223.52,Speaker delivering crystal clear sound.,92,3.5
+LP0917,Econo Note,EconCo,laptop,542.25,17 inch laptop featuring lightweight design.,80,3.5
+LP0918,Business Mate,TechCo,laptop,1313.52,13.3 inch laptop featuring high performance graphics.,61,4.0
+SPK0919,SoundWave,SoundCo,speaker,280.67,Speaker delivering crystal clear sound.,44,4.5
+TV0920,SmartView TV,UltraVision,smart_tv,1388.18,55 inch smart TV with sleek design.,61,4.8
+SP0921,SmartPhone Y,NextCom,smartphone,258.71,Smartphone with long-lasting battery.,10,0.0
+SP0922,Fusion Phone,TechCo,smartphone,913.71,Smartphone with advanced camera system.,174,0.0
+SP0923,Fusion Phone,NextCom,smartphone,846.11,Smartphone with long-lasting battery.,166,4.5
+TV0924,SmartView TV,ViewTech,smart_tv,494.54,55 inch smart TV with sleek design.,129,4.5
+LP0925,Pro Book,EconCo,laptop,800.96,15.6 inch laptop featuring long battery life.,167,4.0
+SPK0926,Bass Boost,AudioMax,speaker,384.91,Speaker delivering deep bass.,131,4.3
+SPK0927,BoomBox,BassLine,speaker,132.2,Speaker delivering wireless connectivity.,139,3.0
+TV0928,Vivid TV,ViewTech,smart_tv,1762.66,55 inch smart TV with HDR support.,118,4.2
+SP0929,Fusion Phone,RivalTech,smartphone,1147.94,Smartphone with 5G connectivity.,4,4.0
+SP0930,Maxi Phone,NextCom,smartphone,1053.42,Smartphone with advanced camera system.,176,3.8
+SP0931,Mobile Z,NextCom,smartphone,740.92,Smartphone with long-lasting battery.,90,4.5
+TV0932,Vivid TV,CinemaCo,smart_tv,2291.24,75 inch smart TV with sleek design.,34,4.5
+TV0933,Vivid TV,CinemaCo,smart_tv,502.9,55 inch smart TV with HDR support.,87,4.5
+LP0934,Business Mate,NextGen,laptop,1034.51,13.3 inch laptop featuring latest processor.,132,2.5
+TV0935,Ultra TV,ViewTech,smart_tv,724.26,50 inch smart TV with sleek design.,72,4.3
+TV0936,Ultra TV,ViewTech,smart_tv,966.21,50 inch smart TV with smart connectivity.,6,3.8
+SPK0937,Bass Boost,SoundCo,speaker,485.13,Speaker delivering crystal clear sound.,174,4.0
+SP0938,Fusion Phone,Futura,smartphone,612.37,Smartphone with vivid display.,114,4.3
+TV0939,Vivid TV,Spectra,smart_tv,1344.8,40 inch smart TV with smart connectivity.,24,4.5
+TV0940,Cinema TV,ViewTech,smart_tv,2061.63,50 inch smart TV with sleek design.,113,4.5
+SPK0941,SoundWave,AudioMax,speaker,490.2,Speaker delivering crystal clear sound.,142,4.0
+SP0942,Fusion Phone,Futura,smartphone,1105.75,Smartphone with long-lasting battery.,65,3.5
+SPK0943,SoundWave,SoundCo,speaker,451.15,Speaker delivering wireless connectivity.,59,4.0
+TV0944,Cinema TV,Spectra,smart_tv,1305.49,65 inch smart TV with 4K resolution.,121,3.5
+SPK0945,Audio Pro,AudioMax,speaker,382.79,Speaker delivering compact design.,170,4.0
+SPK0946,SoundWave,BeatBox,speaker,280.54,Speaker delivering deep bass.,61,4.0
+LP0947,Business Mate,NextGen,laptop,1136.71,13.3 inch laptop featuring long battery life.,104,3.5
+SP0948,SmartPhone X,Futura,smartphone,943.12,Smartphone with advanced camera system.,149,3.5
+SP0949,SmartPhone Y,TechCo,smartphone,641.85,Smartphone with vivid display.,180,3.8
+LP0950,Business Mate,NextGen,laptop,808.96,15.6 inch laptop featuring lightweight design.,168,3.2
+SPK0951,Audio Pro,SoundCo,speaker,386.19,Speaker delivering crystal clear sound.,114,4.0
+SPK0952,Bass Boost,SoundCo,speaker,353.54,Speaker delivering compact design.,151,4.0
+SPK0953,Bass Boost,BeatBox,speaker,216.43,Speaker delivering deep bass.,19,4.0
+LP0954,Pro Book,NextGen,laptop,837.91,14 inch laptop featuring latest processor.,92,5.0
+SPK0955,ClearSound,SoundCo,speaker,95.49,Speaker delivering deep bass.,192,4.0
+TV0956,Ultra TV,ViewTech,smart_tv,1177.31,65 inch smart TV with HDR support.,126,3.8
+LP0957,Pro Book,UltraComp,laptop,1029.69,17 inch laptop featuring high performance graphics.,196,3.5
+SPK0958,Audio Pro,BeatBox,speaker,232.39,Speaker delivering compact design.,72,4.0
+SP0959,SmartPhone Y,TechCo,smartphone,738.37,Smartphone with vivid display.,27,3.7
+SP0960,Mobile Z,TechCo,smartphone,1078.32,Smartphone with 5G connectivity.,53,3.0
+SP0961,SmartPhone Y,RivalTech,smartphone,420.43,Smartphone with vivid display.,180,3.5
+SP0962,Maxi Phone,NextCom,smartphone,234.67,Smartphone with vivid display.,45,0.0
+SPK0963,Bass Boost,SoundCo,speaker,364.92,Speaker delivering compact design.,161,4.7
+TV0964,SmartView TV,ViewTech,smart_tv,2752.14,55 inch smart TV with HDR support.,6,0.0
+SPK0965,Audio Pro,SoundCo,speaker,360.82,Speaker delivering crystal clear sound.,27,4.5
+SPK0966,Audio Pro,BeatBox,speaker,447.11,Speaker delivering wireless connectivity.,128,5.0
+SP0967,Fusion Phone,TechCo,smartphone,827.99,Smartphone with advanced camera system.,39,4.2
+LP0968,Pro Book,EconCo,laptop,1524.42,15.6 inch laptop featuring lightweight design.,94,4.0
+TV0969,Cinema TV,CinemaCo,smart_tv,1852.32,55 inch smart TV with HDR support.,108,0.0
+LP0970,Ultra Thin,UltraComp,laptop,1282.87,14 inch laptop featuring high performance graphics.,197,3.8
+LP0971,Ultra Thin,EconCo,laptop,815.74,15.6 inch laptop featuring high performance graphics.,136,4.0
+SP0972,SmartPhone Y,NextCom,smartphone,812.01,Smartphone with vivid display.,183,4.1
+TV0973,SmartView TV,Spectra,smart_tv,361.94,50 inch smart TV with smart connectivity.,29,3.9
+SPK0974,BoomBox,AudioMax,speaker,439.05,Speaker delivering compact design.,86,3.5
+LP0975,Performance Pro,UltraComp,laptop,1184.88,17 inch laptop featuring long battery life.,9,0.0
+SP0976,Maxi Phone,RivalTech,smartphone,600.84,Smartphone with vivid display.,12,3.2
+SPK0977,SoundWave,SoundCo,speaker,327.38,Speaker delivering crystal clear sound.,26,3.7
+TV0978,SmartView TV,ViewTech,smart_tv,1164.8,40 inch smart TV with sleek design.,57,3.5
+SPK0979,ClearSound,BeatBox,speaker,385.88,Speaker delivering wireless connectivity.,151,3.8
+SPK0980,BoomBox,BassLine,speaker,428.2,Speaker delivering compact design.,98,4.2
+SPK0981,SoundWave,BassLine,speaker,110.43,Speaker delivering compact design.,70,4.5
+SPK0982,SoundWave,BeatBox,speaker,100.16,Speaker delivering wireless connectivity.,93,3.8
+SP0983,Maxi Phone,TechCo,smartphone,588.21,Smartphone with 5G connectivity.,4,0.0
+SPK0984,Bass Boost,AudioMax,speaker,468.36,Speaker delivering crystal clear sound.,155,0.0
+LP0985,Performance Pro,TechCo,laptop,555.06,15.6 inch laptop featuring long battery life.,89,3.7
+SP0986,SmartPhone Y,TechCo,smartphone,362.13,Smartphone with vivid display.,83,4.2
+TV0987,Vivid TV,UltraVision,smart_tv,1254.46,50 inch smart TV with 4K resolution.,100,3.6
+SPK0988,Audio Pro,BeatBox,speaker,162.04,Speaker delivering compact design.,21,4.2
+TV0989,Cinema TV,ViewTech,smart_tv,1646.88,75 inch smart TV with HDR support.,125,4.0
+SPK0990,Audio Pro,AudioMax,speaker,255.77,Speaker delivering wireless connectivity.,14,3.8
+SP0991,Fusion Phone,NextCom,smartphone,1065.91,Smartphone with vivid display.,14,4.0
+TV0992,Cinema TV,CinemaCo,smart_tv,935.48,65 inch smart TV with 4K resolution.,111,3.7
+TV0993,Infinity TV,UltraVision,smart_tv,2475.36,55 inch smart TV with sleek design.,190,3.0
+SPK0994,SoundWave,AudioMax,speaker,290.04,Speaker delivering wireless connectivity.,77,3.8
+SPK0995,SoundWave,SoundCo,speaker,266.78,Speaker delivering deep bass.,41,4.8
+SPK0996,ClearSound,BassLine,speaker,133.52,Speaker delivering deep bass.,74,0.0
+LP0997,Business Mate,UltraComp,laptop,1297.95,13.3 inch laptop featuring lightweight design.,141,3.9
+TV0998,Vivid TV,UltraVision,smart_tv,871.82,65 inch smart TV with smart connectivity.,182,3.5
+TV0999,Infinity TV,UltraVision,smart_tv,574.24,40 inch smart TV with 4K resolution.,172,4.0
+TV1000,SmartView TV,ViewTech,smart_tv,2563.34,55 inch smart TV with 4K resolution.,9,3.5
+SP1001,SmartPhone Y,TechCo,smartphone,1073.34,Smartphone with 5G connectivity.,150,0.0
+TV1002,Cinema TV,Spectra,smart_tv,354.34,40 inch smart TV with smart connectivity.,28,4.3
+TV1003,Ultra TV,UltraVision,smart_tv,2804.68,65 inch smart TV with smart connectivity.,31,4.0
+LP1004,Pro Book,UltraComp,laptop,624.83,14 inch laptop featuring lightweight design.,24,0.0
+LP1005,Pro Book,TechCo,laptop,1014.27,15.6 inch laptop featuring lightweight design.,66,3.8
+SPK1006,Bass Boost,BassLine,speaker,351.13,Speaker delivering compact design.,83,3.8
+TV1007,Ultra TV,CinemaCo,smart_tv,1641.16,40 inch smart TV with HDR support.,22,0.0
+TV1008,Infinity TV,CinemaCo,smart_tv,632.49,40 inch smart TV with 4K resolution.,17,4.2
+LP1009,Business Mate,NextGen,laptop,330.82,13.3 inch laptop featuring long battery life.,87,0.0
+SP1010,SmartPhone Y,Futura,smartphone,923.63,Smartphone with 5G connectivity.,94,3.8
+TV1011,Vivid TV,Spectra,smart_tv,2036.4,55 inch smart TV with sleek design.,190,4.0
+TV1012,Vivid TV,CinemaCo,smart_tv,2864.66,75 inch smart TV with 4K resolution.,42,4.5
+LP1013,Business Mate,NextGen,laptop,1592.06,13.3 inch laptop featuring long battery life.,131,4.0
+LP1014,Pro Book,UltraComp,laptop,1141.0,17 inch laptop featuring long battery life.,44,4.0
+SP1015,Fusion Phone,TechCo,smartphone,589.41,Smartphone with 5G connectivity.,54,3.8
+SPK1016,Bass Boost,AudioMax,speaker,62.83,Speaker delivering compact design.,48,4.0
+LP1017,Business Mate,NextGen,laptop,835.52,17 inch laptop featuring long battery life.,163,4.0
+TV1018,Ultra TV,UltraVision,smart_tv,1698.83,65 inch smart TV with 4K resolution.,138,3.8
+LP1019,Business Mate,EconCo,laptop,378.67,14 inch laptop featuring long battery life.,71,3.5
+SPK1020,BoomBox,AudioMax,speaker,66.15,Speaker delivering compact design.,187,4.5
+TV1021,Infinity TV,Spectra,smart_tv,746.32,65 inch smart TV with HDR support.,37,0.0
+SP1022,Fusion Phone,NextCom,smartphone,1026.18,Smartphone with vivid display.,84,3.5
+TV1023,Ultra TV,ViewTech,smart_tv,1958.11,40 inch smart TV with 4K resolution.,83,4.0
+LP1024,Business Mate,TechCo,laptop,1649.67,15.6 inch laptop featuring long battery life.,184,4.2
+SP1025,Fusion Phone,TechCo,smartphone,593.1,Smartphone with long-lasting battery.,29,4.5
+SP1026,Fusion Phone,Futura,smartphone,663.81,Smartphone with long-lasting battery.,168,4.0
+SP1027,SmartPhone X,RivalTech,smartphone,405.57,Smartphone with vivid display.,54,4.3
+SPK1028,Bass Boost,SoundCo,speaker,101.0,Speaker delivering wireless connectivity.,63,4.2
+LP1029,Ultra Thin,EconCo,laptop,589.54,14 inch laptop featuring lightweight design.,127,0.0
+SP1030,SmartPhone Y,NextCom,smartphone,1058.61,Smartphone with long-lasting battery.,98,4.5
+TV1031,Ultra TV,ViewTech,smart_tv,2007.49,40 inch smart TV with HDR support.,43,3.5
+SP1032,SmartPhone Y,Futura,smartphone,351.5,Smartphone with vivid display.,75,4.0
+LP1033,Business Mate,NextGen,laptop,702.26,17 inch laptop featuring long battery life.,157,0.0
+TV1034,Ultra TV,UltraVision,smart_tv,2917.19,65 inch smart TV with 4K resolution.,107,4.0
+TV1035,Infinity TV,Spectra,smart_tv,2225.61,50 inch smart TV with HDR support.,118,4.0
+SPK1036,Bass Boost,SoundCo,speaker,352.32,Speaker delivering deep bass.,128,4.1
+SP1037,SmartPhone X,TechCo,smartphone,918.68,Smartphone with 5G connectivity.,175,0.0
+SP1038,Fusion Phone,RivalTech,smartphone,404.84,Smartphone with 5G connectivity.,175,0.0
+TV1039,Ultra TV,ViewTech,smart_tv,1614.72,65 inch smart TV with HDR support.,38,3.2
+SPK1040,BoomBox,AudioMax,speaker,104.22,Speaker delivering deep bass.,123,0.0
+TV1041,Vivid TV,ViewTech,smart_tv,2708.86,50 inch smart TV with smart connectivity.,18,3.8
+SP1042,SmartPhone X,NextCom,smartphone,428.1,Smartphone with vivid display.,165,4.0
+LP1043,Ultra Thin,TechCo,laptop,496.92,15.6 inch laptop featuring high performance graphics.,128,3.5
+SP1044,Maxi Phone,NextCom,smartphone,308.93,Smartphone with 5G connectivity.,159,3.5
+SP1045,SmartPhone Y,TechCo,smartphone,408.06,Smartphone with long-lasting battery.,105,4.0
+LP1046,Ultra Thin,UltraComp,laptop,1035.37,15.6 inch laptop featuring latest processor.,2,0.0
+TV1047,Cinema TV,ViewTech,smart_tv,1629.42,55 inch smart TV with HDR support.,170,0.0
+LP1048,Ultra Thin,NextGen,laptop,1073.3,13.3 inch laptop featuring lightweight design.,113,4.2
+TV1049,Infinity TV,ViewTech,smart_tv,1332.63,65 inch smart TV with HDR support.,56,3.5
+SPK1050,Bass Boost,AudioMax,speaker,286.68,Speaker delivering crystal clear sound.,199,4.0
+SP1051,Maxi Phone,TechCo,smartphone,248.38,Smartphone with advanced camera system.,193,5.0
+SPK1052,Audio Pro,AudioMax,speaker,74.96,Speaker delivering deep bass.,155,4.4
+SP1053,Mobile Z,RivalTech,smartphone,426.06,Smartphone with vivid display.,64,3.5
+SP1054,SmartPhone Y,NextCom,smartphone,397.14,Smartphone with vivid display.,32,0.0
+SPK1055,SoundWave,SoundCo,speaker,376.39,Speaker delivering crystal clear sound.,79,4.3
+LP1056,Econo Note,NextGen,laptop,1950.3,17 inch laptop featuring latest processor.,64,3.5
+LP1057,Pro Book,TechCo,laptop,338.41,14 inch laptop featuring lightweight design.,174,0.0
+SPK1058,SoundWave,SoundCo,speaker,153.04,Speaker delivering wireless connectivity.,89,3.5
+SPK1059,Audio Pro,BassLine,speaker,164.29,Speaker delivering wireless connectivity.,78,0.0
+SPK1060,ClearSound,AudioMax,speaker,265.94,Speaker delivering wireless connectivity.,95,4.5
+TV1061,Ultra TV,ViewTech,smart_tv,1012.79,65 inch smart TV with smart connectivity.,36,4.0
+SP1062,Mobile Z,NextCom,smartphone,590.41,Smartphone with vivid display.,184,3.5
+TV1063,Ultra TV,UltraVision,smart_tv,987.22,55 inch smart TV with sleek design.,151,4.2
+SP1064,Maxi Phone,TechCo,smartphone,792.09,Smartphone with vivid display.,92,4.5
+LP1065,Pro Book,EconCo,laptop,349.27,17 inch laptop featuring latest processor.,45,4.0
+LP1066,Performance Pro,EconCo,laptop,1703.65,13.3 inch laptop featuring latest processor.,117,4.0
+LP1067,Performance Pro,NextGen,laptop,1069.52,14 inch laptop featuring lightweight design.,126,4.5
+SPK1068,ClearSound,BassLine,speaker,154.99,Speaker delivering compact design.,163,0.0
+TV1069,Ultra TV,UltraVision,smart_tv,2625.86,55 inch smart TV with 4K resolution.,127,3.5
+TV1070,Cinema TV,ViewTech,smart_tv,1055.11,75 inch smart TV with HDR support.,153,0.0
+SP1071,Mobile Z,NextCom,smartphone,970.71,Smartphone with vivid display.,77,3.5
+LP1072,Pro Book,EconCo,laptop,511.51,13.3 inch laptop featuring high performance graphics.,106,4.5
+LP1073,Ultra Thin,UltraComp,laptop,358.43,17 inch laptop featuring latest processor.,4,4.2
+TV1074,Infinity TV,ViewTech,smart_tv,2964.5,50 inch smart TV with sleek design.,19,3.5
+TV1075,Ultra TV,UltraVision,smart_tv,2395.01,50 inch smart TV with smart connectivity.,116,0.0
+TV1076,Infinity TV,UltraVision,smart_tv,2139.48,50 inch smart TV with sleek design.,164,3.5
+SP1077,Mobile Z,NextCom,smartphone,944.89,Smartphone with vivid display.,15,4.5
+SP1078,Maxi Phone,Futura,smartphone,635.9,Smartphone with advanced camera system.,34,3.8
+SPK1079,ClearSound,BassLine,speaker,50.36,Speaker delivering deep bass.,186,4.5
+SPK1080,BoomBox,BassLine,speaker,229.23,Speaker delivering wireless connectivity.,107,3.5
+SPK1081,ClearSound,BeatBox,speaker,304.3,Speaker delivering crystal clear sound.,5,4.5
+TV1082,Vivid TV,CinemaCo,smart_tv,1773.97,55 inch smart TV with 4K resolution.,137,4.2
+SP1083,Fusion Phone,Futura,smartphone,435.09,Smartphone with vivid display.,142,0.0
+SPK1084,Audio Pro,BassLine,speaker,312.52,Speaker delivering compact design.,2,0.0
+SPK1085,Bass Boost,BassLine,speaker,200.32,Speaker delivering deep bass.,181,4.2
+SP1086,Fusion Phone,TechCo,smartphone,424.63,Smartphone with advanced camera system.,145,3.5
+SPK1087,BoomBox,BeatBox,speaker,162.19,Speaker delivering crystal clear sound.,111,3.8
+TV1088,Infinity TV,CinemaCo,smart_tv,2354.97,55 inch smart TV with 4K resolution.,29,3.0
+SP1089,Maxi Phone,RivalTech,smartphone,492.03,Smartphone with advanced camera system.,48,3.5
+TV1090,Infinity TV,Spectra,smart_tv,1915.0,55 inch smart TV with HDR support.,190,0.0
+TV1091,Ultra TV,UltraVision,smart_tv,1353.22,65 inch smart TV with 4K resolution.,125,4.0
+TV1092,Ultra TV,UltraVision,smart_tv,1557.29,55 inch smart TV with sleek design.,185,4.5
+SPK1093,ClearSound,BassLine,speaker,445.46,Speaker delivering deep bass.,72,4.0
+SPK1094,Audio Pro,BeatBox,speaker,488.59,Speaker delivering compact design.,22,4.0
+SP1095,SmartPhone X,TechCo,smartphone,761.28,Smartphone with advanced camera system.,66,4.3
+SPK1096,ClearSound,BeatBox,speaker,125.28,Speaker delivering wireless connectivity.,78,4.5
+SPK1097,BoomBox,BassLine,speaker,109.44,Speaker delivering crystal clear sound.,63,3.5
+TV1098,Ultra TV,CinemaCo,smart_tv,867.07,50 inch smart TV with 4K resolution.,171,4.0
+LP1099,Econo Note,UltraComp,laptop,1230.58,17 inch laptop featuring lightweight design.,142,0.0
+SPK1100,Bass Boost,SoundCo,speaker,157.94,Speaker delivering compact design.,9,4.0
+TV1101,Vivid TV,Spectra,smart_tv,555.13,75 inch smart TV with HDR support.,176,0.0
+TV1102,Cinema TV,UltraVision,smart_tv,520.67,40 inch smart TV with sleek design.,2,4.2
+SPK1103,SoundWave,BassLine,speaker,424.06,Speaker delivering wireless connectivity.,57,3.2
+TV1104,SmartView TV,CinemaCo,smart_tv,1302.91,50 inch smart TV with 4K resolution.,111,4.5
+TV1105,Ultra TV,Spectra,smart_tv,346.96,50 inch smart TV with HDR support.,26,4.0
+LP1106,Econo Note,NextGen,laptop,345.05,15.6 inch laptop featuring lightweight design.,115,4.0
+TV1107,Infinity TV,ViewTech,smart_tv,1979.6,65 inch smart TV with 4K resolution.,70,4.0
+SP1108,SmartPhone X,RivalTech,smartphone,1124.39,Smartphone with vivid display.,136,4.0
+SP1109,Maxi Phone,Futura,smartphone,325.44,Smartphone with 5G connectivity.,182,4.0
+LP1110,Ultra Thin,TechCo,laptop,875.51,17 inch laptop featuring long battery life.,199,3.7
+LP1111,Econo Note,EconCo,laptop,877.16,14 inch laptop featuring long battery life.,121,4.0
+SP1112,SmartPhone Y,NextCom,smartphone,883.17,Smartphone with long-lasting battery.,99,4.5
+TV1113,Ultra TV,CinemaCo,smart_tv,2892.02,50 inch smart TV with smart connectivity.,180,4.0
+SP1114,SmartPhone X,RivalTech,smartphone,700.99,Smartphone with vivid display.,198,4.0
+SPK1115,ClearSound,BassLine,speaker,332.22,Speaker delivering wireless connectivity.,118,4.3
+LP1116,Business Mate,TechCo,laptop,717.55,17 inch laptop featuring long battery life.,110,4.0
+LP1117,Pro Book,UltraComp,laptop,560.8,13.3 inch laptop featuring latest processor.,20,4.5
+TV1118,Vivid TV,Spectra,smart_tv,2499.34,55 inch smart TV with 4K resolution.,36,4.4
+LP1119,Business Mate,EconCo,laptop,1721.48,13.3 inch laptop featuring lightweight design.,52,3.9
+SP1120,Fusion Phone,RivalTech,smartphone,873.76,Smartphone with vivid display.,35,4.5
+SPK1121,BoomBox,BeatBox,speaker,89.83,Speaker delivering compact design.,81,3.8
+SPK1122,BoomBox,BassLine,speaker,460.08,Speaker delivering wireless connectivity.,58,0.0
+SP1123,Fusion Phone,Futura,smartphone,333.64,Smartphone with 5G connectivity.,120,3.2
+SPK1124,ClearSound,AudioMax,speaker,413.77,Speaker delivering deep bass.,41,4.3
+TV1125,Vivid TV,CinemaCo,smart_tv,2496.8,50 inch smart TV with HDR support.,23,3.8
+LP1126,Performance Pro,UltraComp,laptop,620.38,15.6 inch laptop featuring lightweight design.,140,0.0
+SPK1127,ClearSound,SoundCo,speaker,266.97,Speaker delivering wireless connectivity.,46,4.0
+SPK1128,SoundWave,SoundCo,speaker,206.81,Speaker delivering wireless connectivity.,92,4.2
+LP1129,Ultra Thin,NextGen,laptop,1670.7,14 inch laptop featuring latest processor.,21,4.4
+TV1130,Cinema TV,Spectra,smart_tv,1961.88,55 inch smart TV with sleek design.,83,3.0
+SPK1131,Audio Pro,BeatBox,speaker,387.68,Speaker delivering deep bass.,127,0.0
+LP1132,Econo Note,EconCo,laptop,837.54,15.6 inch laptop featuring long battery life.,93,3.8
+SPK1133,Audio Pro,AudioMax,speaker,430.23,Speaker delivering deep bass.,67,4.8
+TV1134,Cinema TV,ViewTech,smart_tv,1101.98,75 inch smart TV with 4K resolution.,43,0.0
+SP1135,SmartPhone X,TechCo,smartphone,1182.85,Smartphone with long-lasting battery.,154,4.2
+TV1136,Infinity TV,CinemaCo,smart_tv,783.79,50 inch smart TV with HDR support.,188,3.8
+LP1137,Ultra Thin,NextGen,laptop,1823.02,17 inch laptop featuring long battery life.,101,4.8
+LP1138,Business Mate,EconCo,laptop,1310.63,17 inch laptop featuring latest processor.,177,3.7
+TV1139,Ultra TV,CinemaCo,smart_tv,2585.87,50 inch smart TV with 4K resolution.,178,4.5
+TV1140,Ultra TV,Spectra,smart_tv,487.54,40 inch smart TV with sleek design.,103,3.8
+SPK1141,Bass Boost,SoundCo,speaker,227.89,Speaker delivering crystal clear sound.,149,4.1
+TV1142,SmartView TV,CinemaCo,smart_tv,1852.47,75 inch smart TV with 4K resolution.,92,4.0
+TV1143,Ultra TV,ViewTech,smart_tv,2515.8,65 inch smart TV with sleek design.,56,4.3
+LP1144,Business Mate,UltraComp,laptop,1378.58,13.3 inch laptop featuring latest processor.,90,4.1
+LP1145,Ultra Thin,TechCo,laptop,1703.68,13.3 inch laptop featuring high performance graphics.,197,4.0
+TV1146,Ultra TV,ViewTech,smart_tv,1612.6,65 inch smart TV with smart connectivity.,55,3.2
+LP1147,Econo Note,UltraComp,laptop,1037.24,15.6 inch laptop featuring high performance graphics.,144,3.9
+SP1148,SmartPhone Y,RivalTech,smartphone,288.48,Smartphone with long-lasting battery.,180,4.3
+LP1149,Pro Book,EconCo,laptop,1171.48,17 inch laptop featuring long battery life.,133,4.0
+SPK1150,ClearSound,SoundCo,speaker,218.18,Speaker delivering wireless connectivity.,116,3.0
+SPK1151,Bass Boost,BassLine,speaker,135.94,Speaker delivering compact design.,68,4.2
+TV1152,Ultra TV,UltraVision,smart_tv,2180.3,55 inch smart TV with smart connectivity.,96,0.0
+SP1153,Fusion Phone,TechCo,smartphone,541.82,Smartphone with advanced camera system.,23,4.2
+SPK1154,SoundWave,BassLine,speaker,453.0,Speaker delivering deep bass.,192,4.5
+SP1155,Fusion Phone,Futura,smartphone,994.43,Smartphone with advanced camera system.,117,4.0
+SPK1156,BoomBox,AudioMax,speaker,493.59,Speaker delivering deep bass.,4,3.5
+TV1157,Ultra TV,Spectra,smart_tv,385.92,50 inch smart TV with 4K resolution.,41,4.0
+SPK1158,ClearSound,BeatBox,speaker,499.75,Speaker delivering compact design.,90,4.5
+TV1159,Vivid TV,UltraVision,smart_tv,2184.41,75 inch smart TV with HDR support.,48,4.8
+LP1160,Ultra Thin,UltraComp,laptop,996.31,13.3 inch laptop featuring long battery life.,38,4.2
+LP1161,Econo Note,TechCo,laptop,595.75,15.6 inch laptop featuring lightweight design.,195,0.0
+SPK1162,BoomBox,SoundCo,speaker,395.13,Speaker delivering wireless connectivity.,79,4.0
+LP1163,Business Mate,EconCo,laptop,1681.52,14 inch laptop featuring long battery life.,67,4.4
+SPK1164,BoomBox,BeatBox,speaker,150.23,Speaker delivering wireless connectivity.,135,3.9
+SPK1165,BoomBox,SoundCo,speaker,366.46,Speaker delivering wireless connectivity.,8,0.0
+LP1166,Pro Book,TechCo,laptop,1711.28,14 inch laptop featuring long battery life.,158,0.0
+TV1167,Ultra TV,UltraVision,smart_tv,708.55,75 inch smart TV with HDR support.,58,0.0
+LP1168,Business Mate,UltraComp,laptop,1974.83,15.6 inch laptop featuring long battery life.,11,4.2
+LP1169,Pro Book,UltraComp,laptop,1870.08,17 inch laptop featuring latest processor.,115,4.2
+SPK1170,ClearSound,BeatBox,speaker,492.11,Speaker delivering compact design.,138,3.8
+TV1171,Infinity TV,ViewTech,smart_tv,443.47,40 inch smart TV with smart connectivity.,166,3.5
+SPK1172,Bass Boost,BeatBox,speaker,238.25,Speaker delivering crystal clear sound.,24,3.6
+SP1173,Mobile Z,NextCom,smartphone,719.31,Smartphone with vivid display.,55,4.5
+SP1174,Maxi Phone,TechCo,smartphone,1109.9,Smartphone with 5G connectivity.,173,4.8
+SPK1175,Audio Pro,AudioMax,speaker,289.43,Speaker delivering crystal clear sound.,44,4.0
+SPK1176,Audio Pro,SoundCo,speaker,454.62,Speaker delivering compact design.,128,3.8
+SPK1177,BoomBox,BassLine,speaker,358.77,Speaker delivering deep bass.,51,4.8
+LP1178,Business Mate,UltraComp,laptop,517.59,13.3 inch laptop featuring long battery life.,81,4.5
+LP1179,Business Mate,NextGen,laptop,436.87,15.6 inch laptop featuring long battery life.,144,4.8
+LP1180,Pro Book,NextGen,laptop,664.31,15.6 inch laptop featuring lightweight design.,46,4.4
+SPK1181,Bass Boost,SoundCo,speaker,379.22,Speaker delivering compact design.,86,3.9
+LP1182,Performance Pro,EconCo,laptop,349.6,13.3 inch laptop featuring latest processor.,23,4.0
+SPK1183,Bass Boost,AudioMax,speaker,106.16,Speaker delivering crystal clear sound.,9,4.2
+LP1184,Ultra Thin,UltraComp,laptop,949.14,15.6 inch laptop featuring lightweight design.,43,3.8
+LP1185,Performance Pro,EconCo,laptop,997.77,15.6 inch laptop featuring high performance graphics.,122,4.0
+TV1186,SmartView TV,UltraVision,smart_tv,1427.47,65 inch smart TV with smart connectivity.,178,4.5
+TV1187,Vivid TV,Spectra,smart_tv,2174.75,55 inch smart TV with smart connectivity.,33,3.7
+SPK1188,Audio Pro,BassLine,speaker,287.92,Speaker delivering crystal clear sound.,28,4.5
+LP1189,Econo Note,TechCo,laptop,395.16,13.3 inch laptop featuring lightweight design.,45,4.0
+TV1190,Ultra TV,Spectra,smart_tv,788.09,50 inch smart TV with smart connectivity.,50,4.0
+TV1191,Infinity TV,ViewTech,smart_tv,692.5,50 inch smart TV with HDR support.,57,4.0
+SP1192,Mobile Z,TechCo,smartphone,612.39,Smartphone with long-lasting battery.,168,4.8
+SP1193,SmartPhone Y,Futura,smartphone,1024.39,Smartphone with 5G connectivity.,27,4.0
+SPK1194,Audio Pro,AudioMax,speaker,249.02,Speaker delivering deep bass.,185,0.0
+LP1195,Business Mate,UltraComp,laptop,963.04,17 inch laptop featuring high performance graphics.,49,4.3
+SP1196,Fusion Phone,TechCo,smartphone,1031.29,Smartphone with long-lasting battery.,159,3.8
+SPK1197,Audio Pro,AudioMax,speaker,260.22,Speaker delivering crystal clear sound.,75,3.8
+SPK1198,Audio Pro,BeatBox,speaker,437.69,Speaker delivering crystal clear sound.,144,4.2
+SPK1199,ClearSound,AudioMax,speaker,230.38,Speaker delivering deep bass.,15,4.0
+SPK1200,ClearSound,AudioMax,speaker,141.82,Speaker delivering wireless connectivity.,140,3.8
+TV1201,Vivid TV,ViewTech,smart_tv,1416.89,75 inch smart TV with sleek design.,74,4.5
+TV1202,Infinity TV,Spectra,smart_tv,1422.01,75 inch smart TV with sleek design.,37,4.0
+TV1203,Ultra TV,CinemaCo,smart_tv,2334.66,65 inch smart TV with sleek design.,184,0.0
+SPK1204,Audio Pro,BassLine,speaker,291.85,Speaker delivering crystal clear sound.,12,0.0
+SP1205,Mobile Z,RivalTech,smartphone,335.9,Smartphone with long-lasting battery.,158,3.0
+LP1206,Business Mate,UltraComp,laptop,476.99,17 inch laptop featuring lightweight design.,184,3.8
+SP1207,Fusion Phone,NextCom,smartphone,1191.8,Smartphone with advanced camera system.,105,4.1
+TV1208,Vivid TV,CinemaCo,smart_tv,2868.84,55 inch smart TV with sleek design.,25,4.2
+LP1209,Econo Note,UltraComp,laptop,1852.21,15.6 inch laptop featuring lightweight design.,19,4.1
+SPK1210,BoomBox,AudioMax,speaker,409.43,Speaker delivering crystal clear sound.,198,3.8
+SP1211,Maxi Phone,Futura,smartphone,723.23,Smartphone with 5G connectivity.,104,4.2
+TV1212,SmartView TV,Spectra,smart_tv,1805.81,40 inch smart TV with 4K resolution.,57,4.8
+SPK1213,ClearSound,AudioMax,speaker,116.29,Speaker delivering crystal clear sound.,200,3.8
+SPK1214,SoundWave,BeatBox,speaker,89.65,Speaker delivering wireless connectivity.,2,3.5
+TV1215,Cinema TV,UltraVision,smart_tv,634.26,65 inch smart TV with HDR support.,169,3.7
+LP1216,Business Mate,TechCo,laptop,872.92,15.6 inch laptop featuring high performance graphics.,63,4.5
+LP1217,Econo Note,TechCo,laptop,1447.24,17 inch laptop featuring lightweight design.,70,3.5
+SP1218,Maxi Phone,TechCo,smartphone,409.44,Smartphone with vivid display.,59,4.0
+SPK1219,Bass Boost,BeatBox,speaker,442.67,Speaker delivering crystal clear sound.,128,3.5
+SPK1220,BoomBox,AudioMax,speaker,278.39,Speaker delivering compact design.,167,4.0
+TV1221,Ultra TV,ViewTech,smart_tv,2298.19,40 inch smart TV with smart connectivity.,197,3.5
+LP1222,Business Mate,EconCo,laptop,657.87,17 inch laptop featuring latest processor.,51,3.8
+SP1223,Mobile Z,TechCo,smartphone,851.9,Smartphone with 5G connectivity.,135,0.0
+TV1224,Ultra TV,ViewTech,smart_tv,832.52,50 inch smart TV with HDR support.,50,3.0
+SP1225,SmartPhone Y,NextCom,smartphone,965.75,Smartphone with advanced camera system.,47,4.0
+SP1226,SmartPhone Y,TechCo,smartphone,477.06,Smartphone with 5G connectivity.,120,4.0
+SPK1227,ClearSound,BeatBox,speaker,456.89,Speaker delivering crystal clear sound.,113,4.5
+SPK1228,Bass Boost,SoundCo,speaker,59.24,Speaker delivering wireless connectivity.,22,3.5
+TV1229,Vivid TV,CinemaCo,smart_tv,1391.56,55 inch smart TV with smart connectivity.,61,3.8
+SP1230,Maxi Phone,Futura,smartphone,908.48,Smartphone with 5G connectivity.,118,4.1
+TV1231,Infinity TV,UltraVision,smart_tv,1109.63,55 inch smart TV with 4K resolution.,141,4.0
+SPK1232,ClearSound,SoundCo,speaker,90.77,Speaker delivering wireless connectivity.,83,3.7
+SP1233,Mobile Z,RivalTech,smartphone,911.83,Smartphone with long-lasting battery.,147,4.7
+SP1234,SmartPhone X,TechCo,smartphone,896.62,Smartphone with advanced camera system.,37,4.0
+TV1235,Vivid TV,Spectra,smart_tv,879.25,75 inch smart TV with 4K resolution.,168,3.8
+SP1236,Maxi Phone,Futura,smartphone,1046.66,Smartphone with long-lasting battery.,126,0.0
+SP1237,Maxi Phone,NextCom,smartphone,554.81,Smartphone with 5G connectivity.,11,4.2
+SP1238,Fusion Phone,TechCo,smartphone,770.75,Smartphone with long-lasting battery.,177,0.0
+SP1239,Mobile Z,RivalTech,smartphone,372.47,Smartphone with 5G connectivity.,59,4.5
+LP1240,Ultra Thin,TechCo,laptop,1207.25,14 inch laptop featuring latest processor.,163,4.0
+LP1241,Performance Pro,TechCo,laptop,1187.13,17 inch laptop featuring long battery life.,184,4.0
+SPK1242,SoundWave,AudioMax,speaker,446.42,Speaker delivering compact design.,15,3.8
+SPK1243,BoomBox,BassLine,speaker,65.64,Speaker delivering deep bass.,97,3.9
+TV1244,Vivid TV,Spectra,smart_tv,2397.71,65 inch smart TV with 4K resolution.,199,4.2
+LP1245,Pro Book,NextGen,laptop,488.06,15.6 inch laptop featuring high performance graphics.,7,3.5
+SP1246,Fusion Phone,Futura,smartphone,1193.46,Smartphone with 5G connectivity.,127,3.7
+TV1247,Vivid TV,UltraVision,smart_tv,1842.66,65 inch smart TV with smart connectivity.,139,0.0
+TV1248,SmartView TV,CinemaCo,smart_tv,1248.63,75 inch smart TV with HDR support.,107,3.2
+LP1249,Econo Note,NextGen,laptop,806.56,13.3 inch laptop featuring high performance graphics.,46,4.8
+SP1250,Maxi Phone,Futura,smartphone,337.59,Smartphone with 5G connectivity.,30,4.2
+LP1251,Ultra Thin,EconCo,laptop,1059.62,15.6 inch laptop featuring high performance graphics.,14,4.0
+TV1252,Infinity TV,UltraVision,smart_tv,680.54,50 inch smart TV with sleek design.,199,3.5
+TV1253,Vivid TV,Spectra,smart_tv,1660.37,65 inch smart TV with sleek design.,69,3.8
+TV1254,Vivid TV,ViewTech,smart_tv,2003.12,65 inch smart TV with 4K resolution.,19,4.5
+TV1255,SmartView TV,ViewTech,smart_tv,1824.21,55 inch smart TV with smart connectivity.,194,4.2
+TV1256,Ultra TV,CinemaCo,smart_tv,2856.86,55 inch smart TV with 4K resolution.,68,3.8
+SP1257,SmartPhone X,RivalTech,smartphone,870.45,Smartphone with vivid display.,104,4.5
+SP1258,SmartPhone Y,Futura,smartphone,1156.15,Smartphone with advanced camera system.,152,3.3
+SP1259,Fusion Phone,NextCom,smartphone,459.02,Smartphone with 5G connectivity.,8,4.0
+TV1260,SmartView TV,CinemaCo,smart_tv,2454.67,55 inch smart TV with 4K resolution.,199,3.5
+TV1261,Ultra TV,CinemaCo,smart_tv,2559.39,65 inch smart TV with HDR support.,188,4.0
+LP1262,Performance Pro,NextGen,laptop,513.66,14 inch laptop featuring long battery life.,148,4.0
+TV1263,Ultra TV,UltraVision,smart_tv,2767.53,40 inch smart TV with HDR support.,38,3.8
+LP1264,Performance Pro,UltraComp,laptop,1325.57,15.6 inch laptop featuring lightweight design.,161,3.8
+SPK1265,ClearSound,BeatBox,speaker,247.17,Speaker delivering deep bass.,46,0.0
+SP1266,Fusion Phone,TechCo,smartphone,939.24,Smartphone with 5G connectivity.,94,4.5
+TV1267,Vivid TV,ViewTech,smart_tv,2606.14,40 inch smart TV with 4K resolution.,62,3.5
+SP1268,Mobile Z,NextCom,smartphone,631.52,Smartphone with long-lasting battery.,86,3.8
+SP1269,SmartPhone Y,NextCom,smartphone,813.76,Smartphone with long-lasting battery.,106,5.0
+SP1270,Fusion Phone,RivalTech,smartphone,263.3,Smartphone with vivid display.,82,3.0
+TV1271,Ultra TV,ViewTech,smart_tv,2885.53,65 inch smart TV with smart connectivity.,16,3.5
+LP1272,Performance Pro,NextGen,laptop,529.16,15.6 inch laptop featuring long battery life.,60,3.5
+SPK1273,SoundWave,AudioMax,speaker,255.44,Speaker delivering wireless connectivity.,118,4.2
+LP1274,Pro Book,NextGen,laptop,1655.57,15.6 inch laptop featuring lightweight design.,161,4.0
+TV1275,Vivid TV,UltraVision,smart_tv,2155.46,55 inch smart TV with 4K resolution.,33,0.0
+SPK1276,BoomBox,BeatBox,speaker,414.81,Speaker delivering compact design.,160,4.5
+LP1277,Pro Book,UltraComp,laptop,554.5,15.6 inch laptop featuring high performance graphics.,132,0.0
+SP1278,SmartPhone X,TechCo,smartphone,397.7,Smartphone with advanced camera system.,137,4.0
+SP1279,Fusion Phone,NextCom,smartphone,456.48,Smartphone with long-lasting battery.,28,3.5
+LP1280,Econo Note,EconCo,laptop,355.55,15.6 inch laptop featuring high performance graphics.,44,4.5
+SPK1281,Bass Boost,SoundCo,speaker,166.2,Speaker delivering wireless connectivity.,90,4.1
+LP1282,Performance Pro,TechCo,laptop,580.28,15.6 inch laptop featuring latest processor.,195,4.1
+TV1283,SmartView TV,ViewTech,smart_tv,2377.57,65 inch smart TV with sleek design.,67,3.8
+LP1284,Ultra Thin,NextGen,laptop,568.72,13.3 inch laptop featuring lightweight design.,107,4.5
+SPK1285,Bass Boost,BeatBox,speaker,370.66,Speaker delivering deep bass.,130,4.2
+LP1286,Econo Note,TechCo,laptop,1544.61,14 inch laptop featuring lightweight design.,169,4.0
+SPK1287,BoomBox,BassLine,speaker,87.68,Speaker delivering crystal clear sound.,154,0.0
+SPK1288,BoomBox,BeatBox,speaker,424.05,Speaker delivering compact design.,23,4.5
+LP1289,Pro Book,NextGen,laptop,1544.1,17 inch laptop featuring lightweight design.,169,4.0
+SP1290,Fusion Phone,RivalTech,smartphone,985.63,Smartphone with vivid display.,70,4.0
+SP1291,Maxi Phone,Futura,smartphone,269.02,Smartphone with 5G connectivity.,50,3.8
+SPK1292,Audio Pro,BeatBox,speaker,141.78,Speaker delivering crystal clear sound.,122,4.5
+SP1293,Maxi Phone,RivalTech,smartphone,401.81,Smartphone with long-lasting battery.,136,5.0
+SPK1294,SoundWave,AudioMax,speaker,291.65,Speaker delivering crystal clear sound.,37,0.0
+SP1295,SmartPhone Y,NextCom,smartphone,1062.38,Smartphone with advanced camera system.,121,3.9
+SPK1296,ClearSound,BeatBox,speaker,407.59,Speaker delivering compact design.,5,3.0
+SPK1297,BoomBox,BassLine,speaker,239.07,Speaker delivering crystal clear sound.,183,4.2
+LP1298,Ultra Thin,TechCo,laptop,959.02,13.3 inch laptop featuring latest processor.,67,3.5
+TV1299,Vivid TV,CinemaCo,smart_tv,2255.71,40 inch smart TV with 4K resolution.,122,0.0
+SP1300,SmartPhone X,TechCo,smartphone,968.15,Smartphone with long-lasting battery.,192,4.5
+SPK1301,BoomBox,BeatBox,speaker,369.14,Speaker delivering crystal clear sound.,28,4.0
+SP1302,SmartPhone X,NextCom,smartphone,208.97,Smartphone with 5G connectivity.,191,3.9
+TV1303,Vivid TV,Spectra,smart_tv,2081.24,55 inch smart TV with smart connectivity.,134,5.0
+SP1304,SmartPhone X,Futura,smartphone,769.09,Smartphone with vivid display.,15,5.0
+LP1305,Ultra Thin,TechCo,laptop,894.06,17 inch laptop featuring long battery life.,183,3.7
+TV1306,Cinema TV,ViewTech,smart_tv,632.67,75 inch smart TV with HDR support.,77,4.0
+SP1307,SmartPhone X,NextCom,smartphone,521.7,Smartphone with long-lasting battery.,131,3.5
+LP1308,Business Mate,UltraComp,laptop,892.73,14 inch laptop featuring latest processor.,115,4.3
+TV1309,SmartView TV,Spectra,smart_tv,2835.3,75 inch smart TV with smart connectivity.,52,0.0
+LP1310,Ultra Thin,TechCo,laptop,619.83,14 inch laptop featuring high performance graphics.,196,3.8
+SP1311,Maxi Phone,TechCo,smartphone,967.17,Smartphone with 5G connectivity.,12,4.2
+SPK1312,BoomBox,AudioMax,speaker,54.3,Speaker delivering wireless connectivity.,66,0.0
+LP1313,Pro Book,UltraComp,laptop,1522.55,14 inch laptop featuring latest processor.,81,3.0
+SP1314,Mobile Z,RivalTech,smartphone,329.64,Smartphone with advanced camera system.,149,4.0
+SP1315,Fusion Phone,TechCo,smartphone,1173.62,Smartphone with 5G connectivity.,48,4.5
+SPK1316,ClearSound,BassLine,speaker,328.87,Speaker delivering crystal clear sound.,195,3.8
+TV1317,Infinity TV,Spectra,smart_tv,491.5,40 inch smart TV with HDR support.,198,4.0
+TV1318,Cinema TV,CinemaCo,smart_tv,512.84,55 inch smart TV with HDR support.,66,3.5
+LP1319,Performance Pro,EconCo,laptop,887.38,15.6 inch laptop featuring high performance graphics.,30,4.1
+SP1320,Mobile Z,TechCo,smartphone,1159.74,Smartphone with long-lasting battery.,164,4.0
+SPK1321,Audio Pro,BeatBox,speaker,298.5,Speaker delivering deep bass.,92,4.5
+SPK1322,Bass Boost,SoundCo,speaker,376.93,Speaker delivering compact design.,139,3.5
+TV1323,Vivid TV,ViewTech,smart_tv,2079.48,65 inch smart TV with 4K resolution.,146,4.5
+SPK1324,SoundWave,AudioMax,speaker,201.41,Speaker delivering deep bass.,177,3.2
+LP1325,Performance Pro,UltraComp,laptop,1736.38,14 inch laptop featuring long battery life.,104,4.5
+LP1326,Pro Book,EconCo,laptop,1282.04,14 inch laptop featuring high performance graphics.,30,3.5
+TV1327,Infinity TV,CinemaCo,smart_tv,661.85,50 inch smart TV with HDR support.,103,4.1
+SP1328,Mobile Z,Futura,smartphone,793.74,Smartphone with long-lasting battery.,127,3.6
+TV1329,Ultra TV,CinemaCo,smart_tv,2275.0,40 inch smart TV with smart connectivity.,73,3.5
+LP1330,Performance Pro,TechCo,laptop,1197.96,14 inch laptop featuring high performance graphics.,57,3.4
+TV1331,SmartView TV,UltraVision,smart_tv,1162.04,40 inch smart TV with sleek design.,111,4.5
+LP1332,Econo Note,TechCo,laptop,1286.13,17 inch laptop featuring latest processor.,164,3.5
+SP1333,Maxi Phone,NextCom,smartphone,938.28,Smartphone with 5G connectivity.,33,4.0
+LP1334,Performance Pro,UltraComp,laptop,1923.43,14 inch laptop featuring long battery life.,188,3.8
+LP1335,Pro Book,TechCo,laptop,591.67,14 inch laptop featuring lightweight design.,52,4.5
+TV1336,Ultra TV,Spectra,smart_tv,1753.42,65 inch smart TV with smart connectivity.,65,4.0
+SP1337,Fusion Phone,Futura,smartphone,1091.59,Smartphone with 5G connectivity.,14,3.8
+SP1338,Maxi Phone,TechCo,smartphone,416.87,Smartphone with advanced camera system.,25,0.0
+SPK1339,Audio Pro,BassLine,speaker,267.47,Speaker delivering deep bass.,144,4.7
+LP1340,Ultra Thin,NextGen,laptop,1397.45,13.3 inch laptop featuring high performance graphics.,128,0.0
+TV1341,SmartView TV,CinemaCo,smart_tv,518.23,65 inch smart TV with 4K resolution.,46,0.0
+SPK1342,Bass Boost,AudioMax,speaker,462.61,Speaker delivering crystal clear sound.,4,3.5
+SPK1343,Audio Pro,SoundCo,speaker,132.46,Speaker delivering wireless connectivity.,31,4.5
+SPK1344,ClearSound,BeatBox,speaker,241.27,Speaker delivering deep bass.,134,4.5
+LP1345,Performance Pro,EconCo,laptop,664.64,14 inch laptop featuring lightweight design.,17,4.3
+TV1346,Vivid TV,UltraVision,smart_tv,2132.59,40 inch smart TV with HDR support.,164,4.5
+TV1347,Ultra TV,Spectra,smart_tv,373.91,40 inch smart TV with smart connectivity.,177,3.8
+TV1348,Cinema TV,CinemaCo,smart_tv,2782.04,50 inch smart TV with smart connectivity.,159,3.5
+SP1349,Mobile Z,NextCom,smartphone,361.03,Smartphone with long-lasting battery.,35,5.0
+SP1350,Maxi Phone,TechCo,smartphone,891.22,Smartphone with advanced camera system.,179,3.5
+SPK1351,BoomBox,AudioMax,speaker,93.11,Speaker delivering crystal clear sound.,127,3.0
+TV1352,Ultra TV,CinemaCo,smart_tv,868.56,75 inch smart TV with sleek design.,23,0.0
+SPK1353,ClearSound,AudioMax,speaker,160.1,Speaker delivering crystal clear sound.,131,4.0
+TV1354,Ultra TV,ViewTech,smart_tv,1801.81,65 inch smart TV with HDR support.,174,4.3
+SPK1355,BoomBox,AudioMax,speaker,128.2,Speaker delivering crystal clear sound.,14,0.0
+LP1356,Business Mate,UltraComp,laptop,1742.55,14 inch laptop featuring lightweight design.,189,4.0
+TV1357,Ultra TV,UltraVision,smart_tv,485.68,75 inch smart TV with smart connectivity.,64,0.0
+LP1358,Business Mate,NextGen,laptop,1215.43,13.3 inch laptop featuring lightweight design.,158,0.0
+SPK1359,Audio Pro,BassLine,speaker,225.39,Speaker delivering compact design.,104,3.5
+TV1360,Vivid TV,CinemaCo,smart_tv,1699.8,50 inch smart TV with HDR support.,189,4.2
+SP1361,Fusion Phone,RivalTech,smartphone,767.0,Smartphone with long-lasting battery.,144,4.0
+LP1362,Performance Pro,NextGen,laptop,1277.88,17 inch laptop featuring long battery life.,197,4.0
+LP1363,Business Mate,NextGen,laptop,1739.45,17 inch laptop featuring lightweight design.,122,3.5
+SPK1364,BoomBox,BeatBox,speaker,496.9,Speaker delivering compact design.,109,3.5
+LP1365,Business Mate,UltraComp,laptop,588.46,17 inch laptop featuring high performance graphics.,19,4.7
+LP1366,Performance Pro,TechCo,laptop,330.34,17 inch laptop featuring latest processor.,148,4.8
+TV1367,Cinema TV,ViewTech,smart_tv,2096.33,40 inch smart TV with HDR support.,61,4.2
+SPK1368,Audio Pro,AudioMax,speaker,449.0,Speaker delivering wireless connectivity.,26,3.7
+TV1369,Vivid TV,ViewTech,smart_tv,371.88,40 inch smart TV with smart connectivity.,7,4.2
+LP1370,Performance Pro,EconCo,laptop,559.84,14 inch laptop featuring lightweight design.,113,4.5
+LP1371,Ultra Thin,EconCo,laptop,332.15,17 inch laptop featuring long battery life.,73,0.0
+LP1372,Ultra Thin,UltraComp,laptop,1586.85,15.6 inch laptop featuring latest processor.,111,4.0
+SPK1373,BoomBox,SoundCo,speaker,146.48,Speaker delivering deep bass.,3,4.5
+LP1374,Ultra Thin,TechCo,laptop,1716.51,17 inch laptop featuring lightweight design.,24,3.8
+SPK1375,ClearSound,SoundCo,speaker,273.09,Speaker delivering wireless connectivity.,119,3.8
+LP1376,Econo Note,TechCo,laptop,1797.89,13.3 inch laptop featuring long battery life.,41,3.5
+SP1377,SmartPhone Y,NextCom,smartphone,1108.13,Smartphone with advanced camera system.,154,4.6
+TV1378,Cinema TV,Spectra,smart_tv,1567.27,55 inch smart TV with 4K resolution.,18,4.0
+SPK1379,Bass Boost,BeatBox,speaker,114.52,Speaker delivering crystal clear sound.,76,3.7
+TV1380,Vivid TV,ViewTech,smart_tv,1749.12,50 inch smart TV with smart connectivity.,130,0.0
+SPK1381,Audio Pro,AudioMax,speaker,411.21,Speaker delivering crystal clear sound.,156,4.4
+SP1382,Mobile Z,Futura,smartphone,887.6,Smartphone with 5G connectivity.,28,3.5
+TV1383,Vivid TV,Spectra,smart_tv,2910.36,50 inch smart TV with smart connectivity.,123,4.0
+LP1384,Pro Book,EconCo,laptop,1589.94,15.6 inch laptop featuring latest processor.,75,3.5
+SP1385,Maxi Phone,TechCo,smartphone,228.0,Smartphone with advanced camera system.,31,4.5
+SP1386,Maxi Phone,NextCom,smartphone,741.84,Smartphone with advanced camera system.,133,4.0
+SP1387,Maxi Phone,RivalTech,smartphone,593.01,Smartphone with advanced camera system.,9,4.0
+LP1388,Econo Note,NextGen,laptop,1584.04,15.6 inch laptop featuring lightweight design.,199,0.0
+TV1389,SmartView TV,CinemaCo,smart_tv,499.49,55 inch smart TV with 4K resolution.,13,5.0
+TV1390,Vivid TV,CinemaCo,smart_tv,2683.55,40 inch smart TV with HDR support.,36,3.6
+TV1391,Vivid TV,UltraVision,smart_tv,1386.54,55 inch smart TV with HDR support.,17,3.8
+LP1392,Pro Book,NextGen,laptop,1015.51,14 inch laptop featuring high performance graphics.,105,4.5
+SP1393,Fusion Phone,TechCo,smartphone,420.9,Smartphone with advanced camera system.,50,3.8
+SP1394,SmartPhone X,TechCo,smartphone,1071.54,Smartphone with vivid display.,159,4.5
+LP1395,Pro Book,EconCo,laptop,1177.02,15.6 inch laptop featuring high performance graphics.,52,0.0
+TV1396,Infinity TV,ViewTech,smart_tv,2669.07,55 inch smart TV with HDR support.,140,0.0
+LP1397,Econo Note,TechCo,laptop,907.4,14 inch laptop featuring high performance graphics.,3,4.3
+LP1398,Performance Pro,UltraComp,laptop,1366.53,15.6 inch laptop featuring lightweight design.,197,0.0
+SPK1399,BoomBox,BeatBox,speaker,396.6,Speaker delivering deep bass.,2,4.0
+SP1400,Mobile Z,Futura,smartphone,630.11,Smartphone with vivid display.,175,3.6
+LP1401,Performance Pro,TechCo,laptop,1508.92,13.3 inch laptop featuring latest processor.,89,4.0
+SP1402,Fusion Phone,RivalTech,smartphone,367.07,Smartphone with long-lasting battery.,188,4.5
+SP1403,Maxi Phone,RivalTech,smartphone,298.06,Smartphone with 5G connectivity.,51,3.8
+SPK1404,ClearSound,SoundCo,speaker,309.33,Speaker delivering crystal clear sound.,108,4.0
+SPK1405,SoundWave,BassLine,speaker,363.62,Speaker delivering deep bass.,136,4.2
+SPK1406,Bass Boost,AudioMax,speaker,368.74,Speaker delivering wireless connectivity.,99,4.5
+TV1407,Infinity TV,ViewTech,smart_tv,355.58,65 inch smart TV with sleek design.,1,4.0
+SPK1408,ClearSound,SoundCo,speaker,471.88,Speaker delivering compact design.,101,3.5
+SPK1409,ClearSound,AudioMax,speaker,72.26,Speaker delivering deep bass.,10,4.2
+LP1410,Econo Note,TechCo,laptop,1567.82,14 inch laptop featuring high performance graphics.,94,4.0
+TV1411,Infinity TV,ViewTech,smart_tv,2438.75,40 inch smart TV with HDR support.,104,3.0
+SP1412,SmartPhone Y,TechCo,smartphone,490.02,Smartphone with vivid display.,91,4.0
+TV1413,Infinity TV,ViewTech,smart_tv,632.81,65 inch smart TV with smart connectivity.,164,4.2
+LP1414,Business Mate,EconCo,laptop,1259.63,13.3 inch laptop featuring latest processor.,4,4.0
+SPK1415,ClearSound,BassLine,speaker,258.71,Speaker delivering wireless connectivity.,156,4.0
+SP1416,SmartPhone Y,TechCo,smartphone,952.58,Smartphone with vivid display.,9,4.6
+SP1417,SmartPhone Y,NextCom,smartphone,465.19,Smartphone with long-lasting battery.,76,4.2
+TV1418,Vivid TV,ViewTech,smart_tv,1475.18,65 inch smart TV with sleek design.,106,3.5
+TV1419,Ultra TV,UltraVision,smart_tv,1365.58,40 inch smart TV with 4K resolution.,108,3.8
+SP1420,Maxi Phone,RivalTech,smartphone,383.43,Smartphone with advanced camera system.,29,3.5
+SPK1421,BoomBox,BeatBox,speaker,287.52,Speaker delivering crystal clear sound.,46,4.0
+SP1422,SmartPhone X,Futura,smartphone,492.6,Smartphone with 5G connectivity.,19,4.5
+LP1423,Pro Book,UltraComp,laptop,1134.54,13.3 inch laptop featuring long battery life.,89,4.0
+SPK1424,Audio Pro,BeatBox,speaker,317.32,Speaker delivering wireless connectivity.,109,3.5
+TV1425,Infinity TV,ViewTech,smart_tv,798.99,65 inch smart TV with sleek design.,131,4.8
+SPK1426,SoundWave,AudioMax,speaker,309.92,Speaker delivering compact design.,34,3.5
+TV1427,Ultra TV,UltraVision,smart_tv,2648.48,40 inch smart TV with smart connectivity.,194,4.0
+TV1428,Ultra TV,ViewTech,smart_tv,803.17,55 inch smart TV with smart connectivity.,86,3.5
+TV1429,SmartView TV,CinemaCo,smart_tv,1917.62,50 inch smart TV with sleek design.,56,4.0
+LP1430,Ultra Thin,EconCo,laptop,1371.67,13.3 inch laptop featuring latest processor.,0,4.2
+SP1431,Maxi Phone,NextCom,smartphone,1187.01,Smartphone with long-lasting battery.,56,5.0
+LP1432,Business Mate,TechCo,laptop,993.61,13.3 inch laptop featuring high performance graphics.,124,4.0
+SP1433,Mobile Z,TechCo,smartphone,1124.28,Smartphone with 5G connectivity.,95,4.0
+TV1434,Vivid TV,CinemaCo,smart_tv,2019.18,55 inch smart TV with 4K resolution.,37,3.5
+LP1435,Performance Pro,UltraComp,laptop,508.81,13.3 inch laptop featuring lightweight design.,51,4.0
+SPK1436,ClearSound,BassLine,speaker,174.43,Speaker delivering crystal clear sound.,83,4.0
+SP1437,SmartPhone Y,TechCo,smartphone,664.23,Smartphone with 5G connectivity.,73,3.2
+TV1438,Cinema TV,Spectra,smart_tv,1240.71,40 inch smart TV with smart connectivity.,131,0.0
+LP1439,Performance Pro,TechCo,laptop,960.65,15.6 inch laptop featuring lightweight design.,119,3.5
+LP1440,Pro Book,UltraComp,laptop,1412.48,13.3 inch laptop featuring long battery life.,11,4.2
+LP1441,Business Mate,UltraComp,laptop,1707.58,14 inch laptop featuring long battery life.,164,4.0
+LP1442,Performance Pro,EconCo,laptop,828.83,13.3 inch laptop featuring lightweight design.,113,4.2
+TV1443,Cinema TV,UltraVision,smart_tv,402.01,75 inch smart TV with HDR support.,74,3.8
+SPK1444,SoundWave,AudioMax,speaker,130.13,Speaker delivering deep bass.,165,3.3
+LP1445,Pro Book,EconCo,laptop,388.52,13.3 inch laptop featuring long battery life.,170,0.0
+SPK1446,Bass Boost,AudioMax,speaker,158.61,Speaker delivering crystal clear sound.,34,4.0
+SPK1447,ClearSound,AudioMax,speaker,373.29,Speaker delivering deep bass.,78,3.5
+LP1448,Econo Note,NextGen,laptop,1068.01,14 inch laptop featuring lightweight design.,196,0.0
+LP1449,Business Mate,UltraComp,laptop,1121.54,13.3 inch laptop featuring lightweight design.,130,4.0
+LP1450,Performance Pro,EconCo,laptop,1742.56,14 inch laptop featuring high performance graphics.,66,0.0
+SP1451,SmartPhone Y,RivalTech,smartphone,337.18,Smartphone with long-lasting battery.,12,4.0
+SP1452,Maxi Phone,TechCo,smartphone,390.36,Smartphone with 5G connectivity.,166,4.0
+SPK1453,SoundWave,AudioMax,speaker,222.26,Speaker delivering crystal clear sound.,36,4.2
+SP1454,Mobile Z,Futura,smartphone,1086.01,Smartphone with vivid display.,199,4.0
+SPK1455,Audio Pro,BeatBox,speaker,480.39,Speaker delivering deep bass.,200,3.8
+TV1456,Infinity TV,UltraVision,smart_tv,2689.03,65 inch smart TV with HDR support.,165,4.0
+SPK1457,ClearSound,BeatBox,speaker,406.41,Speaker delivering crystal clear sound.,139,3.5
+TV1458,SmartView TV,Spectra,smart_tv,993.98,50 inch smart TV with sleek design.,125,3.6
+LP1459,Pro Book,TechCo,laptop,1888.03,17 inch laptop featuring latest processor.,65,4.5
+LP1460,Ultra Thin,UltraComp,laptop,878.77,13.3 inch laptop featuring long battery life.,151,0.0
+SP1461,Mobile Z,TechCo,smartphone,1051.21,Smartphone with advanced camera system.,182,3.8
+TV1462,Ultra TV,CinemaCo,smart_tv,1144.59,50 inch smart TV with sleek design.,105,3.5
+TV1463,Ultra TV,Spectra,smart_tv,2289.8,65 inch smart TV with HDR support.,38,0.0
+SPK1464,Audio Pro,AudioMax,speaker,60.42,Speaker delivering deep bass.,147,3.5
+SP1465,Mobile Z,RivalTech,smartphone,460.05,Smartphone with vivid display.,71,4.5
+SP1466,SmartPhone X,NextCom,smartphone,502.39,Smartphone with advanced camera system.,67,4.1
+SPK1467,Audio Pro,AudioMax,speaker,256.25,Speaker delivering wireless connectivity.,44,4.5
+SP1468,SmartPhone Y,RivalTech,smartphone,270.93,Smartphone with vivid display.,61,4.0
+SPK1469,SoundWave,BeatBox,speaker,403.93,Speaker delivering deep bass.,146,5.0
+LP1470,Performance Pro,TechCo,laptop,666.04,17 inch laptop featuring lightweight design.,67,4.4
+SPK1471,SoundWave,AudioMax,speaker,81.14,Speaker delivering wireless connectivity.,197,3.0
+SP1472,Mobile Z,NextCom,smartphone,1013.4,Smartphone with advanced camera system.,114,4.0
+SP1473,SmartPhone X,Futura,smartphone,788.72,Smartphone with advanced camera system.,160,3.5
+SP1474,Maxi Phone,NextCom,smartphone,809.07,Smartphone with vivid display.,92,4.5
+TV1475,Infinity TV,ViewTech,smart_tv,2970.4,40 inch smart TV with smart connectivity.,76,4.0
+SPK1476,Audio Pro,BeatBox,speaker,180.24,Speaker delivering crystal clear sound.,66,0.0
+SPK1477,BoomBox,BeatBox,speaker,228.49,Speaker delivering wireless connectivity.,85,4.0
+LP1478,Performance Pro,EconCo,laptop,1015.61,13.3 inch laptop featuring lightweight design.,32,4.5
+SP1479,Fusion Phone,RivalTech,smartphone,371.52,Smartphone with long-lasting battery.,88,4.0
+TV1480,SmartView TV,UltraVision,smart_tv,1907.18,65 inch smart TV with sleek design.,44,4.5
+LP1481,Ultra Thin,TechCo,laptop,944.35,13.3 inch laptop featuring long battery life.,10,4.1
+LP1482,Business Mate,NextGen,laptop,1986.72,13.3 inch laptop featuring long battery life.,191,3.8
+LP1483,Pro Book,UltraComp,laptop,1216.8,13.3 inch laptop featuring high performance graphics.,163,4.0
+SPK1484,Audio Pro,BeatBox,speaker,319.67,Speaker delivering wireless connectivity.,134,3.8
+LP1485,Pro Book,UltraComp,laptop,1245.25,15.6 inch laptop featuring latest processor.,184,4.5
+LP1486,Pro Book,TechCo,laptop,1204.48,13.3 inch laptop featuring high performance graphics.,119,0.0
+TV1487,Infinity TV,UltraVision,smart_tv,809.46,50 inch smart TV with HDR support.,196,4.0
+SP1488,Maxi Phone,RivalTech,smartphone,780.43,Smartphone with 5G connectivity.,51,4.0
+LP1489,Performance Pro,NextGen,laptop,1673.93,14 inch laptop featuring long battery life.,53,4.0
+SPK1490,BoomBox,AudioMax,speaker,425.24,Speaker delivering deep bass.,178,4.0
+SPK1491,Bass Boost,BeatBox,speaker,299.27,Speaker delivering wireless connectivity.,100,0.0
+SP1492,Mobile Z,TechCo,smartphone,430.68,Smartphone with advanced camera system.,159,4.5
+SPK1493,BoomBox,AudioMax,speaker,195.36,Speaker delivering compact design.,66,4.0
+LP1494,Pro Book,EconCo,laptop,1613.0,17 inch laptop featuring lightweight design.,0,4.5
+SP1495,SmartPhone X,NextCom,smartphone,785.92,Smartphone with vivid display.,70,3.8
+LP1496,Business Mate,NextGen,laptop,1517.87,13.3 inch laptop featuring lightweight design.,61,3.0
+LP1497,Econo Note,TechCo,laptop,490.16,17 inch laptop featuring long battery life.,168,4.0
+LP1498,Econo Note,EconCo,laptop,694.98,17 inch laptop featuring lightweight design.,30,4.2
+SPK1499,BoomBox,BassLine,speaker,351.14,Speaker delivering deep bass.,60,4.1
+SP1500,SmartPhone X,TechCo,smartphone,545.02,Smartphone with vivid display.,137,4.4
+SPK1501,Audio Pro,AudioMax,speaker,85.35,Speaker delivering compact design.,155,3.0
+LP1502,Pro Book,UltraComp,laptop,1407.9,14 inch laptop featuring lightweight design.,64,4.2
+SPK1503,Audio Pro,AudioMax,speaker,301.82,Speaker delivering crystal clear sound.,34,4.0
+SPK1504,Audio Pro,SoundCo,speaker,149.98,Speaker delivering crystal clear sound.,80,0.0
+LP1505,Ultra Thin,NextGen,laptop,997.01,14 inch laptop featuring high performance graphics.,160,3.5
+SP1506,SmartPhone X,Futura,smartphone,279.92,Smartphone with 5G connectivity.,142,3.7
+SPK1507,Bass Boost,SoundCo,speaker,315.74,Speaker delivering deep bass.,103,0.0
+SPK1508,Audio Pro,BeatBox,speaker,245.87,Speaker delivering deep bass.,11,4.1
+SPK1509,ClearSound,BassLine,speaker,447.73,Speaker delivering compact design.,61,3.5
+SP1510,Mobile Z,NextCom,smartphone,232.26,Smartphone with vivid display.,28,4.2
+TV1511,Infinity TV,ViewTech,smart_tv,1784.4,75 inch smart TV with 4K resolution.,138,3.8
+LP1512,Econo Note,NextGen,laptop,561.86,15.6 inch laptop featuring lightweight design.,100,3.9
+TV1513,SmartView TV,Spectra,smart_tv,2541.47,50 inch smart TV with HDR support.,147,3.2
+SPK1514,Audio Pro,BeatBox,speaker,283.76,Speaker delivering deep bass.,82,4.0
+TV1515,Infinity TV,ViewTech,smart_tv,1200.41,75 inch smart TV with 4K resolution.,123,3.7
+LP1516,Business Mate,TechCo,laptop,1392.9,14 inch laptop featuring lightweight design.,91,3.8
+SPK1517,Bass Boost,BassLine,speaker,304.01,Speaker delivering wireless connectivity.,106,0.0
+TV1518,Vivid TV,Spectra,smart_tv,2956.02,75 inch smart TV with 4K resolution.,141,3.5
+LP1519,Ultra Thin,TechCo,laptop,877.7,13.3 inch laptop featuring latest processor.,91,4.5
+LP1520,Performance Pro,TechCo,laptop,1602.21,15.6 inch laptop featuring latest processor.,11,4.0
+TV1521,Vivid TV,Spectra,smart_tv,2398.69,75 inch smart TV with HDR support.,17,3.9
+LP1522,Performance Pro,TechCo,laptop,381.97,17 inch laptop featuring high performance graphics.,103,3.8
+SP1523,SmartPhone Y,TechCo,smartphone,722.75,Smartphone with long-lasting battery.,170,3.5
+TV1524,Cinema TV,ViewTech,smart_tv,1632.99,50 inch smart TV with HDR support.,13,3.4
+TV1525,SmartView TV,ViewTech,smart_tv,1313.55,50 inch smart TV with 4K resolution.,181,4.0
+SPK1526,SoundWave,SoundCo,speaker,418.94,Speaker delivering wireless connectivity.,200,4.2
+SPK1527,SoundWave,BeatBox,speaker,76.06,Speaker delivering wireless connectivity.,95,3.6
+TV1528,Ultra TV,CinemaCo,smart_tv,633.11,65 inch smart TV with smart connectivity.,94,4.2
+SPK1529,ClearSound,BassLine,speaker,135.42,Speaker delivering compact design.,199,3.8
+SPK1530,ClearSound,BassLine,speaker,342.04,Speaker delivering crystal clear sound.,37,3.8
+SP1531,Fusion Phone,TechCo,smartphone,809.58,Smartphone with long-lasting battery.,0,4.7
+TV1532,Infinity TV,Spectra,smart_tv,2564.9,75 inch smart TV with sleek design.,163,3.5
+SPK1533,Bass Boost,BassLine,speaker,482.78,Speaker delivering deep bass.,67,4.2
+TV1534,Vivid TV,Spectra,smart_tv,1462.61,55 inch smart TV with 4K resolution.,28,3.5
+SP1535,Maxi Phone,Futura,smartphone,333.93,Smartphone with 5G connectivity.,170,3.8
+LP1536,Econo Note,NextGen,laptop,1918.75,17 inch laptop featuring long battery life.,144,0.0
+LP1537,Pro Book,TechCo,laptop,724.61,17 inch laptop featuring long battery life.,172,3.8
+SP1538,Mobile Z,NextCom,smartphone,557.76,Smartphone with long-lasting battery.,135,3.5
+TV1539,Infinity TV,UltraVision,smart_tv,1004.39,55 inch smart TV with sleek design.,118,4.3
+LP1540,Performance Pro,EconCo,laptop,1154.12,13.3 inch laptop featuring high performance graphics.,25,3.9
+TV1541,Cinema TV,CinemaCo,smart_tv,1627.08,75 inch smart TV with smart connectivity.,176,5.0
+SPK1542,Bass Boost,SoundCo,speaker,215.09,Speaker delivering wireless connectivity.,43,0.0
+SP1543,SmartPhone Y,TechCo,smartphone,479.56,Smartphone with advanced camera system.,182,4.2
+SPK1544,Audio Pro,AudioMax,speaker,385.94,Speaker delivering compact design.,140,4.4
+LP1545,Pro Book,NextGen,laptop,489.06,14 inch laptop featuring latest processor.,36,4.0
+LP1546,Ultra Thin,TechCo,laptop,398.37,15.6 inch laptop featuring high performance graphics.,163,4.2
+LP1547,Business Mate,UltraComp,laptop,1352.54,13.3 inch laptop featuring high performance graphics.,4,3.8
+LP1548,Econo Note,NextGen,laptop,1381.08,15.6 inch laptop featuring long battery life.,136,4.0
+TV1549,Ultra TV,ViewTech,smart_tv,2482.95,75 inch smart TV with smart connectivity.,15,4.0
+LP1550,Business Mate,NextGen,laptop,1948.39,17 inch laptop featuring lightweight design.,52,0.0
+SP1551,SmartPhone Y,TechCo,smartphone,1015.83,Smartphone with advanced camera system.,141,4.0
+SP1552,SmartPhone X,Futura,smartphone,906.07,Smartphone with long-lasting battery.,42,3.8
+TV1553,SmartView TV,ViewTech,smart_tv,2471.53,55 inch smart TV with sleek design.,32,4.0
+SP1554,SmartPhone X,TechCo,smartphone,1086.18,Smartphone with advanced camera system.,45,4.0
+SP1555,Fusion Phone,RivalTech,smartphone,873.77,Smartphone with vivid display.,134,3.7
+TV1556,Cinema TV,Spectra,smart_tv,740.54,55 inch smart TV with smart connectivity.,65,3.5
+SP1557,SmartPhone X,RivalTech,smartphone,987.28,Smartphone with 5G connectivity.,169,4.5
+TV1558,Ultra TV,UltraVision,smart_tv,326.74,55 inch smart TV with smart connectivity.,182,5.0
+SP1559,Mobile Z,RivalTech,smartphone,1126.23,Smartphone with vivid display.,36,0.0
+SPK1560,BoomBox,BassLine,speaker,232.44,Speaker delivering wireless connectivity.,142,4.5
+TV1561,Infinity TV,UltraVision,smart_tv,731.01,40 inch smart TV with HDR support.,161,0.0
+LP1562,Performance Pro,UltraComp,laptop,507.11,13.3 inch laptop featuring latest processor.,37,0.0
+LP1563,Business Mate,NextGen,laptop,1574.69,13.3 inch laptop featuring high performance graphics.,142,4.3
+TV1564,Vivid TV,Spectra,smart_tv,727.84,75 inch smart TV with sleek design.,6,3.5
+SP1565,Mobile Z,NextCom,smartphone,316.7,Smartphone with 5G connectivity.,187,4.2
+LP1566,Performance Pro,EconCo,laptop,983.56,14 inch laptop featuring latest processor.,186,3.3
+LP1567,Ultra Thin,TechCo,laptop,1819.35,17 inch laptop featuring latest processor.,63,4.2
+TV1568,Infinity TV,ViewTech,smart_tv,2253.1,65 inch smart TV with 4K resolution.,156,3.5
+SPK1569,Bass Boost,BeatBox,speaker,226.66,Speaker delivering deep bass.,23,0.0
+TV1570,Infinity TV,Spectra,smart_tv,1199.47,55 inch smart TV with 4K resolution.,158,0.0
+SPK1571,BoomBox,AudioMax,speaker,101.27,Speaker delivering deep bass.,162,5.0
+LP1572,Econo Note,UltraComp,laptop,759.03,15.6 inch laptop featuring lightweight design.,27,4.5
+TV1573,Ultra TV,UltraVision,smart_tv,2990.92,65 inch smart TV with smart connectivity.,70,5.0
+SPK1574,BoomBox,SoundCo,speaker,438.79,Speaker delivering crystal clear sound.,41,4.2
+SP1575,SmartPhone X,RivalTech,smartphone,938.33,Smartphone with advanced camera system.,123,4.0
+SPK1576,Audio Pro,BassLine,speaker,55.23,Speaker delivering crystal clear sound.,154,0.0
+SPK1577,SoundWave,AudioMax,speaker,338.36,Speaker delivering deep bass.,102,3.7
+TV1578,Vivid TV,ViewTech,smart_tv,1692.08,65 inch smart TV with smart connectivity.,168,4.2
+TV1579,Infinity TV,ViewTech,smart_tv,2114.41,50 inch smart TV with sleek design.,21,4.8
+SPK1580,ClearSound,BeatBox,speaker,187.09,Speaker delivering wireless connectivity.,143,4.2
+TV1581,Infinity TV,ViewTech,smart_tv,1199.86,50 inch smart TV with 4K resolution.,179,4.8
+SP1582,Maxi Phone,Futura,smartphone,932.37,Smartphone with 5G connectivity.,196,0.0
+LP1583,Performance Pro,TechCo,laptop,1903.09,17 inch laptop featuring lightweight design.,129,3.5
+TV1584,SmartView TV,Spectra,smart_tv,774.59,75 inch smart TV with sleek design.,116,3.5
+SPK1585,Audio Pro,SoundCo,speaker,123.84,Speaker delivering crystal clear sound.,90,4.2
+LP1586,Pro Book,UltraComp,laptop,1379.9,17 inch laptop featuring long battery life.,195,3.0
+LP1587,Pro Book,NextGen,laptop,1028.48,15.6 inch laptop featuring long battery life.,138,3.9
+LP1588,Business Mate,EconCo,laptop,1390.51,14 inch laptop featuring high performance graphics.,27,3.5
+SP1589,SmartPhone Y,TechCo,smartphone,840.11,Smartphone with long-lasting battery.,27,5.0
+SP1590,Maxi Phone,NextCom,smartphone,337.86,Smartphone with long-lasting battery.,93,4.5
+SPK1591,Bass Boost,AudioMax,speaker,487.51,Speaker delivering deep bass.,192,4.5
+TV1592,Vivid TV,CinemaCo,smart_tv,789.47,50 inch smart TV with sleek design.,176,0.0
+SPK1593,BoomBox,SoundCo,speaker,153.03,Speaker delivering wireless connectivity.,120,3.5
+SPK1594,ClearSound,BeatBox,speaker,324.89,Speaker delivering compact design.,188,0.0
+LP1595,Pro Book,EconCo,laptop,1812.7,13.3 inch laptop featuring lightweight design.,87,4.6
+SPK1596,Audio Pro,SoundCo,speaker,133.07,Speaker delivering wireless connectivity.,147,4.0
+LP1597,Pro Book,NextGen,laptop,1752.13,17 inch laptop featuring high performance graphics.,188,3.8
+SPK1598,SoundWave,BassLine,speaker,76.35,Speaker delivering crystal clear sound.,6,4.0
+LP1599,Pro Book,EconCo,laptop,1027.66,17 inch laptop featuring lightweight design.,172,0.0
+LP1600,Econo Note,UltraComp,laptop,729.46,14 inch laptop featuring high performance graphics.,46,5.0
+SPK1601,BoomBox,SoundCo,speaker,444.82,Speaker delivering compact design.,63,3.8
+TV1602,Ultra TV,CinemaCo,smart_tv,1043.91,55 inch smart TV with 4K resolution.,94,3.5
+LP1603,Ultra Thin,NextGen,laptop,885.64,15.6 inch laptop featuring long battery life.,127,3.5
+SPK1604,ClearSound,AudioMax,speaker,96.98,Speaker delivering crystal clear sound.,26,3.2
+LP1605,Business Mate,NextGen,laptop,1228.59,15.6 inch laptop featuring high performance graphics.,11,3.8
+LP1606,Pro Book,NextGen,laptop,974.44,14 inch laptop featuring high performance graphics.,11,3.5
+TV1607,SmartView TV,Spectra,smart_tv,1022.8,40 inch smart TV with smart connectivity.,146,4.5
+SP1608,Fusion Phone,NextCom,smartphone,923.46,Smartphone with long-lasting battery.,156,4.2
+TV1609,Infinity TV,ViewTech,smart_tv,2965.38,40 inch smart TV with HDR support.,195,3.7
+SPK1610,ClearSound,BassLine,speaker,436.74,Speaker delivering crystal clear sound.,84,4.5
+SP1611,Mobile Z,NextCom,smartphone,609.55,Smartphone with 5G connectivity.,21,4.5
+SPK1612,Audio Pro,SoundCo,speaker,350.13,Speaker delivering wireless connectivity.,115,5.0
+SP1613,Fusion Phone,NextCom,smartphone,242.7,Smartphone with 5G connectivity.,8,4.0
+TV1614,Cinema TV,UltraVision,smart_tv,816.91,75 inch smart TV with HDR support.,147,5.0
+LP1615,Business Mate,NextGen,laptop,865.82,15.6 inch laptop featuring long battery life.,33,4.0
+TV1616,Vivid TV,Spectra,smart_tv,954.71,40 inch smart TV with sleek design.,195,4.0
+TV1617,Ultra TV,ViewTech,smart_tv,1485.84,65 inch smart TV with sleek design.,137,0.0
+SP1618,Fusion Phone,NextCom,smartphone,467.34,Smartphone with 5G connectivity.,157,4.5
+SPK1619,SoundWave,SoundCo,speaker,415.24,Speaker delivering crystal clear sound.,62,5.0
+SP1620,Mobile Z,RivalTech,smartphone,1183.98,Smartphone with 5G connectivity.,77,3.5
+TV1621,Infinity TV,CinemaCo,smart_tv,385.01,75 inch smart TV with smart connectivity.,16,4.2
+SP1622,SmartPhone Y,NextCom,smartphone,219.16,Smartphone with advanced camera system.,166,5.0
+TV1623,Infinity TV,ViewTech,smart_tv,2486.39,65 inch smart TV with 4K resolution.,14,3.0
+SPK1624,Audio Pro,BassLine,speaker,209.74,Speaker delivering compact design.,82,4.3
+LP1625,Business Mate,UltraComp,laptop,320.32,14 inch laptop featuring high performance graphics.,111,4.2
+TV1626,Ultra TV,ViewTech,smart_tv,1400.58,40 inch smart TV with 4K resolution.,57,3.5
+LP1627,Ultra Thin,NextGen,laptop,1892.79,14 inch laptop featuring high performance graphics.,23,3.5
+TV1628,SmartView TV,ViewTech,smart_tv,1581.3,65 inch smart TV with 4K resolution.,51,0.0
+LP1629,Econo Note,NextGen,laptop,1109.42,14 inch laptop featuring high performance graphics.,15,4.0
+TV1630,Ultra TV,UltraVision,smart_tv,840.19,50 inch smart TV with HDR support.,149,3.8
+TV1631,Vivid TV,Spectra,smart_tv,911.93,55 inch smart TV with sleek design.,190,3.8
+LP1632,Ultra Thin,UltraComp,laptop,816.54,15.6 inch laptop featuring long battery life.,0,3.7
+LP1633,Ultra Thin,NextGen,laptop,1387.75,17 inch laptop featuring long battery life.,85,4.0
+TV1634,Ultra TV,ViewTech,smart_tv,1519.55,55 inch smart TV with sleek design.,48,3.9
+LP1635,Performance Pro,UltraComp,laptop,1100.39,13.3 inch laptop featuring long battery life.,70,4.8
+SPK1636,ClearSound,AudioMax,speaker,465.18,Speaker delivering deep bass.,136,2.5
+LP1637,Econo Note,TechCo,laptop,1188.55,17 inch laptop featuring long battery life.,135,0.0
+SPK1638,Audio Pro,BassLine,speaker,124.65,Speaker delivering deep bass.,168,0.0
+SPK1639,Bass Boost,BeatBox,speaker,143.94,Speaker delivering wireless connectivity.,165,4.2
+SPK1640,Audio Pro,SoundCo,speaker,190.72,Speaker delivering compact design.,34,0.0
+LP1641,Performance Pro,EconCo,laptop,1138.37,15.6 inch laptop featuring latest processor.,95,3.5
+LP1642,Performance Pro,UltraComp,laptop,667.9,15.6 inch laptop featuring high performance graphics.,16,3.5
+SP1643,SmartPhone Y,RivalTech,smartphone,422.09,Smartphone with vivid display.,184,0.0
+TV1644,SmartView TV,CinemaCo,smart_tv,1417.86,65 inch smart TV with sleek design.,36,3.8
+SP1645,Mobile Z,RivalTech,smartphone,730.18,Smartphone with 5G connectivity.,189,4.2
+SPK1646,Audio Pro,BassLine,speaker,309.38,Speaker delivering deep bass.,8,3.8
+SPK1647,Bass Boost,AudioMax,speaker,119.43,Speaker delivering crystal clear sound.,20,0.0
+TV1648,Cinema TV,UltraVision,smart_tv,2234.91,75 inch smart TV with 4K resolution.,163,0.0
+SPK1649,BoomBox,BassLine,speaker,353.39,Speaker delivering compact design.,171,3.8
+SP1650,SmartPhone Y,RivalTech,smartphone,844.99,Smartphone with vivid display.,0,3.6
+SP1651,Maxi Phone,TechCo,smartphone,205.35,Smartphone with advanced camera system.,127,4.5
+SP1652,Fusion Phone,NextCom,smartphone,505.17,Smartphone with 5G connectivity.,183,3.8
+SP1653,SmartPhone Y,Futura,smartphone,556.58,Smartphone with 5G connectivity.,137,4.2
+LP1654,Performance Pro,EconCo,laptop,536.09,15.6 inch laptop featuring high performance graphics.,108,4.2
+TV1655,SmartView TV,ViewTech,smart_tv,984.22,75 inch smart TV with 4K resolution.,16,4.5
+LP1656,Ultra Thin,UltraComp,laptop,1031.22,13.3 inch laptop featuring high performance graphics.,84,4.0
+SP1657,Mobile Z,RivalTech,smartphone,723.22,Smartphone with long-lasting battery.,74,0.0
+SPK1658,SoundWave,SoundCo,speaker,372.17,Speaker delivering crystal clear sound.,137,0.0
+SP1659,SmartPhone X,NextCom,smartphone,658.48,Smartphone with 5G connectivity.,163,3.9
+SPK1660,BoomBox,SoundCo,speaker,494.5,Speaker delivering wireless connectivity.,95,4.0
+TV1661,Vivid TV,ViewTech,smart_tv,2998.95,75 inch smart TV with 4K resolution.,70,3.8
+SPK1662,Audio Pro,BeatBox,speaker,154.96,Speaker delivering deep bass.,85,4.2
+LP1663,Performance Pro,EconCo,laptop,628.56,17 inch laptop featuring lightweight design.,194,3.8
+SP1664,Mobile Z,Futura,smartphone,621.61,Smartphone with vivid display.,75,3.5
+LP1665,Business Mate,UltraComp,laptop,1298.81,13.3 inch laptop featuring lightweight design.,185,4.0
+LP1666,Business Mate,UltraComp,laptop,1250.6,15.6 inch laptop featuring long battery life.,171,3.1
+LP1667,Ultra Thin,NextGen,laptop,505.83,17 inch laptop featuring long battery life.,32,4.2
+LP1668,Pro Book,NextGen,laptop,1594.69,15.6 inch laptop featuring long battery life.,70,4.0
+SP1669,Maxi Phone,RivalTech,smartphone,701.13,Smartphone with long-lasting battery.,13,2.5
+TV1670,SmartView TV,ViewTech,smart_tv,2616.32,75 inch smart TV with 4K resolution.,173,3.0
+SP1671,Mobile Z,RivalTech,smartphone,364.33,Smartphone with advanced camera system.,107,0.0
+LP1672,Econo Note,EconCo,laptop,1364.68,13.3 inch laptop featuring lightweight design.,75,3.5
+TV1673,Vivid TV,Spectra,smart_tv,307.1,50 inch smart TV with 4K resolution.,200,3.0
+LP1674,Business Mate,EconCo,laptop,856.9,13.3 inch laptop featuring long battery life.,19,5.0
+TV1675,Ultra TV,Spectra,smart_tv,1565.35,50 inch smart TV with smart connectivity.,188,4.2
+LP1676,Ultra Thin,TechCo,laptop,882.07,13.3 inch laptop featuring long battery life.,69,4.0
+TV1677,Infinity TV,CinemaCo,smart_tv,2439.61,55 inch smart TV with smart connectivity.,144,5.0
+SPK1678,Bass Boost,BassLine,speaker,84.6,Speaker delivering wireless connectivity.,54,5.0
+SPK1679,ClearSound,SoundCo,speaker,121.09,Speaker delivering deep bass.,166,0.0
+LP1680,Performance Pro,TechCo,laptop,1325.74,13.3 inch laptop featuring high performance graphics.,50,4.0
+SP1681,Fusion Phone,TechCo,smartphone,964.66,Smartphone with vivid display.,74,4.2
+TV1682,Infinity TV,ViewTech,smart_tv,629.09,55 inch smart TV with sleek design.,156,3.8
+SPK1683,BoomBox,BassLine,speaker,260.31,Speaker delivering compact design.,78,3.8
+SP1684,Maxi Phone,TechCo,smartphone,862.91,Smartphone with vivid display.,106,0.0
+TV1685,Ultra TV,UltraVision,smart_tv,2070.54,50 inch smart TV with smart connectivity.,86,3.9
+SPK1686,BoomBox,SoundCo,speaker,372.12,Speaker delivering compact design.,31,0.0
+LP1687,Business Mate,TechCo,laptop,1836.65,17 inch laptop featuring latest processor.,108,3.8
+SPK1688,Audio Pro,SoundCo,speaker,437.38,Speaker delivering compact design.,145,5.0
+SP1689,Maxi Phone,TechCo,smartphone,275.62,Smartphone with 5G connectivity.,107,4.5
+SP1690,Maxi Phone,RivalTech,smartphone,1093.19,Smartphone with vivid display.,39,3.5
+LP1691,Econo Note,EconCo,laptop,720.6,15.6 inch laptop featuring lightweight design.,146,0.0
+TV1692,Vivid TV,UltraVision,smart_tv,1867.01,65 inch smart TV with HDR support.,180,3.0
+SP1693,SmartPhone X,NextCom,smartphone,362.7,Smartphone with long-lasting battery.,69,4.3
+SPK1694,Audio Pro,SoundCo,speaker,284.72,Speaker delivering compact design.,164,0.0
+SPK1695,SoundWave,AudioMax,speaker,50.23,Speaker delivering deep bass.,65,3.8
+TV1696,SmartView TV,Spectra,smart_tv,2808.47,55 inch smart TV with 4K resolution.,53,3.7
+SPK1697,BoomBox,AudioMax,speaker,157.89,Speaker delivering crystal clear sound.,30,4.2
+LP1698,Pro Book,TechCo,laptop,901.62,17 inch laptop featuring high performance graphics.,28,3.0
+SPK1699,Audio Pro,BeatBox,speaker,310.0,Speaker delivering wireless connectivity.,71,3.0
+SP1700,Mobile Z,TechCo,smartphone,892.29,Smartphone with long-lasting battery.,133,4.0
+TV1701,SmartView TV,Spectra,smart_tv,495.52,50 inch smart TV with HDR support.,88,4.2
+LP1702,Performance Pro,UltraComp,laptop,1168.23,17 inch laptop featuring lightweight design.,54,0.0
+TV1703,Infinity TV,ViewTech,smart_tv,2173.86,40 inch smart TV with sleek design.,70,3.8
+LP1704,Performance Pro,TechCo,laptop,401.95,15.6 inch laptop featuring lightweight design.,181,4.2
+SP1705,SmartPhone X,Futura,smartphone,333.48,Smartphone with advanced camera system.,90,4.0
+SPK1706,SoundWave,BeatBox,speaker,279.96,Speaker delivering crystal clear sound.,44,4.2
+SP1707,Mobile Z,RivalTech,smartphone,1040.37,Smartphone with long-lasting battery.,129,3.7
+SP1708,SmartPhone X,Futura,smartphone,217.15,Smartphone with 5G connectivity.,134,4.5
+LP1709,Ultra Thin,TechCo,laptop,956.18,17 inch laptop featuring latest processor.,116,3.8
+SP1710,SmartPhone Y,Futura,smartphone,784.99,Smartphone with 5G connectivity.,2,4.0
+SP1711,Fusion Phone,RivalTech,smartphone,366.3,Smartphone with 5G connectivity.,172,4.0
+TV1712,Cinema TV,Spectra,smart_tv,1102.98,55 inch smart TV with smart connectivity.,142,0.0
+SPK1713,ClearSound,SoundCo,speaker,433.59,Speaker delivering deep bass.,122,0.0
+LP1714,Econo Note,UltraComp,laptop,306.93,14 inch laptop featuring high performance graphics.,114,3.7
+LP1715,Pro Book,TechCo,laptop,1483.75,13.3 inch laptop featuring latest processor.,90,3.5
+LP1716,Pro Book,EconCo,laptop,1022.39,14 inch laptop featuring long battery life.,11,3.2
+SPK1717,Bass Boost,AudioMax,speaker,299.33,Speaker delivering wireless connectivity.,115,3.9
+SP1718,SmartPhone X,RivalTech,smartphone,909.14,Smartphone with vivid display.,76,4.5
+TV1719,Vivid TV,ViewTech,smart_tv,2659.81,55 inch smart TV with smart connectivity.,115,4.4
+SPK1720,BoomBox,SoundCo,speaker,259.42,Speaker delivering compact design.,143,0.0
+LP1721,Ultra Thin,UltraComp,laptop,1221.68,13.3 inch laptop featuring lightweight design.,23,4.5
+SP1722,SmartPhone X,Futura,smartphone,727.47,Smartphone with 5G connectivity.,165,3.8
+TV1723,Cinema TV,Spectra,smart_tv,515.28,65 inch smart TV with 4K resolution.,140,3.5
+LP1724,Ultra Thin,UltraComp,laptop,1784.13,13.3 inch laptop featuring high performance graphics.,86,4.5
+TV1725,Infinity TV,CinemaCo,smart_tv,1141.9,75 inch smart TV with sleek design.,184,3.5
+LP1726,Business Mate,NextGen,laptop,376.64,17 inch laptop featuring lightweight design.,180,3.8
+SP1727,Mobile Z,NextCom,smartphone,552.76,Smartphone with 5G connectivity.,51,3.5
+LP1728,Econo Note,TechCo,laptop,589.76,14 inch laptop featuring long battery life.,6,4.2
+LP1729,Business Mate,UltraComp,laptop,920.7,14 inch laptop featuring long battery life.,34,4.2
+SPK1730,Audio Pro,SoundCo,speaker,491.16,Speaker delivering wireless connectivity.,171,0.0
+SPK1731,BoomBox,BassLine,speaker,483.08,Speaker delivering crystal clear sound.,198,4.0
+SPK1732,Bass Boost,SoundCo,speaker,154.63,Speaker delivering wireless connectivity.,131,4.3
+LP1733,Econo Note,TechCo,laptop,1243.06,13.3 inch laptop featuring lightweight design.,66,4.0
+LP1734,Business Mate,EconCo,laptop,1124.7,17 inch laptop featuring long battery life.,87,3.5
+TV1735,Cinema TV,UltraVision,smart_tv,1625.06,65 inch smart TV with 4K resolution.,176,3.8
+LP1736,Performance Pro,EconCo,laptop,543.34,14 inch laptop featuring long battery life.,192,3.0
+SP1737,Mobile Z,TechCo,smartphone,1030.2,Smartphone with vivid display.,1,4.0
+TV1738,Vivid TV,UltraVision,smart_tv,1237.28,65 inch smart TV with HDR support.,123,0.0
+SP1739,SmartPhone X,TechCo,smartphone,971.17,Smartphone with long-lasting battery.,39,3.2
+SPK1740,SoundWave,BeatBox,speaker,176.99,Speaker delivering compact design.,13,4.5
+TV1741,SmartView TV,UltraVision,smart_tv,1795.34,55 inch smart TV with 4K resolution.,142,4.2
+LP1742,Ultra Thin,NextGen,laptop,706.53,15.6 inch laptop featuring lightweight design.,37,4.0
+LP1743,Business Mate,EconCo,laptop,614.39,14 inch laptop featuring high performance graphics.,13,4.0
+TV1744,Cinema TV,CinemaCo,smart_tv,1145.39,55 inch smart TV with HDR support.,63,4.8
+LP1745,Business Mate,TechCo,laptop,781.55,17 inch laptop featuring latest processor.,131,4.5
+LP1746,Performance Pro,TechCo,laptop,1715.01,13.3 inch laptop featuring lightweight design.,59,4.0
+LP1747,Pro Book,EconCo,laptop,1846.41,13.3 inch laptop featuring high performance graphics.,195,4.0
+SP1748,SmartPhone Y,RivalTech,smartphone,584.78,Smartphone with vivid display.,12,3.0
+LP1749,Econo Note,NextGen,laptop,1184.97,15.6 inch laptop featuring lightweight design.,98,4.0
+TV1750,Ultra TV,CinemaCo,smart_tv,1809.59,50 inch smart TV with smart connectivity.,31,3.8
+TV1751,SmartView TV,CinemaCo,smart_tv,2501.1,55 inch smart TV with 4K resolution.,49,4.2
+SP1752,SmartPhone Y,NextCom,smartphone,665.46,Smartphone with 5G connectivity.,124,0.0
+TV1753,Infinity TV,CinemaCo,smart_tv,2721.95,65 inch smart TV with 4K resolution.,23,4.0
+SPK1754,SoundWave,SoundCo,speaker,92.67,Speaker delivering compact design.,63,4.0
+SP1755,Maxi Phone,NextCom,smartphone,609.07,Smartphone with advanced camera system.,29,0.0
+SPK1756,Audio Pro,AudioMax,speaker,304.4,Speaker delivering compact design.,179,3.7
+SPK1757,ClearSound,AudioMax,speaker,180.48,Speaker delivering wireless connectivity.,177,3.5
+SP1758,Mobile Z,Futura,smartphone,374.95,Smartphone with long-lasting battery.,76,3.8
+SPK1759,Bass Boost,SoundCo,speaker,198.44,Speaker delivering deep bass.,132,3.5
+TV1760,Ultra TV,Spectra,smart_tv,616.7,50 inch smart TV with HDR support.,54,4.1
+SP1761,SmartPhone X,RivalTech,smartphone,282.09,Smartphone with vivid display.,59,4.0
+TV1762,Ultra TV,CinemaCo,smart_tv,1984.58,55 inch smart TV with sleek design.,24,3.5
+LP1763,Ultra Thin,EconCo,laptop,598.47,13.3 inch laptop featuring latest processor.,70,4.0
+SP1764,Maxi Phone,RivalTech,smartphone,1082.36,Smartphone with vivid display.,49,3.8
+SP1765,Maxi Phone,NextCom,smartphone,734.43,Smartphone with 5G connectivity.,22,4.2
+LP1766,Business Mate,EconCo,laptop,821.54,14 inch laptop featuring long battery life.,3,4.0
+SPK1767,Audio Pro,SoundCo,speaker,168.61,Speaker delivering wireless connectivity.,173,3.5
+SP1768,SmartPhone Y,NextCom,smartphone,1058.34,Smartphone with vivid display.,84,4.7
+LP1769,Business Mate,EconCo,laptop,706.16,14 inch laptop featuring lightweight design.,190,4.0
+LP1770,Pro Book,EconCo,laptop,1949.41,13.3 inch laptop featuring latest processor.,51,4.0
+SP1771,Mobile Z,RivalTech,smartphone,680.58,Smartphone with 5G connectivity.,28,4.0
+TV1772,Infinity TV,UltraVision,smart_tv,1773.03,50 inch smart TV with HDR support.,152,4.2
+TV1773,Ultra TV,Spectra,smart_tv,2423.44,65 inch smart TV with 4K resolution.,100,3.8
+TV1774,Infinity TV,CinemaCo,smart_tv,1307.52,75 inch smart TV with smart connectivity.,88,3.8
+TV1775,Ultra TV,Spectra,smart_tv,2722.06,55 inch smart TV with sleek design.,82,0.0
+SPK1776,Audio Pro,BeatBox,speaker,341.5,Speaker delivering crystal clear sound.,114,0.0
+SP1777,SmartPhone X,RivalTech,smartphone,366.84,Smartphone with long-lasting battery.,93,4.5
+LP1778,Pro Book,TechCo,laptop,1520.41,13.3 inch laptop featuring latest processor.,110,4.5
+SPK1779,ClearSound,BassLine,speaker,287.97,Speaker delivering deep bass.,137,4.3
+LP1780,Pro Book,TechCo,laptop,837.19,13.3 inch laptop featuring lightweight design.,124,0.0
+SPK1781,Bass Boost,SoundCo,speaker,50.71,Speaker delivering crystal clear sound.,173,4.5
+LP1782,Business Mate,NextGen,laptop,482.88,17 inch laptop featuring long battery life.,121,5.0
+LP1783,Business Mate,UltraComp,laptop,1856.68,17 inch laptop featuring lightweight design.,50,4.5
+SPK1784,Bass Boost,BeatBox,speaker,309.72,Speaker delivering wireless connectivity.,105,3.5
+TV1785,Ultra TV,CinemaCo,smart_tv,1930.4,55 inch smart TV with HDR support.,67,4.3
+TV1786,SmartView TV,ViewTech,smart_tv,1130.76,55 inch smart TV with HDR support.,8,4.0
+SPK1787,Audio Pro,BeatBox,speaker,355.54,Speaker delivering wireless connectivity.,56,5.0
+SPK1788,SoundWave,BeatBox,speaker,146.24,Speaker delivering deep bass.,4,0.0
+SPK1789,BoomBox,BassLine,speaker,131.49,Speaker delivering crystal clear sound.,178,4.0
+LP1790,Performance Pro,UltraComp,laptop,1994.3,13.3 inch laptop featuring high performance graphics.,141,0.0
+SPK1791,Bass Boost,BeatBox,speaker,64.13,Speaker delivering compact design.,200,3.5
+LP1792,Business Mate,NextGen,laptop,1032.0,17 inch laptop featuring long battery life.,21,4.4
+SPK1793,Bass Boost,BassLine,speaker,440.46,Speaker delivering crystal clear sound.,169,4.0
+SP1794,Fusion Phone,RivalTech,smartphone,260.17,Smartphone with vivid display.,162,4.5
+SPK1795,Bass Boost,BeatBox,speaker,308.05,Speaker delivering compact design.,10,3.5
+TV1796,SmartView TV,UltraVision,smart_tv,1062.8,75 inch smart TV with 4K resolution.,111,4.0
+TV1797,SmartView TV,ViewTech,smart_tv,781.78,40 inch smart TV with 4K resolution.,89,4.0
+SP1798,Maxi Phone,Futura,smartphone,321.25,Smartphone with long-lasting battery.,127,4.5
+SPK1799,BoomBox,AudioMax,speaker,322.85,Speaker delivering compact design.,27,4.0
+SPK1800,ClearSound,BassLine,speaker,449.16,Speaker delivering crystal clear sound.,158,4.2
+LP1801,Pro Book,TechCo,laptop,1997.95,14 inch laptop featuring lightweight design.,10,4.0
+TV1802,Cinema TV,Spectra,smart_tv,1242.62,55 inch smart TV with smart connectivity.,102,3.5
+TV1803,Vivid TV,UltraVision,smart_tv,840.16,40 inch smart TV with HDR support.,182,3.5
+SPK1804,Bass Boost,SoundCo,speaker,216.78,Speaker delivering compact design.,190,4.0
+LP1805,Pro Book,TechCo,laptop,1547.3,13.3 inch laptop featuring high performance graphics.,185,4.5
+LP1806,Pro Book,EconCo,laptop,1168.11,15.6 inch laptop featuring high performance graphics.,103,0.0
+SPK1807,SoundWave,SoundCo,speaker,271.45,Speaker delivering crystal clear sound.,160,3.5
+TV1808,Infinity TV,ViewTech,smart_tv,2780.23,50 inch smart TV with smart connectivity.,78,0.0
+TV1809,Cinema TV,CinemaCo,smart_tv,744.57,65 inch smart TV with sleek design.,86,3.8
+LP1810,Performance Pro,EconCo,laptop,1223.66,14 inch laptop featuring latest processor.,172,4.2
+SPK1811,ClearSound,BassLine,speaker,149.03,Speaker delivering deep bass.,104,0.0
+LP1812,Pro Book,NextGen,laptop,1777.47,15.6 inch laptop featuring lightweight design.,10,4.0
+SP1813,Fusion Phone,NextCom,smartphone,652.57,Smartphone with long-lasting battery.,34,4.5
+TV1814,SmartView TV,UltraVision,smart_tv,2998.62,65 inch smart TV with sleek design.,136,4.5
+TV1815,Ultra TV,CinemaCo,smart_tv,1660.02,55 inch smart TV with HDR support.,171,3.8
+SPK1816,BoomBox,BeatBox,speaker,148.75,Speaker delivering deep bass.,44,4.2
+TV1817,SmartView TV,ViewTech,smart_tv,458.31,55 inch smart TV with 4K resolution.,194,4.0
+TV1818,Ultra TV,ViewTech,smart_tv,1635.41,50 inch smart TV with sleek design.,47,4.5
+TV1819,Infinity TV,Spectra,smart_tv,1213.97,55 inch smart TV with HDR support.,134,4.0
+SPK1820,Audio Pro,AudioMax,speaker,375.19,Speaker delivering wireless connectivity.,60,4.5
+SP1821,SmartPhone Y,Futura,smartphone,1113.03,Smartphone with 5G connectivity.,55,3.5
+SPK1822,BoomBox,BeatBox,speaker,199.28,Speaker delivering crystal clear sound.,48,0.0
+SP1823,Maxi Phone,TechCo,smartphone,1100.31,Smartphone with advanced camera system.,123,4.0
+LP1824,Performance Pro,TechCo,laptop,936.81,13.3 inch laptop featuring high performance graphics.,84,4.0
+SPK1825,Bass Boost,BassLine,speaker,80.99,Speaker delivering crystal clear sound.,64,4.0
+TV1826,Ultra TV,Spectra,smart_tv,1191.15,75 inch smart TV with 4K resolution.,8,3.8
+LP1827,Performance Pro,EconCo,laptop,611.07,14 inch laptop featuring long battery life.,128,0.0
+SPK1828,BoomBox,BassLine,speaker,303.49,Speaker delivering crystal clear sound.,49,3.6
+TV1829,Cinema TV,CinemaCo,smart_tv,1273.81,40 inch smart TV with HDR support.,115,3.0
+TV1830,Ultra TV,Spectra,smart_tv,1302.93,55 inch smart TV with smart connectivity.,87,0.0
+SP1831,Maxi Phone,TechCo,smartphone,254.78,Smartphone with vivid display.,31,3.0
+SPK1832,Audio Pro,SoundCo,speaker,388.89,Speaker delivering wireless connectivity.,56,3.4
+LP1833,Econo Note,UltraComp,laptop,1514.45,14 inch laptop featuring latest processor.,113,0.0
+TV1834,Vivid TV,CinemaCo,smart_tv,2416.1,75 inch smart TV with smart connectivity.,106,4.5
+LP1835,Econo Note,UltraComp,laptop,1724.55,15.6 inch laptop featuring long battery life.,84,4.2
+SPK1836,ClearSound,BassLine,speaker,379.95,Speaker delivering compact design.,23,4.5
+SPK1837,Audio Pro,BassLine,speaker,315.66,Speaker delivering compact design.,105,4.0
+TV1838,Infinity TV,ViewTech,smart_tv,1544.3,50 inch smart TV with sleek design.,63,4.0
+LP1839,Business Mate,UltraComp,laptop,1023.13,14 inch laptop featuring latest processor.,127,0.0
+SPK1840,Bass Boost,BassLine,speaker,252.51,Speaker delivering compact design.,191,0.0
+TV1841,Infinity TV,ViewTech,smart_tv,2951.95,40 inch smart TV with smart connectivity.,129,4.2
+LP1842,Business Mate,NextGen,laptop,862.07,17 inch laptop featuring latest processor.,42,3.8
+LP1843,Performance Pro,NextGen,laptop,1113.72,17 inch laptop featuring high performance graphics.,136,3.9
+SP1844,Fusion Phone,RivalTech,smartphone,842.21,Smartphone with vivid display.,131,5.0
+SP1845,SmartPhone X,Futura,smartphone,940.08,Smartphone with advanced camera system.,200,4.5
+TV1846,Vivid TV,UltraVision,smart_tv,2882.47,75 inch smart TV with sleek design.,136,4.5
+TV1847,Vivid TV,CinemaCo,smart_tv,2176.07,40 inch smart TV with sleek design.,135,4.0
+TV1848,Vivid TV,Spectra,smart_tv,1242.19,75 inch smart TV with HDR support.,150,4.2
+SP1849,Maxi Phone,RivalTech,smartphone,1176.53,Smartphone with advanced camera system.,101,4.2
+SP1850,Maxi Phone,RivalTech,smartphone,599.41,Smartphone with advanced camera system.,83,4.0
+TV1851,Infinity TV,CinemaCo,smart_tv,1156.87,75 inch smart TV with smart connectivity.,55,4.1
+SP1852,Maxi Phone,RivalTech,smartphone,1046.6,Smartphone with 5G connectivity.,5,0.0
+LP1853,Performance Pro,TechCo,laptop,1455.63,15.6 inch laptop featuring high performance graphics.,23,3.7
+LP1854,Pro Book,EconCo,laptop,353.22,17 inch laptop featuring lightweight design.,100,0.0
+TV1855,Infinity TV,ViewTech,smart_tv,2434.81,55 inch smart TV with HDR support.,66,5.0
+SP1856,SmartPhone X,NextCom,smartphone,581.55,Smartphone with 5G connectivity.,103,3.0
+SP1857,Mobile Z,NextCom,smartphone,841.71,Smartphone with long-lasting battery.,161,3.8
+SPK1858,ClearSound,BassLine,speaker,106.57,Speaker delivering crystal clear sound.,95,4.2
+SP1859,Mobile Z,Futura,smartphone,506.04,Smartphone with vivid display.,185,4.2
+LP1860,Ultra Thin,TechCo,laptop,1305.15,14 inch laptop featuring latest processor.,27,4.2
+LP1861,Business Mate,NextGen,laptop,559.41,14 inch laptop featuring high performance graphics.,153,4.4
+TV1862,Infinity TV,ViewTech,smart_tv,2151.09,75 inch smart TV with HDR support.,173,4.2
+LP1863,Ultra Thin,UltraComp,laptop,1026.19,14 inch laptop featuring high performance graphics.,0,4.5
+SPK1864,Bass Boost,BeatBox,speaker,194.1,Speaker delivering deep bass.,146,3.8
+LP1865,Ultra Thin,UltraComp,laptop,1045.09,17 inch laptop featuring high performance graphics.,4,4.2
+LP1866,Performance Pro,NextGen,laptop,1915.07,15.6 inch laptop featuring high performance graphics.,101,3.5
+SP1867,Fusion Phone,RivalTech,smartphone,280.7,Smartphone with long-lasting battery.,67,3.8
+SP1868,SmartPhone Y,Futura,smartphone,924.47,Smartphone with long-lasting battery.,92,4.5
+SP1869,Mobile Z,RivalTech,smartphone,1009.37,Smartphone with advanced camera system.,2,4.5
+TV1870,Ultra TV,CinemaCo,smart_tv,830.53,65 inch smart TV with sleek design.,174,3.8
+LP1871,Econo Note,NextGen,laptop,324.23,15.6 inch laptop featuring long battery life.,107,4.5
+SP1872,Mobile Z,NextCom,smartphone,1094.8,Smartphone with vivid display.,166,3.8
+LP1873,Econo Note,NextGen,laptop,571.51,14 inch laptop featuring lightweight design.,103,4.5
+TV1874,SmartView TV,ViewTech,smart_tv,1597.76,40 inch smart TV with HDR support.,63,4.2
+LP1875,Ultra Thin,NextGen,laptop,453.41,14 inch laptop featuring latest processor.,50,4.2
+SPK1876,BoomBox,BeatBox,speaker,155.67,Speaker delivering wireless connectivity.,155,4.5
+SPK1877,BoomBox,SoundCo,speaker,196.91,Speaker delivering deep bass.,100,4.0
+LP1878,Pro Book,NextGen,laptop,1688.77,15.6 inch laptop featuring latest processor.,109,3.5
+TV1879,SmartView TV,CinemaCo,smart_tv,738.26,55 inch smart TV with 4K resolution.,167,4.0
+SPK1880,Audio Pro,BeatBox,speaker,332.21,Speaker delivering crystal clear sound.,153,3.8
+LP1881,Performance Pro,UltraComp,laptop,625.31,13.3 inch laptop featuring high performance graphics.,65,4.3
+SP1882,Mobile Z,TechCo,smartphone,863.63,Smartphone with long-lasting battery.,76,3.8
+LP1883,Pro Book,UltraComp,laptop,444.33,14 inch laptop featuring high performance graphics.,17,3.5
+SPK1884,BoomBox,AudioMax,speaker,277.86,Speaker delivering compact design.,196,4.2
+SP1885,Fusion Phone,Futura,smartphone,326.43,Smartphone with advanced camera system.,163,3.8
+TV1886,Infinity TV,Spectra,smart_tv,2127.18,75 inch smart TV with sleek design.,165,3.3
+TV1887,SmartView TV,ViewTech,smart_tv,2646.87,50 inch smart TV with sleek design.,153,4.2
+SP1888,Maxi Phone,TechCo,smartphone,524.99,Smartphone with 5G connectivity.,91,3.8
+SPK1889,ClearSound,AudioMax,speaker,245.9,Speaker delivering deep bass.,34,0.0
+SPK1890,BoomBox,SoundCo,speaker,341.7,Speaker delivering wireless connectivity.,122,4.0
+TV1891,Infinity TV,CinemaCo,smart_tv,441.01,40 inch smart TV with sleek design.,80,3.5
+LP1892,Performance Pro,NextGen,laptop,1251.36,17 inch laptop featuring latest processor.,79,0.0
+SPK1893,BoomBox,BeatBox,speaker,54.78,Speaker delivering deep bass.,15,5.0
+SP1894,Mobile Z,RivalTech,smartphone,872.12,Smartphone with long-lasting battery.,11,4.0
+SP1895,SmartPhone Y,Futura,smartphone,532.39,Smartphone with long-lasting battery.,11,4.5
+LP1896,Ultra Thin,NextGen,laptop,1682.1,13.3 inch laptop featuring latest processor.,198,3.5
+SPK1897,BoomBox,AudioMax,speaker,215.16,Speaker delivering wireless connectivity.,60,3.3
+SPK1898,Bass Boost,AudioMax,speaker,258.75,Speaker delivering compact design.,0,5.0
+LP1899,Ultra Thin,EconCo,laptop,1761.76,13.3 inch laptop featuring latest processor.,187,4.0
+SPK1900,Audio Pro,BassLine,speaker,211.64,Speaker delivering wireless connectivity.,186,4.0
+LP1901,Performance Pro,EconCo,laptop,1376.2,15.6 inch laptop featuring lightweight design.,182,4.0
+SPK1902,Bass Boost,SoundCo,speaker,256.8,Speaker delivering wireless connectivity.,84,0.0
+LP1903,Ultra Thin,NextGen,laptop,443.18,15.6 inch laptop featuring long battery life.,139,4.4
+SPK1904,Bass Boost,BassLine,speaker,133.67,Speaker delivering compact design.,122,4.0
+LP1905,Econo Note,TechCo,laptop,992.42,13.3 inch laptop featuring latest processor.,66,3.6
+TV1906,Cinema TV,Spectra,smart_tv,2404.57,65 inch smart TV with sleek design.,174,3.5
+SP1907,Maxi Phone,TechCo,smartphone,654.32,Smartphone with advanced camera system.,160,2.5
+TV1908,SmartView TV,UltraVision,smart_tv,352.12,40 inch smart TV with sleek design.,40,4.0
+LP1909,Performance Pro,NextGen,laptop,1955.12,13.3 inch laptop featuring latest processor.,10,3.5
+LP1910,Econo Note,NextGen,laptop,335.82,13.3 inch laptop featuring long battery life.,181,3.8
+SPK1911,ClearSound,BassLine,speaker,447.32,Speaker delivering compact design.,85,3.0
+TV1912,Ultra TV,UltraVision,smart_tv,304.86,55 inch smart TV with 4K resolution.,81,4.5
+SP1913,Fusion Phone,Futura,smartphone,574.5,Smartphone with advanced camera system.,127,3.8
+TV1914,SmartView TV,UltraVision,smart_tv,2282.02,65 inch smart TV with sleek design.,150,4.2
+TV1915,Cinema TV,Spectra,smart_tv,444.17,65 inch smart TV with HDR support.,1,0.0
+SP1916,Fusion Phone,TechCo,smartphone,776.11,Smartphone with vivid display.,162,3.8
+TV1917,SmartView TV,Spectra,smart_tv,762.76,65 inch smart TV with 4K resolution.,103,3.7
+SPK1918,Bass Boost,BassLine,speaker,445.71,Speaker delivering wireless connectivity.,81,4.5
+SP1919,Maxi Phone,TechCo,smartphone,338.86,Smartphone with 5G connectivity.,117,4.3
+TV1920,Vivid TV,UltraVision,smart_tv,339.56,50 inch smart TV with sleek design.,96,4.0
+SP1921,Maxi Phone,NextCom,smartphone,651.83,Smartphone with 5G connectivity.,143,4.5
+SPK1922,Audio Pro,BassLine,speaker,100.29,Speaker delivering wireless connectivity.,24,3.8
+SP1923,Maxi Phone,NextCom,smartphone,967.9,Smartphone with vivid display.,136,4.0
+SPK1924,Audio Pro,SoundCo,speaker,186.12,Speaker delivering wireless connectivity.,27,0.0
+LP1925,Econo Note,NextGen,laptop,1121.57,17 inch laptop featuring long battery life.,177,3.9
+SP1926,Mobile Z,TechCo,smartphone,972.89,Smartphone with 5G connectivity.,191,3.8
+SP1927,Fusion Phone,Futura,smartphone,291.24,Smartphone with long-lasting battery.,163,4.8
+LP1928,Ultra Thin,EconCo,laptop,392.97,17 inch laptop featuring long battery life.,68,4.5
+TV1929,SmartView TV,ViewTech,smart_tv,2767.38,65 inch smart TV with sleek design.,145,0.0
+TV1930,Ultra TV,Spectra,smart_tv,2014.29,50 inch smart TV with sleek design.,149,4.0
+SP1931,SmartPhone X,NextCom,smartphone,229.14,Smartphone with long-lasting battery.,49,4.0
+SP1932,Maxi Phone,TechCo,smartphone,955.85,Smartphone with long-lasting battery.,186,4.2
+SPK1933,Bass Boost,AudioMax,speaker,478.16,Speaker delivering deep bass.,3,4.0
+SPK1934,BoomBox,BeatBox,speaker,169.76,Speaker delivering crystal clear sound.,7,3.5
+SPK1935,SoundWave,AudioMax,speaker,135.83,Speaker delivering crystal clear sound.,12,4.0
+TV1936,Infinity TV,CinemaCo,smart_tv,2519.44,50 inch smart TV with 4K resolution.,14,4.8
+SP1937,SmartPhone Y,Futura,smartphone,277.5,Smartphone with advanced camera system.,100,4.2
+SPK1938,BoomBox,BassLine,speaker,288.92,Speaker delivering deep bass.,177,3.5
+SPK1939,Audio Pro,SoundCo,speaker,334.2,Speaker delivering crystal clear sound.,173,0.0
+SPK1940,ClearSound,BeatBox,speaker,210.13,Speaker delivering wireless connectivity.,2,3.3
+SP1941,Maxi Phone,TechCo,smartphone,732.67,Smartphone with vivid display.,168,4.0
+SPK1942,Bass Boost,SoundCo,speaker,423.21,Speaker delivering compact design.,33,3.8
+SPK1943,Bass Boost,AudioMax,speaker,256.22,Speaker delivering crystal clear sound.,132,4.2
+SPK1944,ClearSound,BassLine,speaker,450.53,Speaker delivering deep bass.,165,0.0
+LP1945,Ultra Thin,UltraComp,laptop,1710.41,14 inch laptop featuring high performance graphics.,193,4.2
+LP1946,Pro Book,TechCo,laptop,1526.98,15.6 inch laptop featuring latest processor.,123,4.2
+LP1947,Business Mate,NextGen,laptop,1555.32,17 inch laptop featuring high performance graphics.,127,4.0
+TV1948,Cinema TV,CinemaCo,smart_tv,2608.06,50 inch smart TV with HDR support.,130,0.0
+SP1949,Fusion Phone,NextCom,smartphone,908.81,Smartphone with vivid display.,70,4.2
+SPK1950,ClearSound,AudioMax,speaker,181.33,Speaker delivering deep bass.,105,3.5
+TV1951,Cinema TV,CinemaCo,smart_tv,2243.49,55 inch smart TV with HDR support.,35,4.2
+LP1952,Ultra Thin,EconCo,laptop,397.96,15.6 inch laptop featuring high performance graphics.,146,3.5
+TV1953,SmartView TV,Spectra,smart_tv,1294.26,40 inch smart TV with sleek design.,59,4.5
+SP1954,SmartPhone Y,RivalTech,smartphone,329.02,Smartphone with vivid display.,133,4.2
+TV1955,Cinema TV,CinemaCo,smart_tv,2133.34,65 inch smart TV with HDR support.,191,4.0
+SPK1956,Bass Boost,BeatBox,speaker,248.5,Speaker delivering crystal clear sound.,79,3.8
+TV1957,Infinity TV,ViewTech,smart_tv,1276.64,50 inch smart TV with sleek design.,131,4.1
+LP1958,Ultra Thin,TechCo,laptop,1699.93,13.3 inch laptop featuring long battery life.,65,4.5
+TV1959,Infinity TV,CinemaCo,smart_tv,1389.93,75 inch smart TV with 4K resolution.,149,0.0
+SP1960,SmartPhone X,Futura,smartphone,613.76,Smartphone with vivid display.,189,0.0
+LP1961,Performance Pro,NextGen,laptop,831.29,14 inch laptop featuring latest processor.,120,4.0
+TV1962,Cinema TV,UltraVision,smart_tv,710.08,55 inch smart TV with smart connectivity.,45,4.0
+SP1963,Maxi Phone,NextCom,smartphone,392.6,Smartphone with vivid display.,55,3.7
+SP1964,SmartPhone X,RivalTech,smartphone,278.32,Smartphone with 5G connectivity.,12,3.5
+SP1965,Maxi Phone,RivalTech,smartphone,329.0,Smartphone with long-lasting battery.,50,3.8
+SP1966,SmartPhone X,RivalTech,smartphone,571.13,Smartphone with long-lasting battery.,59,3.8
+SP1967,SmartPhone X,RivalTech,smartphone,592.77,Smartphone with advanced camera system.,8,4.0
+LP1968,Pro Book,TechCo,laptop,1012.31,13.3 inch laptop featuring long battery life.,129,3.2
+TV1969,SmartView TV,ViewTech,smart_tv,2482.89,65 inch smart TV with smart connectivity.,0,4.0
+SP1970,SmartPhone Y,RivalTech,smartphone,316.48,Smartphone with 5G connectivity.,68,4.2
+SPK1971,Audio Pro,BeatBox,speaker,209.62,Speaker delivering crystal clear sound.,156,3.8
+SP1972,SmartPhone X,Futura,smartphone,960.97,Smartphone with advanced camera system.,92,4.2
+LP1973,Performance Pro,EconCo,laptop,1159.22,17 inch laptop featuring high performance graphics.,28,4.0
+LP1974,Ultra Thin,EconCo,laptop,1236.3,13.3 inch laptop featuring long battery life.,197,4.2
+LP1975,Pro Book,UltraComp,laptop,1650.21,15.6 inch laptop featuring latest processor.,29,3.5
+SPK1976,Bass Boost,BassLine,speaker,228.62,Speaker delivering crystal clear sound.,68,4.3
+LP1977,Ultra Thin,NextGen,laptop,507.29,15.6 inch laptop featuring high performance graphics.,73,3.6
+TV1978,SmartView TV,ViewTech,smart_tv,889.68,55 inch smart TV with 4K resolution.,134,0.0
+LP1979,Pro Book,UltraComp,laptop,1600.17,14 inch laptop featuring lightweight design.,38,4.2
+SP1980,SmartPhone X,Futura,smartphone,1056.11,Smartphone with advanced camera system.,108,4.5
+LP1981,Performance Pro,UltraComp,laptop,1377.93,14 inch laptop featuring latest processor.,190,4.0
+TV1982,Cinema TV,UltraVision,smart_tv,2390.3,40 inch smart TV with HDR support.,100,3.5
+TV1983,Cinema TV,Spectra,smart_tv,2744.43,40 inch smart TV with sleek design.,107,4.0
+LP1984,Econo Note,TechCo,laptop,1103.63,13.3 inch laptop featuring latest processor.,135,0.0
+SPK1985,Bass Boost,AudioMax,speaker,449.2,Speaker delivering compact design.,86,3.5
+TV1986,SmartView TV,Spectra,smart_tv,1491.92,55 inch smart TV with smart connectivity.,156,4.0
+SP1987,SmartPhone Y,Futura,smartphone,830.06,Smartphone with vivid display.,3,4.5
+LP1988,Econo Note,TechCo,laptop,1281.55,13.3 inch laptop featuring high performance graphics.,87,3.5
+LP1989,Econo Note,EconCo,laptop,1696.24,15.6 inch laptop featuring lightweight design.,73,4.8
+SPK1990,Bass Boost,AudioMax,speaker,479.33,Speaker delivering deep bass.,54,4.0
+LP1991,Ultra Thin,EconCo,laptop,1729.18,17 inch laptop featuring long battery life.,45,4.2
+TV1992,Cinema TV,UltraVision,smart_tv,1421.93,55 inch smart TV with HDR support.,114,3.8
+LP1993,Pro Book,TechCo,laptop,313.04,17 inch laptop featuring long battery life.,130,4.0
+SP1994,Fusion Phone,RivalTech,smartphone,1068.64,Smartphone with 5G connectivity.,68,4.3
+TV1995,Infinity TV,UltraVision,smart_tv,794.77,65 inch smart TV with sleek design.,36,0.0
+TV1996,Cinema TV,Spectra,smart_tv,1535.56,55 inch smart TV with HDR support.,125,3.2
+TV1997,SmartView TV,UltraVision,smart_tv,1980.76,55 inch smart TV with HDR support.,85,4.7
+SP1998,Fusion Phone,RivalTech,smartphone,260.62,Smartphone with advanced camera system.,134,3.0
+TV1999,SmartView TV,ViewTech,smart_tv,2919.33,65 inch smart TV with smart connectivity.,171,4.0
+LP2000,Econo Note,EconCo,laptop,1335.37,13.3 inch laptop featuring latest processor.,191,4.2

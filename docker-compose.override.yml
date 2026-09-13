@@ -1,0 +1,10 @@
+# Local-only override: this machine already has a Homebrew PostgreSQL@16
+# service bound to 127.0.0.1:5432, which intercepts connections meant for
+# the Docker container on the same host port. Remap the container's
+# published port to 5433 instead of editing docker-compose.yml (which stays
+# correct for machines without this conflict). Delete this file, or don't
+# create it, on a machine where port 5432 is free.
+services:
+  postgres:
+    ports:
+      - "5433:5432"
