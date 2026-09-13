@@ -34,3 +34,6 @@ Reference/
 # Agentic AI implementation kept local-only for now
 app/agents/
 tests/agents/
+
+# Skills/tooling templates kept local-only
+skills/
