@@ -16,6 +16,8 @@ quarantine/
 # Local tool config — not part of the public code surface
 .claude/
 .agents/
+CLAUDE.md
+AGENTS.md
 
 # Kept local-only per project decision: implementation *plans* are tracked
 # (see specs/*/*-implementation-plan.md), but specifications, architecture/
