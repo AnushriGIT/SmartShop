@@ -29,6 +29,7 @@ specs/1_data-pipeline/smartshop-data-models.md
 specs/1_data-pipeline/data_pipeline_smartshop_spec.md
 specs/1_data-pipeline/smartshop-implementation-guide.md
 specs/2_coordinator-agent/smartshop-coordinator-agent-spec.md
+specs/2_coordinator-agent/smartshop-coordinator-agent-phase3a-part2-groundedness-spec.md
 
 # Reference/learning material kept local-only
 Reference/
