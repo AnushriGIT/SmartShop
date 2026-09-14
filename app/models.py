@@ -25,6 +25,19 @@ Rating = Annotated[float, Field(ge=0, le=5)]
 """Inclusive five-point rating scale used by products and reviews."""
 
 
+PolicyType = Literal[
+	"exchanges",
+	"financing",
+	"preorder",
+	"price_matching",
+	"repairs",
+	"returns",
+	"shipping",
+	"warranty",
+]
+"""The 8 store policy categories used by ``data/store_policies.csv``."""
+
+
 class SmartshopModel(BaseModel):
 	"""Common strict configuration shared by all Smartshop models."""
 
@@ -64,16 +77,7 @@ class StorePolicy(SmartshopModel):
 	this model so the application works with a structured list.
 	"""
 
-	policy_type: Literal[
-		"exchanges",
-		"financing",
-		"preorder",
-		"price_matching",
-		"repairs",
-		"returns",
-		"shipping",
-		"warranty",
-	]
+	policy_type: PolicyType
 	description: str = Field(min_length=1, max_length=300)
 	conditions: list[str] = Field(min_length=1)
 	timeframe: int = Field(ge=0)
