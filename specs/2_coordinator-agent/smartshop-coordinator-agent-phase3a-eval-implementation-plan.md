@@ -1,9 +1,16 @@
 # Phase 3a — Validation: Routing-Accuracy & Golden Q&A Evaluation Harness
 
-**Status:** 📋 Approved, not yet implemented (2026-09-14)
+**Status:** ✅ Implemented and verified (2026-09-14) — 7/7 eval tests passing against the real OpenAI API; fast suite (101 tests) unaffected
 **Governing spec:** [smartshop-coordinator-agent-spec.md](smartshop-coordinator-agent-spec.md) (Section 13, Phase 3 row; Section 12 requirement)
 **Precedes:** The FastAPI layer (Section 1/7) — deliberately out of scope here, deferred to its own follow-up plan (Phase 3b)
-**Test generation log:** [.agents/memory-bank/testGenerationLog.md](../../.agents/memory-bank/testGenerationLog.md) (this plan's tests will land as the v6 entry)
+**Test generation log:** [.agents/memory-bank/testGenerationLog.md](../../.agents/memory-bank/testGenerationLog.md) (v6 entry)
+
+## Implementation Notes (added post-implementation)
+
+- **Observed routing-accuracy baseline (2026-09-14, `gpt-4o-mini`, 29 cases)**: 27/29 correct (93.1%). One further case (`"What's the difference between LP0002 and LP0007?"`) raised `pydantic_ai.exceptions.UnexpectedModelBehavior: Exceeded maximum output retries (1)` — the model's structured output failed PydanticAI's own retry-validation loop, a real and occasional failure mode of a live LLM call rather than a simple misclassification. The one clear miss: `"Cancel my order number 12345."` routed to `policy_faq_agent` instead of the expected `"none"`.
+- **Design adjustment made during this run, not anticipated in the draft plan**: the aggregate test originally called `agent.run(query)` unguarded — the `UnexpectedModelBehavior` case above then crashed the whole test instead of counting as one miss. Wrapped each call in `try/except Exception`, recording a failed call as a miss with the exception repr in the failure message — consistent with the eval harness's purpose (measuring real-world reliability, including validation failures) rather than only measuring classification correctness.
+- **Threshold set from the observed baseline**: 93.1% observed → asserted at **80%** (allows up to ~5 more misses out of 29 before failing), giving headroom for normal LLM run-to-run variance without going flaky while still catching a real regression. See spec Section 11/Appendix A.
+- All 6 golden Q&A cases — including both known-bug regressions (category pluralization, policy-number matching) — passed on first real run; no further fixes needed.
 
 ## Context
 
