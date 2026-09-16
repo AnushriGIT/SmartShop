@@ -1,9 +1,17 @@
 # Phase 3b — FastAPI Layer Implementation Plan
 
-**Status:** 📋 Approved, not yet implemented (2026-09-16)
+**Status:** ✅ Implemented and verified (2026-09-16) — 5/5 contract tests passing, 116/116 in the full fast suite (zero regressions), plus a real end-to-end run (`uvicorn` + `curl`, real OpenAI API) covering health, a genuine coordinator round-trip, and both validation-error boundaries.
 **Governing spec:** [smartshop-coordinator-agent-spec.md](smartshop-coordinator-agent-spec.md) Section 13 (Phase 3 row), Section 1 (Deployment Topology), Section 7 (Dependency Injection & Resource Lifecycle); `specs/smartshop-project-requirements.md` Section 7 (API and UI Requirements) — the actual requirement text (health endpoint, query endpoint, separate request/response models, clear validation errors, contract tests).
-**Precedes:** Nothing further planned yet within Phase 3 — this is the last deferred piece (3a shipped the eval harness, 3a Part 2 shipped groundedness, this is 3b).
-**Test generation log:** [.agents/memory-bank/testGenerationLog.md](../../.agents/memory-bank/testGenerationLog.md) (will land as the `v9` entry)
+**Precedes:** Nothing further planned yet within Phase 3 — this was the last deferred piece (3a shipped the eval harness, 3a Part 2 shipped groundedness, this is 3b).
+**Test generation log:** [.agents/memory-bank/testGenerationLog.md](../../.agents/memory-bank/testGenerationLog.md) (`v9` entry)
+
+## Implementation Notes (added post-implementation)
+
+- **Built exactly as designed** — no design changes were needed during implementation, unlike every prior phase. The one real surprise was environmental, not architectural (next point).
+- **This project's pinned FastAPI/Starlette versions (`fastapi==0.141.1`, `starlette==1.6.0`) are much newer than commonly-assumed defaults, with a materially different internal routing representation** — `app.routes` no longer shows a flat list of registered paths after `include_router()` (an `_IncludedRouter` wrapper with an "effective candidates" routing architecture instead). Caught via `python -c "... app.routes ..."` introspection before writing any tests (Rule 9 — verify against reality); confirmed the routes still dispatch correctly via `TestClient` regardless, so no code change was needed, only that my mental model of what `app.routes` would print was wrong.
+- **`TestClient.raise_server_exceptions` is constructor-only in this Starlette version** — setting it on an already-built client (`client.raise_server_exceptions = False`) silently has no effect. The one test that needs it (verifying the global exception handler doesn't leak a raw exception message) builds its own `TestClient(app, raise_server_exceptions=False)` instance rather than reusing the shared fixture's client. Caught by actually running the test and seeing the exception propagate into the test instead of returning a 500 — not assumed correct.
+- **Real end-to-end verification** (`uvicorn app.api.main:app`, then `curl`): server started cleanly (lifespan built the catalog + all 5 agents without error); `GET /health` → `200 {"status":"ok"}`; `POST /query` with `"What do people say about SP0001?"` → a real coordinator → review-agent round trip through HTTP, correct `ReviewSummaryResponse` shape and real generated content; empty query → `422` with safe structured field-level detail; a 2001-character query → `422`, correctly rejected at the schema boundary. No attempt was made to force a real 500 from the live server (would require deliberately breaking something with no real additional coverage over the already-passing mocked exception-handler test).
+- All of `app/api/`/`tests/api/` stayed local-only per the confirmed git scope — only `.gitignore`'s new exclusion lines and this file's status update are tracked.
 
 ## Context
 

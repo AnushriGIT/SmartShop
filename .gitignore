@@ -38,5 +38,10 @@ Reference/
 app/agents/
 tests/agents/
 
+# API layer kept local-only too — it imports directly from app/agents/,
+# which is untracked, so tracking it alone would push unresolvable imports
+app/api/
+tests/api/
+
 # Skills/tooling templates kept local-only
 skills/
