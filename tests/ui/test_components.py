@@ -1,0 +1,143 @@
+"""Tests for render_coordinator_response's dispatch across all 7 CoordinatorResponse shapes.
+
+Uses AppTest.from_function to run each call inside a real Streamlit script
+context (bare calls to st.* outside one only warn/no-op) and inspect the
+resulting elements — the same headless mechanism test_pages.py uses for
+full pages, applied directly to the shared renderer instead.
+"""
+
+from streamlit.testing.v1 import AppTest
+
+
+def _render_script(data: dict) -> None:
+    from app.ui.components import render_coordinator_response
+
+    render_coordinator_response(data)
+
+
+def _run(data: dict) -> AppTest:
+    at = AppTest.from_function(_render_script, kwargs={"data": data})
+    at.run()
+    assert not at.exception, f"render_coordinator_response raised: {at.exception}"
+    return at
+
+
+def test_review_summary_shape():
+    at = _run({"product_id": "SP0001", "summary": "Customers like it.", "sentiment": "positive", "review_count": 3})
+
+    assert "SP0001" in at.subheader[0].value
+    assert "positive" in at.caption[0].value
+    assert at.markdown[0].value == "Customers like it."
+
+
+def test_recommendation_shape_with_products():
+    data = {
+        "rationale": "These fit your budget.",
+        "products": [
+            {
+                "id": "SPK0012",
+                "name": "SoundWave",
+                "brand": "SoundCo",
+                "category": "speaker",
+                "price": "51.16",
+                "description": "Compact design.",
+                "stock": 10,
+                "rating": 4.5,
+            }
+        ],
+    }
+    at = _run(data)
+
+    assert at.markdown[0].value == "These fit your budget."
+    assert "SoundWave" in at.markdown[1].value
+
+
+def test_recommendation_shape_with_no_products():
+    at = _run({"rationale": "Nothing matched your filters.", "products": []})
+
+    assert at.info[0].value == "No products matched."
+
+
+def test_comparison_shape():
+    data = {
+        "differences": ["A is cheaper", "B has a higher rating"],
+        "products": [
+            {
+                "id": "SP0001",
+                "name": "Mobile Z",
+                "brand": "TechCo",
+                "category": "smartphone",
+                "price": "588.48",
+                "description": "5G phone.",
+                "stock": 43,
+                "rating": 4.0,
+            },
+            {
+                "id": "SP0004",
+                "name": "SmartPhone Y",
+                "brand": "RivalTech",
+                "category": "smartphone",
+                "price": "413.39",
+                "description": "Long battery.",
+                "stock": 63,
+                "rating": 4.5,
+            },
+        ],
+    }
+    at = _run(data)
+
+    markdown_values = [m.value for m in at.markdown]
+    assert any("A is cheaper" in v for v in markdown_values)
+    assert any("Mobile Z" in v for v in markdown_values)
+    assert any("SmartPhone Y" in v for v in markdown_values)
+
+
+def test_policy_shape_with_a_matched_policy():
+    data = {
+        "policy": {
+            "policy_type": "returns",
+            "description": "Laptop Return Policy",
+            "conditions": ["Must be unopened"],
+            "timeframe": 14,
+        },
+        "answer": "You have 14 days to return a laptop.",
+    }
+    at = _run(data)
+
+    markdown_values = [m.value for m in at.markdown]
+    assert any("Returns policy" in v for v in markdown_values)
+    assert any("Must be unopened" in v for v in markdown_values)
+    # st.write(str) renders as a markdown element too — the answer is the last one.
+    assert at.markdown[-1].value == "You have 14 days to return a laptop."
+
+
+def test_policy_shape_with_no_matched_policy():
+    at = _run({"policy": None, "answer": "I don't have a specific policy on file for that."})
+
+    # No policy-detail block (description/conditions) — just the answer itself.
+    assert len(at.markdown) == 1
+    assert at.markdown[0].value == "I don't have a specific policy on file for that."
+
+
+def test_clarification_shape():
+    at = _run({"question": "Which product are you asking about?"})
+
+    assert at.info[0].value == "Which product are you asking about?"
+
+
+def test_fallback_shape():
+    at = _run({"message": "I don't have a specialized agent for that kind of request yet."})
+
+    assert at.warning[0].value == "I don't have a specialized agent for that kind of request yet."
+
+
+def test_error_shape():
+    at = _run({"error": {"code": "unknown_product_id", "message": "No product with id 'SP9999'.", "sub_agent": "review_summary_agent"}})
+
+    assert at.error[0].value == "No product with id 'SP9999'."
+
+
+def test_unrecognized_shape_shows_a_generic_error_instead_of_crashing():
+    at = _run({"unexpected_field": "value"})
+
+    assert "unrecognized" in at.error[0].value.lower()

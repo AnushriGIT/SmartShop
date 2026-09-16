@@ -1,9 +1,18 @@
 # Phase 4a — Streamlit UI Implementation Plan
 
-**Status:** 📋 Approved, not yet implemented (2026-09-16)
+**Status:** ✅ Implemented and verified (2026-09-16) — 25/25 contract tests passing (7 client, 10 components, 8 pages), 141/141 in the full fast suite (zero regressions), plus real end-to-end verification (real `uvicorn` + `AppTest`-driven interactions against the live server, real OpenAI API) covering the chat assistant, review summaries, and recommendations with form widgets.
 **Governing spec:** [smartshop-coordinator-agent-spec.md](smartshop-coordinator-agent-spec.md) Section 13 (Phase 4 row), Section 8 (Cognitive Features — streaming's trigger condition); `specs/smartshop-project-requirements.md` Section 7 (UI Requirements — the 5 required workflows), Section 10 (Week 7 delivery slot).
 **Precedes:** Phase 4b (backend hardening — rate limiting, caching, cost/telemetry monitoring), a separate plan not yet drafted. Split confirmed with the user: 2 plans, UI first.
-**Test generation log:** [.agents/memory-bank/testGenerationLog.md](../../.agents/memory-bank/testGenerationLog.md) (will land as the `v10` entry)
+**Test generation log:** [.agents/memory-bank/testGenerationLog.md](../../.agents/memory-bank/testGenerationLog.md) (`v10` entry)
+
+## Implementation Notes (added post-implementation)
+
+- **Built exactly as designed** — no architecture changes during implementation. All findings below were test-tooling discoveries, not design flaws.
+- **`AppTest.from_file`'s relative-path resolution is against the *calling* file's directory, not the cwd** — `AppTest.from_file("app/ui/streamlit_app.py")` called from `tests/ui/test_pages.py` resolved to `tests/ui/app/ui/streamlit_app.py` and failed with `FileNotFoundError`. Caught immediately by running the tests (Rule 9), not assumed from the docstring. Fixed with a small `_app_test()` helper building absolute paths from the project root.
+- **`st.write(str)` renders as a `Markdown` element in `AppTest`, not a separate `Text` element** — an initial assumption (`at.text[0].value`) was wrong; verified by running the test and reading the actual `ElementList` contents, not by reading Streamlit's source. Fixed to assert against `at.markdown[-1].value` instead.
+- **A stray, unrelated `uvicorn` process was already listening on port 8000** (a different project's server, running since 2026-08-22, unrelated Python install) — discovered while running the first real-verification smoke test, when a health check against the default port succeeded suspiciously easily. Not touched (not this session's process to kill); the real verification instead used an explicit non-default port (8123, matching Phase 3b's own smoke-test convention) so results couldn't be confused with that unrelated server.
+- **Real end-to-end verification needed a longer `AppTest` timeout than the 3s default** — a genuine OpenAI round-trip through the full stack (Streamlit → `httpx` → FastAPI → `handle_query` → coordinator → sub-agent) legitimately takes longer than 3 seconds; the mocked contract-test suite never hits this since `FakeClient` returns instantly. Used `at.run(timeout=30)` for the real checks only — no code change, this was purely a verification-script detail.
+- One already-known, unrelated residual behavior surfaced again during real verification (not a new bug, not investigated further): `review_summary_agent` occasionally still classifies `SP0001`'s 2 borderline reviews (3.5/5, 4.5/5) as `sentiment="mixed"` — the same non-100%-eliminated LLM non-determinism already documented in the Phase 3a Part 2 implementation plan's own notes.
 
 ## Context
 
